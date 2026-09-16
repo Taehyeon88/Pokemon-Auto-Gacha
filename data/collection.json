@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 3,
-  "updatedAt": "2026-09-16T06:51:52.414Z",
+  "totalPulls": 4,
+  "updatedAt": "2026-09-16T12:26:16.523Z",
   "lastPull": {
-    "id": 853,
-    "name": "grapploct",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+    "id": 681,
+    "name": "aegislash-shield",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
     "types": [
-      "fighting"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-09-16T06:51:52.414Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T12:26:16.523Z"
   },
   "pulls": [
+    {
+      "id": 681,
+      "name": "aegislash-shield",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T12:26:16.523Z"
+    },
     {
       "id": 853,
       "name": "grapploct",
@@ -66,6 +79,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:21.080Z",
       "lastPulledAt": "2026-09-16T01:51:21.080Z"
+    },
+    "681": {
+      "id": 681,
+      "name": "aegislash-shield",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T12:26:16.523Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T12:26:16.523Z",
+      "lastPulledAt": "2026-09-16T12:26:16.523Z"
     },
     "755": {
       "id": 755,
