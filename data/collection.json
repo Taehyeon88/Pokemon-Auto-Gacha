@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 4,
-  "updatedAt": "2026-09-16T12:26:16.523Z",
+  "totalPulls": 5,
+  "updatedAt": "2026-09-16T17:13:24.618Z",
   "lastPull": {
-    "id": 681,
-    "name": "aegislash-shield",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+    "id": 706,
+    "name": "goodra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
     "types": [
-      "steel",
-      "ghost"
+      "dragon"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T12:26:16.523Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-16T17:13:24.618Z"
   },
   "pulls": [
+    {
+      "id": 706,
+      "name": "goodra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T17:13:24.618Z"
+    },
     {
       "id": 681,
       "name": "aegislash-shield",
@@ -95,6 +105,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:26:16.523Z",
       "lastPulledAt": "2026-09-16T12:26:16.523Z"
+    },
+    "706": {
+      "id": 706,
+      "name": "goodra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T17:13:24.618Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T17:13:24.618Z",
+      "lastPulledAt": "2026-09-16T17:13:24.618Z"
     },
     "755": {
       "id": 755,
