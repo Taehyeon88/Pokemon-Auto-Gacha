@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 12,
-  "updatedAt": "2026-09-17T19:54:41.590Z",
+  "totalPulls": 13,
+  "updatedAt": "2026-09-17T22:41:24.923Z",
   "lastPull": {
-    "id": 673,
-    "name": "gogoat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+    "id": 257,
+    "name": "blaziken",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
     "types": [
-      "grass"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 531,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-09-17T19:54:41.590Z"
+    "pulledAt": "2026-09-17T22:41:24.923Z"
   },
   "pulls": [
+    {
+      "id": 257,
+      "name": "blaziken",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T22:41:24.923Z"
+    },
     {
       "id": 673,
       "name": "gogoat",
@@ -117,17 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-16T12:26:16.523Z"
-    },
-    {
-      "id": 853,
-      "name": "grapploct",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-16T06:51:52.414Z"
     }
   ],
   "pokemon": {
@@ -177,6 +179,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:21.080Z",
       "lastPulledAt": "2026-09-16T01:51:21.080Z"
+    },
+    "257": {
+      "id": 257,
+      "name": "blaziken",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T22:41:24.923Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T22:41:24.923Z",
+      "lastPulledAt": "2026-09-17T22:41:24.923Z"
     },
     "548": {
       "id": 548,
