@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 11,
-  "updatedAt": "2026-09-17T16:49:12.735Z",
+  "totalPulls": 12,
+  "updatedAt": "2026-09-17T19:54:41.590Z",
   "lastPull": {
-    "id": 89,
-    "name": "muk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "id": 673,
+    "name": "gogoat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
     "types": [
-      "poison"
+      "grass"
     ],
-    "totalStats": 500,
+    "totalStats": 531,
     "grade": "SR",
-    "pulledAt": "2026-09-17T16:49:12.735Z"
+    "pulledAt": "2026-09-17T19:54:41.590Z"
   },
   "pulls": [
+    {
+      "id": 673,
+      "name": "gogoat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 531,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T19:54:41.590Z"
+    },
     {
       "id": 89,
       "name": "muk",
@@ -117,18 +128,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-16T06:51:52.414Z"
-    },
-    {
-      "id": 228,
-      "name": "houndour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
-      "types": [
-        "dark",
-        "fire"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:51:21.080Z"
     }
   ],
   "pokemon": {
@@ -193,6 +192,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T23:00:39.793Z",
       "lastPulledAt": "2026-09-16T23:00:39.793Z"
+    },
+    "673": {
+      "id": 673,
+      "name": "gogoat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 531,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T19:54:41.590Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T19:54:41.590Z",
+      "lastPulledAt": "2026-09-17T19:54:41.590Z"
     },
     "681": {
       "id": 681,
