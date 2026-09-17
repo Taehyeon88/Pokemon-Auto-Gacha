@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 9,
-  "updatedAt": "2026-09-17T06:27:01.335Z",
+  "totalPulls": 10,
+  "updatedAt": "2026-09-17T11:58:35.740Z",
   "lastPull": {
-    "id": 802,
-    "name": "marshadow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+    "id": 122,
+    "name": "mr-mime",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
     "types": [
-      "fighting",
-      "ghost"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-17T06:27:01.335Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-09-17T11:58:35.740Z"
   },
   "pulls": [
+    {
+      "id": 122,
+      "name": "mr-mime",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-17T11:58:35.740Z"
+    },
     {
       "id": 802,
       "name": "marshadow",
@@ -122,6 +134,22 @@
     }
   ],
   "pokemon": {
+    "122": {
+      "id": 122,
+      "name": "mr-mime",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-17T11:58:35.740Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T11:58:35.740Z",
+      "lastPulledAt": "2026-09-17T11:58:35.740Z"
+    },
     "228": {
       "id": 228,
       "name": "houndour",
