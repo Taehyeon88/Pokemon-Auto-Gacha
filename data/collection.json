@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 8,
-  "updatedAt": "2026-09-17T01:20:28.767Z",
+  "totalPulls": 9,
+  "updatedAt": "2026-09-17T06:27:01.335Z",
   "lastPull": {
-    "id": 1013,
-    "name": "sinistcha",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+    "id": 802,
+    "name": "marshadow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
     "types": [
-      "grass",
+      "fighting",
       "ghost"
     ],
-    "totalStats": 508,
-    "grade": "SR",
-    "pulledAt": "2026-09-17T01:20:28.767Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-17T06:27:01.335Z"
   },
   "pulls": [
+    {
+      "id": 802,
+      "name": "marshadow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-17T06:27:01.335Z"
+    },
     {
       "id": 1013,
       "name": "sinistcha",
@@ -187,6 +199,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:03.738Z",
       "lastPulledAt": "2026-09-16T01:47:03.738Z"
+    },
+    "802": {
+      "id": 802,
+      "name": "marshadow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-17T06:27:01.335Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T06:27:01.335Z",
+      "lastPulledAt": "2026-09-17T06:27:01.335Z"
     },
     "853": {
       "id": 853,
