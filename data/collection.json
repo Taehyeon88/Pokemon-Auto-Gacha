@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 19,
-  "updatedAt": "2026-09-18T19:57:51.462Z",
+  "totalPulls": 20,
+  "updatedAt": "2026-09-18T22:26:31.113Z",
   "lastPull": {
-    "id": 328,
-    "name": "trapinch",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
+    "id": 354,
+    "name": "banette",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
     "types": [
-      "ground"
+      "ghost"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-09-18T19:57:51.462Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-09-18T22:26:31.113Z"
   },
   "pulls": [
+    {
+      "id": 354,
+      "name": "banette",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-18T22:26:31.113Z"
+    },
     {
       "id": 328,
       "name": "trapinch",
@@ -115,18 +126,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-17T16:49:12.735Z"
-    },
-    {
-      "id": 122,
-      "name": "mr-mime",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-17T11:58:35.740Z"
     }
   ],
   "pokemon": {
@@ -223,6 +222,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T19:57:51.462Z",
       "lastPulledAt": "2026-09-18T19:57:51.462Z"
+    },
+    "354": {
+      "id": 354,
+      "name": "banette",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-18T22:26:31.113Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T22:26:31.113Z",
+      "lastPulledAt": "2026-09-18T22:26:31.113Z"
     },
     "463": {
       "id": 463,
