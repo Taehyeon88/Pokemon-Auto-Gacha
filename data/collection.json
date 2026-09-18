@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 16,
-  "updatedAt": "2026-09-18T09:54:00.813Z",
+  "totalPulls": 17,
+  "updatedAt": "2026-09-18T14:07:10.623Z",
   "lastPull": {
-    "id": 227,
-    "name": "skarmory",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+    "id": 463,
+    "name": "lickilicky",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
     "types": [
-      "steel",
-      "flying"
+      "normal"
     ],
-    "totalStats": 465,
-    "grade": "R",
-    "pulledAt": "2026-09-18T09:54:00.813Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-09-18T14:07:10.623Z"
   },
   "pulls": [
+    {
+      "id": 463,
+      "name": "lickilicky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T14:07:10.623Z"
+    },
     {
       "id": 227,
       "name": "skarmory",
@@ -119,17 +129,6 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-09-17T01:20:28.767Z"
-    },
-    {
-      "id": 548,
-      "name": "petilil",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-09-16T23:00:39.793Z"
     }
   ],
   "pokemon": {
@@ -211,6 +210,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T22:41:24.923Z",
       "lastPulledAt": "2026-09-17T22:41:24.923Z"
+    },
+    "463": {
+      "id": 463,
+      "name": "lickilicky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T14:07:10.623Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T14:07:10.623Z",
+      "lastPulledAt": "2026-09-18T14:07:10.623Z"
     },
     "548": {
       "id": 548,
