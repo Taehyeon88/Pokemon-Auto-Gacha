@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 17,
-  "updatedAt": "2026-09-18T14:07:10.623Z",
+  "totalPulls": 18,
+  "updatedAt": "2026-09-18T17:39:55.984Z",
   "lastPull": {
-    "id": 463,
-    "name": "lickilicky",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+    "id": 678,
+    "name": "meowstic-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
     "types": [
-      "normal"
+      "psychic"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-09-18T14:07:10.623Z"
+    "totalStats": 466,
+    "grade": "R",
+    "pulledAt": "2026-09-18T17:39:55.984Z"
   },
   "pulls": [
+    {
+      "id": 678,
+      "name": "meowstic-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 466,
+      "grade": "R",
+      "pulledAt": "2026-09-18T17:39:55.984Z"
+    },
     {
       "id": 463,
       "name": "lickilicky",
@@ -117,18 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-17T06:27:01.335Z"
-    },
-    {
-      "id": 1013,
-      "name": "sinistcha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 508,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T01:20:28.767Z"
     }
   ],
   "pokemon": {
@@ -255,6 +254,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T19:54:41.590Z",
       "lastPulledAt": "2026-09-17T19:54:41.590Z"
+    },
+    "678": {
+      "id": 678,
+      "name": "meowstic-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 466,
+      "grade": "R",
+      "pulledAt": "2026-09-18T17:39:55.984Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T17:39:55.984Z",
+      "lastPulledAt": "2026-09-18T17:39:55.984Z"
     },
     "681": {
       "id": 681,
