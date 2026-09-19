@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 24,
-  "updatedAt": "2026-09-19T13:18:18.332Z",
+  "totalPulls": 25,
+  "updatedAt": "2026-09-19T16:34:21.899Z",
   "lastPull": {
-    "id": 735,
-    "name": "gumshoos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
+    "id": 561,
+    "name": "sigilyph",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
     "types": [
-      "normal"
+      "psychic",
+      "flying"
     ],
-    "totalStats": 418,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-09-19T13:18:18.332Z"
+    "pulledAt": "2026-09-19T16:34:21.899Z"
   },
   "pulls": [
+    {
+      "id": 561,
+      "name": "sigilyph",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-19T16:34:21.899Z"
+    },
     {
       "id": 735,
       "name": "gumshoos",
@@ -114,18 +127,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-09-18T09:54:00.813Z"
-    },
-    {
-      "id": 962,
-      "name": "bombirdier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
-      "types": [
-        "flying",
-        "dark"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-18T05:18:56.475Z"
     }
   ],
   "pokemon": {
@@ -297,6 +298,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T23:00:39.793Z",
       "lastPulledAt": "2026-09-16T23:00:39.793Z"
+    },
+    "561": {
+      "id": 561,
+      "name": "sigilyph",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-19T16:34:21.899Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T16:34:21.899Z",
+      "lastPulledAt": "2026-09-19T16:34:21.899Z"
     },
     "673": {
       "id": 673,
