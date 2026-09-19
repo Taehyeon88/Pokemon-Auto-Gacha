@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-19T05:00:58.576Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-19T09:26:11.980Z",
   "lastPull": {
-    "id": 513,
-    "name": "pansear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+    "id": 127,
+    "name": "pinsir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
     "types": [
-      "fire"
+      "bug"
     ],
-    "totalStats": 316,
-    "grade": "N",
-    "pulledAt": "2026-09-19T05:00:58.576Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T09:26:11.980Z"
   },
   "pulls": [
+    {
+      "id": 127,
+      "name": "pinsir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T09:26:11.980Z"
+    },
     {
       "id": 513,
       "name": "pansear",
@@ -115,18 +126,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-18T00:49:12.498Z"
-    },
-    {
-      "id": 257,
-      "name": "blaziken",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T22:41:24.923Z"
     }
   ],
   "pokemon": {
@@ -160,6 +159,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T11:58:35.740Z",
       "lastPulledAt": "2026-09-17T11:58:35.740Z"
+    },
+    "127": {
+      "id": 127,
+      "name": "pinsir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T09:26:11.980Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T09:26:11.980Z",
+      "lastPulledAt": "2026-09-19T09:26:11.980Z"
     },
     "227": {
       "id": 227,
