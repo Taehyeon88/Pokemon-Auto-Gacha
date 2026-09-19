@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 27,
-  "updatedAt": "2026-09-19T21:18:36.071Z",
+  "totalPulls": 28,
+  "updatedAt": "2026-09-19T23:15:12.501Z",
   "lastPull": {
-    "id": 69,
-    "name": "bellsprout",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+    "id": 844,
+    "name": "sandaconda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
     "types": [
-      "grass",
-      "poison"
+      "ground"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-19T21:18:36.071Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T23:15:12.501Z"
   },
   "pulls": [
+    {
+      "id": 844,
+      "name": "sandaconda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T23:15:12.501Z"
+    },
     {
       "id": 69,
       "name": "bellsprout",
@@ -117,17 +127,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-18T19:57:51.462Z"
-    },
-    {
-      "id": 678,
-      "name": "meowstic-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 466,
-      "grade": "R",
-      "pulledAt": "2026-09-18T17:39:55.984Z"
     }
   ],
   "pokemon": {
@@ -471,6 +470,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T00:30:40.827Z",
       "lastPulledAt": "2026-09-19T00:30:40.827Z"
+    },
+    "844": {
+      "id": 844,
+      "name": "sandaconda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T23:15:12.501Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T23:15:12.501Z",
+      "lastPulledAt": "2026-09-19T23:15:12.501Z"
     },
     "853": {
       "id": 853,
