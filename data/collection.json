@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 25,
-  "updatedAt": "2026-09-19T16:34:21.899Z",
+  "totalPulls": 26,
+  "updatedAt": "2026-09-19T18:52:50.373Z",
   "lastPull": {
-    "id": 561,
-    "name": "sigilyph",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+    "id": 188,
+    "name": "skiploom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
     "types": [
-      "psychic",
+      "grass",
       "flying"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-19T16:34:21.899Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-09-19T18:52:50.373Z"
   },
   "pulls": [
+    {
+      "id": 188,
+      "name": "skiploom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-19T18:52:50.373Z"
+    },
     {
       "id": 561,
       "name": "sigilyph",
@@ -115,18 +127,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-09-18T14:07:10.623Z"
-    },
-    {
-      "id": 227,
-      "name": "skarmory",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
-      "types": [
-        "steel",
-        "flying"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-09-18T09:54:00.813Z"
     }
   ],
   "pokemon": {
@@ -175,6 +175,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T09:26:11.980Z",
       "lastPulledAt": "2026-09-19T09:26:11.980Z"
+    },
+    "188": {
+      "id": 188,
+      "name": "skiploom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-19T18:52:50.373Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T18:52:50.373Z",
+      "lastPulledAt": "2026-09-19T18:52:50.373Z"
     },
     "227": {
       "id": 227,
