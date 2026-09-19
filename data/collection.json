@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 20,
-  "updatedAt": "2026-09-18T22:26:31.113Z",
+  "totalPulls": 21,
+  "updatedAt": "2026-09-19T00:30:40.827Z",
   "lastPull": {
-    "id": 354,
-    "name": "banette",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
+    "id": 826,
+    "name": "orbeetle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
     "types": [
-      "ghost"
+      "bug",
+      "psychic"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-09-18T22:26:31.113Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T00:30:40.827Z"
   },
   "pulls": [
+    {
+      "id": 826,
+      "name": "orbeetle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T00:30:40.827Z"
+    },
     {
       "id": 354,
       "name": "banette",
@@ -115,17 +128,6 @@
       "totalStats": 531,
       "grade": "SR",
       "pulledAt": "2026-09-17T19:54:41.590Z"
-    },
-    {
-      "id": 89,
-      "name": "muk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T16:49:12.735Z"
     }
   ],
   "pokemon": {
@@ -360,6 +362,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T06:27:01.335Z",
       "lastPulledAt": "2026-09-17T06:27:01.335Z"
+    },
+    "826": {
+      "id": 826,
+      "name": "orbeetle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T00:30:40.827Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T00:30:40.827Z",
+      "lastPulledAt": "2026-09-19T00:30:40.827Z"
     },
     "853": {
       "id": 853,
