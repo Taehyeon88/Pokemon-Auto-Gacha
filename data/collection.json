@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 23,
-  "updatedAt": "2026-09-19T09:26:11.980Z",
+  "totalPulls": 24,
+  "updatedAt": "2026-09-19T13:18:18.332Z",
   "lastPull": {
-    "id": 127,
-    "name": "pinsir",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "id": 735,
+    "name": "gumshoos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
     "types": [
-      "bug"
+      "normal"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-19T09:26:11.980Z"
+    "totalStats": 418,
+    "grade": "R",
+    "pulledAt": "2026-09-19T13:18:18.332Z"
   },
   "pulls": [
+    {
+      "id": 735,
+      "name": "gumshoos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-09-19T13:18:18.332Z"
+    },
     {
       "id": 127,
       "name": "pinsir",
@@ -115,17 +126,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-18T05:18:56.475Z"
-    },
-    {
-      "id": 999,
-      "name": "gimmighoul",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-18T00:49:12.498Z"
     }
   ],
   "pokemon": {
@@ -358,6 +358,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T17:13:24.618Z",
       "lastPulledAt": "2026-09-16T17:13:24.618Z"
+    },
+    "735": {
+      "id": 735,
+      "name": "gumshoos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-09-19T13:18:18.332Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T13:18:18.332Z",
+      "lastPulledAt": "2026-09-19T13:18:18.332Z"
     },
     "755": {
       "id": 755,
