@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 26,
-  "updatedAt": "2026-09-19T18:52:50.373Z",
+  "totalPulls": 27,
+  "updatedAt": "2026-09-19T21:18:36.071Z",
   "lastPull": {
-    "id": 188,
-    "name": "skiploom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+    "id": 69,
+    "name": "bellsprout",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
     "types": [
       "grass",
-      "flying"
+      "poison"
     ],
-    "totalStats": 340,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-09-19T18:52:50.373Z"
+    "pulledAt": "2026-09-19T21:18:36.071Z"
   },
   "pulls": [
+    {
+      "id": 69,
+      "name": "bellsprout",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-19T21:18:36.071Z"
+    },
     {
       "id": 188,
       "name": "skiploom",
@@ -116,20 +128,25 @@
       "totalStats": 466,
       "grade": "R",
       "pulledAt": "2026-09-18T17:39:55.984Z"
-    },
-    {
-      "id": 463,
-      "name": "lickilicky",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T14:07:10.623Z"
     }
   ],
   "pokemon": {
+    "69": {
+      "id": 69,
+      "name": "bellsprout",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-19T21:18:36.071Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T21:18:36.071Z",
+      "lastPulledAt": "2026-09-19T21:18:36.071Z"
+    },
     "89": {
       "id": 89,
       "name": "muk",
