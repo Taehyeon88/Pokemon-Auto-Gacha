@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 21,
-  "updatedAt": "2026-09-19T00:30:40.827Z",
+  "totalPulls": 22,
+  "updatedAt": "2026-09-19T05:00:58.576Z",
   "lastPull": {
-    "id": 826,
-    "name": "orbeetle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
+    "id": 513,
+    "name": "pansear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
     "types": [
-      "bug",
-      "psychic"
+      "fire"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-09-19T00:30:40.827Z"
+    "totalStats": 316,
+    "grade": "N",
+    "pulledAt": "2026-09-19T05:00:58.576Z"
   },
   "pulls": [
+    {
+      "id": 513,
+      "name": "pansear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-09-19T05:00:58.576Z"
+    },
     {
       "id": 826,
       "name": "orbeetle",
@@ -117,17 +127,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-17T22:41:24.923Z"
-    },
-    {
-      "id": 673,
-      "name": "gogoat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 531,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T19:54:41.590Z"
     }
   ],
   "pokemon": {
@@ -254,6 +253,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T14:07:10.623Z",
       "lastPulledAt": "2026-09-18T14:07:10.623Z"
+    },
+    "513": {
+      "id": 513,
+      "name": "pansear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-09-19T05:00:58.576Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T05:00:58.576Z",
+      "lastPulledAt": "2026-09-19T05:00:58.576Z"
     },
     "548": {
       "id": 548,
