@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 32,
-  "updatedAt": "2026-09-20T14:55:07.730Z",
+  "totalPulls": 33,
+  "updatedAt": "2026-09-20T17:58:46.934Z",
   "lastPull": {
-    "id": 1022,
-    "name": "iron-boulder",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+    "id": 150,
+    "name": "mewtwo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
     "types": [
-      "rock",
       "psychic"
     ],
-    "totalStats": 590,
-    "grade": "SR",
-    "pulledAt": "2026-09-20T14:55:07.730Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-09-20T17:58:46.934Z"
   },
   "pulls": [
+    {
+      "id": 150,
+      "name": "mewtwo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T17:58:46.934Z"
+    },
     {
       "id": 1022,
       "name": "iron-boulder",
@@ -119,17 +129,6 @@
       "totalStats": 418,
       "grade": "R",
       "pulledAt": "2026-09-19T13:18:18.332Z"
-    },
-    {
-      "id": 127,
-      "name": "pinsir",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T09:26:11.980Z"
     }
   ],
   "pokemon": {
@@ -194,6 +193,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T09:26:11.980Z",
       "lastPulledAt": "2026-09-19T09:26:11.980Z"
+    },
+    "150": {
+      "id": 150,
+      "name": "mewtwo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T17:58:46.934Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T17:58:46.934Z",
+      "lastPulledAt": "2026-09-20T17:58:46.934Z"
     },
     "188": {
       "id": 188,
