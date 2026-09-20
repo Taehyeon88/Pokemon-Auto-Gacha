@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 31,
-  "updatedAt": "2026-09-20T11:42:15.086Z",
+  "totalPulls": 32,
+  "updatedAt": "2026-09-20T14:55:07.730Z",
   "lastPull": {
-    "id": 457,
-    "name": "lumineon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
+    "id": 1022,
+    "name": "iron-boulder",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
     "types": [
-      "water"
+      "rock",
+      "psychic"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-09-20T11:42:15.086Z"
+    "totalStats": 590,
+    "grade": "SR",
+    "pulledAt": "2026-09-20T14:55:07.730Z"
   },
   "pulls": [
+    {
+      "id": 1022,
+      "name": "iron-boulder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T14:55:07.730Z"
+    },
     {
       "id": 457,
       "name": "lumineon",
@@ -117,17 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-19T09:26:11.980Z"
-    },
-    {
-      "id": 513,
-      "name": "pansear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 316,
-      "grade": "N",
-      "pulledAt": "2026-09-19T05:00:58.576Z"
     }
   ],
   "pokemon": {
@@ -611,6 +613,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T20:13:22.468Z",
       "lastPulledAt": "2026-09-16T20:13:22.468Z"
+    },
+    "1022": {
+      "id": 1022,
+      "name": "iron-boulder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T14:55:07.730Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T14:55:07.730Z",
+      "lastPulledAt": "2026-09-20T14:55:07.730Z"
     }
   },
   "typeTotals": {
