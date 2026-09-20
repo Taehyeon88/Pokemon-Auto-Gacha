@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 28,
-  "updatedAt": "2026-09-19T23:15:12.501Z",
+  "totalPulls": 29,
+  "updatedAt": "2026-09-20T01:16:18.033Z",
   "lastPull": {
-    "id": 844,
-    "name": "sandaconda",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+    "id": 458,
+    "name": "mantyke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
     "types": [
-      "ground"
+      "water",
+      "flying"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-09-19T23:15:12.501Z"
+    "totalStats": 345,
+    "grade": "N",
+    "pulledAt": "2026-09-20T01:16:18.033Z"
   },
   "pulls": [
+    {
+      "id": 458,
+      "name": "mantyke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-09-20T01:16:18.033Z"
+    },
     {
       "id": 844,
       "name": "sandaconda",
@@ -116,17 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-18T22:26:31.113Z"
-    },
-    {
-      "id": 328,
-      "name": "trapinch",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-09-18T19:57:51.462Z"
     }
   ],
   "pokemon": {
@@ -285,6 +287,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T22:26:31.113Z",
       "lastPulledAt": "2026-09-18T22:26:31.113Z"
+    },
+    "458": {
+      "id": 458,
+      "name": "mantyke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-09-20T01:16:18.033Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T01:16:18.033Z",
+      "lastPulledAt": "2026-09-20T01:16:18.033Z"
     },
     "463": {
       "id": 463,
