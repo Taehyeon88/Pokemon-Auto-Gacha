@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 40,
-  "updatedAt": "2026-09-21T20:56:06.823Z",
+  "totalPulls": 41,
+  "updatedAt": "2026-09-21T23:53:28.203Z",
   "lastPull": {
-    "id": 160,
-    "name": "feraligatr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
+    "id": 667,
+    "name": "litleo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
     "types": [
-      "water"
+      "fire",
+      "normal"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-21T20:56:06.823Z"
+    "totalStats": 369,
+    "grade": "N",
+    "pulledAt": "2026-09-21T23:53:28.203Z"
   },
   "pulls": [
+    {
+      "id": 667,
+      "name": "litleo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "totalStats": 369,
+      "grade": "N",
+      "pulledAt": "2026-09-21T23:53:28.203Z"
+    },
     {
       "id": 160,
       "name": "feraligatr",
@@ -116,17 +129,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-09-20T14:55:07.730Z"
-    },
-    {
-      "id": 457,
-      "name": "lumineon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-20T11:42:15.086Z"
     }
   ],
   "pokemon": {
@@ -501,6 +503,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T06:24:28.780Z",
       "lastPulledAt": "2026-09-20T06:24:28.780Z"
+    },
+    "667": {
+      "id": 667,
+      "name": "litleo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "totalStats": 369,
+      "grade": "N",
+      "pulledAt": "2026-09-21T23:53:28.203Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T23:53:28.203Z",
+      "lastPulledAt": "2026-09-21T23:53:28.203Z"
     },
     "673": {
       "id": 673,
