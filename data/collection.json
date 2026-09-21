@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 35,
-  "updatedAt": "2026-09-20T22:43:44.964Z",
+  "totalPulls": 36,
+  "updatedAt": "2026-09-21T00:33:47.266Z",
   "lastPull": {
-    "id": 836,
-    "name": "boltund",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+    "id": 34,
+    "name": "nidoking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
     "types": [
-      "electric"
+      "poison",
+      "ground"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-20T22:43:44.964Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-09-21T00:33:47.266Z"
   },
   "pulls": [
+    {
+      "id": 34,
+      "name": "nidoking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T00:33:47.266Z"
+    },
     {
       "id": 836,
       "name": "boltund",
@@ -116,21 +129,25 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-19T21:18:36.071Z"
-    },
-    {
-      "id": 188,
-      "name": "skiploom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-09-19T18:52:50.373Z"
     }
   ],
   "pokemon": {
+    "34": {
+      "id": 34,
+      "name": "nidoking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T00:33:47.266Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T00:33:47.266Z",
+      "lastPulledAt": "2026-09-21T00:33:47.266Z"
+    },
     "69": {
       "id": 69,
       "name": "bellsprout",
