@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 37,
-  "updatedAt": "2026-09-21T05:25:57.329Z",
+  "totalPulls": 38,
+  "updatedAt": "2026-09-21T10:59:16.192Z",
   "lastPull": {
-    "id": 166,
-    "name": "ledian",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+    "id": 436,
+    "name": "bronzor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
     "types": [
-      "bug",
-      "flying"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 390,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-09-21T05:25:57.329Z"
+    "pulledAt": "2026-09-21T10:59:16.192Z"
   },
   "pulls": [
+    {
+      "id": 436,
+      "name": "bronzor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-21T10:59:16.192Z"
+    },
     {
       "id": 166,
       "name": "ledian",
@@ -118,17 +130,6 @@
       "totalStats": 345,
       "grade": "N",
       "pulledAt": "2026-09-20T01:16:18.033Z"
-    },
-    {
-      "id": 844,
-      "name": "sandaconda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T23:15:12.501Z"
     }
   ],
   "pokemon": {
@@ -349,6 +350,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T20:42:04.323Z",
       "lastPulledAt": "2026-09-20T20:42:04.323Z"
+    },
+    "436": {
+      "id": 436,
+      "name": "bronzor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-21T10:59:16.192Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T10:59:16.192Z",
+      "lastPulledAt": "2026-09-21T10:59:16.192Z"
     },
     "457": {
       "id": 457,
