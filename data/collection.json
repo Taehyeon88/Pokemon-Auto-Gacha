@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-22T17:46:38.155Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-22T20:30:00.103Z",
   "lastPull": {
-    "id": 1000,
-    "name": "gholdengo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+    "id": 577,
+    "name": "solosis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
     "types": [
-      "steel",
-      "ghost"
+      "psychic"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-09-22T17:46:38.155Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-09-22T20:30:00.103Z"
   },
   "pulls": [
+    {
+      "id": 577,
+      "name": "solosis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-22T20:30:00.103Z"
+    },
     {
       "id": 1000,
       "name": "gholdengo",
@@ -118,18 +128,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-09-21T05:25:57.329Z"
-    },
-    {
-      "id": 34,
-      "name": "nidoking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
-      "types": [
-        "poison",
-        "ground"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-21T00:33:47.266Z"
     }
   ],
   "pokemon": {
@@ -503,6 +501,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T16:34:21.899Z",
       "lastPulledAt": "2026-09-19T16:34:21.899Z"
+    },
+    "577": {
+      "id": 577,
+      "name": "solosis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-22T20:30:00.103Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T20:30:00.103Z",
+      "lastPulledAt": "2026-09-22T20:30:00.103Z"
     },
     "615": {
       "id": 615,
