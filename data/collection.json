@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 43,
-  "updatedAt": "2026-09-22T08:47:45.081Z",
+  "totalPulls": 44,
+  "updatedAt": "2026-09-22T13:41:44.339Z",
   "lastPull": {
-    "id": 96,
-    "name": "drowzee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "id": 966,
+    "name": "revavroom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
     "types": [
-      "psychic"
+      "steel",
+      "poison"
     ],
-    "totalStats": 328,
-    "grade": "N",
-    "pulledAt": "2026-09-22T08:47:45.081Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T13:41:44.339Z"
   },
   "pulls": [
+    {
+      "id": 966,
+      "name": "revavroom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T13:41:44.339Z"
+    },
     {
       "id": 96,
       "name": "drowzee",
@@ -116,17 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-20T22:43:44.964Z"
-    },
-    {
-      "id": 372,
-      "name": "shelgon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-20T20:42:04.323Z"
     }
   ],
   "pokemon": {
@@ -732,6 +734,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T05:18:56.475Z",
       "lastPulledAt": "2026-09-18T05:18:56.475Z"
+    },
+    "966": {
+      "id": 966,
+      "name": "revavroom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T13:41:44.339Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T13:41:44.339Z",
+      "lastPulledAt": "2026-09-22T13:41:44.339Z"
     },
     "999": {
       "id": 999,
