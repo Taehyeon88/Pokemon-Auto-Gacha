@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 44,
-  "updatedAt": "2026-09-22T13:41:44.339Z",
+  "totalPulls": 45,
+  "updatedAt": "2026-09-22T17:46:38.155Z",
   "lastPull": {
-    "id": 966,
-    "name": "revavroom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+    "id": 1000,
+    "name": "gholdengo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
     "types": [
       "steel",
-      "poison"
+      "ghost"
     ],
-    "totalStats": 500,
+    "totalStats": 550,
     "grade": "SR",
-    "pulledAt": "2026-09-22T13:41:44.339Z"
+    "pulledAt": "2026-09-22T17:46:38.155Z"
   },
   "pulls": [
+    {
+      "id": 1000,
+      "name": "gholdengo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T17:46:38.155Z"
+    },
     {
       "id": 966,
       "name": "revavroom",
@@ -118,17 +130,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-21T00:33:47.266Z"
-    },
-    {
-      "id": 836,
-      "name": "boltund",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-20T22:43:44.964Z"
     }
   ],
   "pokemon": {
@@ -765,6 +766,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T00:49:12.498Z",
       "lastPulledAt": "2026-09-18T00:49:12.498Z"
+    },
+    "1000": {
+      "id": 1000,
+      "name": "gholdengo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T17:46:38.155Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T17:46:38.155Z",
+      "lastPulledAt": "2026-09-22T17:46:38.155Z"
     },
     "1013": {
       "id": 1013,
