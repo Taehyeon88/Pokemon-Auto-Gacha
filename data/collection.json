@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 42,
-  "updatedAt": "2026-09-22T03:30:34.782Z",
+  "totalPulls": 43,
+  "updatedAt": "2026-09-22T08:47:45.081Z",
   "lastPull": {
-    "id": 243,
-    "name": "raikou",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+    "id": 96,
+    "name": "drowzee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
     "types": [
-      "electric"
+      "psychic"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-09-22T03:30:34.782Z"
+    "totalStats": 328,
+    "grade": "N",
+    "pulledAt": "2026-09-22T08:47:45.081Z"
   },
   "pulls": [
+    {
+      "id": 96,
+      "name": "drowzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 328,
+      "grade": "N",
+      "pulledAt": "2026-09-22T08:47:45.081Z"
+    },
     {
       "id": 243,
       "name": "raikou",
@@ -116,17 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-20T20:42:04.323Z"
-    },
-    {
-      "id": 150,
-      "name": "mewtwo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-09-20T17:58:46.934Z"
     }
   ],
   "pokemon": {
@@ -176,6 +176,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T16:49:12.735Z",
       "lastPulledAt": "2026-09-17T16:49:12.735Z"
+    },
+    "96": {
+      "id": 96,
+      "name": "drowzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 328,
+      "grade": "N",
+      "pulledAt": "2026-09-22T08:47:45.081Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T08:47:45.081Z",
+      "lastPulledAt": "2026-09-22T08:47:45.081Z"
     },
     "122": {
       "id": 122,
