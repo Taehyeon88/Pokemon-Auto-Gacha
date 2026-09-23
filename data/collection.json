@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 52,
-  "updatedAt": "2026-09-23T20:03:43.248Z",
+  "totalPulls": 53,
+  "updatedAt": "2026-09-23T22:55:15.122Z",
   "lastPull": {
-    "id": 688,
-    "name": "binacle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+    "id": 14,
+    "name": "kakuna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
     "types": [
-      "rock",
-      "water"
+      "bug",
+      "poison"
     ],
-    "totalStats": 306,
+    "totalStats": 205,
     "grade": "N",
-    "pulledAt": "2026-09-23T20:03:43.248Z"
+    "pulledAt": "2026-09-23T22:55:15.122Z"
   },
   "pulls": [
+    {
+      "id": 14,
+      "name": "kakuna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-09-23T22:55:15.122Z"
+    },
     {
       "id": 688,
       "name": "binacle",
@@ -120,20 +132,25 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-22T13:41:44.339Z"
-    },
-    {
-      "id": 96,
-      "name": "drowzee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 328,
-      "grade": "N",
-      "pulledAt": "2026-09-22T08:47:45.081Z"
     }
   ],
   "pokemon": {
+    "14": {
+      "id": 14,
+      "name": "kakuna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-09-23T22:55:15.122Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T22:55:15.122Z",
+      "lastPulledAt": "2026-09-23T22:55:15.122Z"
+    },
     "22": {
       "id": 22,
       "name": "fearow",
