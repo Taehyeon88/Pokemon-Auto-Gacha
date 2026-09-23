@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 51,
-  "updatedAt": "2026-09-23T16:57:15.425Z",
+  "totalPulls": 52,
+  "updatedAt": "2026-09-23T20:03:43.248Z",
   "lastPull": {
-    "id": 22,
-    "name": "fearow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "id": 688,
+    "name": "binacle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
     "types": [
-      "normal",
-      "flying"
+      "rock",
+      "water"
     ],
-    "totalStats": 442,
-    "grade": "R",
-    "pulledAt": "2026-09-23T16:57:15.425Z"
+    "totalStats": 306,
+    "grade": "N",
+    "pulledAt": "2026-09-23T20:03:43.248Z"
   },
   "pulls": [
+    {
+      "id": 688,
+      "name": "binacle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 306,
+      "grade": "N",
+      "pulledAt": "2026-09-23T20:03:43.248Z"
+    },
     {
       "id": 22,
       "name": "fearow",
@@ -119,17 +131,6 @@
       "totalStats": 328,
       "grade": "N",
       "pulledAt": "2026-09-22T08:47:45.081Z"
-    },
-    {
-      "id": 243,
-      "name": "raikou",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T03:30:34.782Z"
     }
   ],
   "pokemon": {
@@ -674,6 +675,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:26:16.523Z",
       "lastPulledAt": "2026-09-16T12:26:16.523Z"
+    },
+    "688": {
+      "id": 688,
+      "name": "binacle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 306,
+      "grade": "N",
+      "pulledAt": "2026-09-23T20:03:43.248Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T20:03:43.248Z",
+      "lastPulledAt": "2026-09-23T20:03:43.248Z"
     },
     "706": {
       "id": 706,
