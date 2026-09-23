@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 50,
-  "updatedAt": "2026-09-23T12:09:33.389Z",
+  "totalPulls": 51,
+  "updatedAt": "2026-09-23T16:57:15.425Z",
   "lastPull": {
-    "id": 904,
-    "name": "overqwil",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
+    "id": 22,
+    "name": "fearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
     "types": [
-      "dark",
-      "poison"
+      "normal",
+      "flying"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-09-23T12:09:33.389Z"
+    "totalStats": 442,
+    "grade": "R",
+    "pulledAt": "2026-09-23T16:57:15.425Z"
   },
   "pulls": [
+    {
+      "id": 22,
+      "name": "fearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 442,
+      "grade": "R",
+      "pulledAt": "2026-09-23T16:57:15.425Z"
+    },
     {
       "id": 904,
       "name": "overqwil",
@@ -118,21 +130,25 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-22T03:30:34.782Z"
-    },
-    {
-      "id": 667,
-      "name": "litleo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
-      "types": [
-        "fire",
-        "normal"
-      ],
-      "totalStats": 369,
-      "grade": "N",
-      "pulledAt": "2026-09-21T23:53:28.203Z"
     }
   ],
   "pokemon": {
+    "22": {
+      "id": 22,
+      "name": "fearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 442,
+      "grade": "R",
+      "pulledAt": "2026-09-23T16:57:15.425Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T16:57:15.425Z",
+      "lastPulledAt": "2026-09-23T16:57:15.425Z"
+    },
     "34": {
       "id": 34,
       "name": "nidoking",
