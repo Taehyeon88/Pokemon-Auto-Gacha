@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 54,
-  "updatedAt": "2026-09-24T01:07:34.071Z",
+  "totalPulls": 55,
+  "updatedAt": "2026-09-24T06:08:59.814Z",
   "lastPull": {
-    "id": 354,
-    "name": "banette",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
+    "id": 1013,
+    "name": "sinistcha",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
     "types": [
+      "grass",
       "ghost"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-09-24T01:07:34.071Z"
+    "totalStats": 508,
+    "grade": "SR",
+    "pulledAt": "2026-09-24T06:08:59.814Z"
   },
   "pulls": [
+    {
+      "id": 1013,
+      "name": "sinistcha",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 508,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T06:08:59.814Z"
+    },
     {
       "id": 354,
       "name": "banette",
@@ -118,18 +131,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-22T20:30:00.103Z"
-    },
-    {
-      "id": 1000,
-      "name": "gholdengo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
-      "types": [
-        "steel",
-        "ghost"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T17:46:38.155Z"
     }
   ],
   "pokemon": {
@@ -920,10 +921,10 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-09-17T01:20:28.767Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:20:28.767Z",
-      "lastPulledAt": "2026-09-17T01:20:28.767Z"
+      "lastPulledAt": "2026-09-24T06:08:59.814Z"
     },
     "1019": {
       "id": 1019,
