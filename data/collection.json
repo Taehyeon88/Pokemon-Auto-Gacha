@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 59,
-  "updatedAt": "2026-09-24T23:01:37.564Z",
+  "totalPulls": 60,
+  "updatedAt": "2026-09-25T01:26:25.978Z",
   "lastPull": {
-    "id": 357,
-    "name": "tropius",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "id": 661,
+    "name": "fletchling",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
     "types": [
-      "grass",
+      "normal",
       "flying"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-09-24T23:01:37.564Z"
+    "totalStats": 278,
+    "grade": "N",
+    "pulledAt": "2026-09-25T01:26:25.978Z"
   },
   "pulls": [
+    {
+      "id": 661,
+      "name": "fletchling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 278,
+      "grade": "N",
+      "pulledAt": "2026-09-25T01:26:25.978Z"
+    },
     {
       "id": 357,
       "name": "tropius",
@@ -119,18 +131,6 @@
       "totalStats": 442,
       "grade": "R",
       "pulledAt": "2026-09-23T16:57:15.425Z"
-    },
-    {
-      "id": 904,
-      "name": "overqwil",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
-      "types": [
-        "dark",
-        "poison"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T12:09:33.389Z"
     }
   ],
   "pokemon": {
@@ -660,6 +660,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T06:24:28.780Z",
       "lastPulledAt": "2026-09-20T06:24:28.780Z"
+    },
+    "661": {
+      "id": 661,
+      "name": "fletchling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 278,
+      "grade": "N",
+      "pulledAt": "2026-09-25T01:26:25.978Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T01:26:25.978Z",
+      "lastPulledAt": "2026-09-25T01:26:25.978Z"
     },
     "667": {
       "id": 667,
