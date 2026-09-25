@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 62,
-  "updatedAt": "2026-09-25T12:06:30.818Z",
+  "totalPulls": 63,
+  "updatedAt": "2026-09-25T17:06:39.070Z",
   "lastPull": {
-    "id": 979,
-    "name": "annihilape",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+    "id": 1008,
+    "name": "miraidon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
     "types": [
-      "fighting",
-      "ghost"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-09-25T12:06:30.818Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-09-25T17:06:39.070Z"
   },
   "pulls": [
+    {
+      "id": 1008,
+      "name": "miraidon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-09-25T17:06:39.070Z"
+    },
     {
       "id": 979,
       "name": "annihilape",
@@ -118,18 +130,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-24T01:07:34.071Z"
-    },
-    {
-      "id": 14,
-      "name": "kakuna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 205,
-      "grade": "N",
-      "pulledAt": "2026-09-23T22:55:15.122Z"
     }
   ],
   "pokemon": {
@@ -1017,6 +1017,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T17:46:38.155Z",
       "lastPulledAt": "2026-09-22T17:46:38.155Z"
+    },
+    "1008": {
+      "id": 1008,
+      "name": "miraidon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-09-25T17:06:39.070Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T17:06:39.070Z",
+      "lastPulledAt": "2026-09-25T17:06:39.070Z"
     },
     "1013": {
       "id": 1013,
