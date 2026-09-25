@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 61,
-  "updatedAt": "2026-09-25T06:27:32.442Z",
+  "totalPulls": 62,
+  "updatedAt": "2026-09-25T12:06:30.818Z",
   "lastPull": {
-    "id": 650,
-    "name": "chespin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png",
+    "id": 979,
+    "name": "annihilape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
     "types": [
-      "grass"
+      "fighting",
+      "ghost"
     ],
-    "totalStats": 313,
-    "grade": "N",
-    "pulledAt": "2026-09-25T06:27:32.442Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-09-25T12:06:30.818Z"
   },
   "pulls": [
+    {
+      "id": 979,
+      "name": "annihilape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T12:06:30.818Z"
+    },
     {
       "id": 650,
       "name": "chespin",
@@ -117,18 +130,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-09-23T22:55:15.122Z"
-    },
-    {
-      "id": 688,
-      "name": "binacle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 306,
-      "grade": "N",
-      "pulledAt": "2026-09-23T20:03:43.248Z"
     }
   ],
   "pokemon": {
@@ -969,6 +970,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T13:41:44.339Z",
       "lastPulledAt": "2026-09-22T13:41:44.339Z"
+    },
+    "979": {
+      "id": 979,
+      "name": "annihilape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T12:06:30.818Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T12:06:30.818Z",
+      "lastPulledAt": "2026-09-25T12:06:30.818Z"
     },
     "999": {
       "id": 999,
