@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 69,
-  "updatedAt": "2026-09-26T16:29:46.263Z",
+  "totalPulls": 70,
+  "updatedAt": "2026-09-26T19:19:46.426Z",
   "lastPull": {
-    "id": 712,
-    "name": "bergmite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+    "id": 815,
+    "name": "cinderace",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
     "types": [
-      "ice"
+      "fire"
     ],
-    "totalStats": 304,
-    "grade": "N",
-    "pulledAt": "2026-09-26T16:29:46.263Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-26T19:19:46.426Z"
   },
   "pulls": [
+    {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T19:19:46.426Z"
+    },
     {
       "id": 712,
       "name": "bergmite",
@@ -115,18 +126,6 @@
       "totalStats": 313,
       "grade": "N",
       "pulledAt": "2026-09-25T06:27:32.442Z"
-    },
-    {
-      "id": 661,
-      "name": "fletchling",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 278,
-      "grade": "N",
-      "pulledAt": "2026-09-25T01:26:25.978Z"
     }
   ],
   "pokemon": {
@@ -918,6 +917,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T06:27:01.335Z",
       "lastPulledAt": "2026-09-17T06:27:01.335Z"
+    },
+    "815": {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T19:19:46.426Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T19:19:46.426Z",
+      "lastPulledAt": "2026-09-26T19:19:46.426Z"
     },
     "826": {
       "id": 826,
