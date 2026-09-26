@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 68,
-  "updatedAt": "2026-09-26T12:11:55.133Z",
+  "totalPulls": 69,
+  "updatedAt": "2026-09-26T16:29:46.263Z",
   "lastPull": {
-    "id": 405,
-    "name": "luxray",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+    "id": 712,
+    "name": "bergmite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
     "types": [
-      "electric"
+      "ice"
     ],
-    "totalStats": 523,
-    "grade": "SR",
-    "pulledAt": "2026-09-26T12:11:55.133Z"
+    "totalStats": 304,
+    "grade": "N",
+    "pulledAt": "2026-09-26T16:29:46.263Z"
   },
   "pulls": [
+    {
+      "id": 712,
+      "name": "bergmite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-09-26T16:29:46.263Z"
+    },
     {
       "id": 405,
       "name": "luxray",
@@ -116,18 +127,6 @@
       "totalStats": 278,
       "grade": "N",
       "pulledAt": "2026-09-25T01:26:25.978Z"
-    },
-    {
-      "id": 357,
-      "name": "tropius",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-24T23:01:37.564Z"
     }
   ],
   "pokemon": {
@@ -841,6 +840,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T17:13:24.618Z",
       "lastPulledAt": "2026-09-16T17:13:24.618Z"
+    },
+    "712": {
+      "id": 712,
+      "name": "bergmite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-09-26T16:29:46.263Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T16:29:46.263Z",
+      "lastPulledAt": "2026-09-26T16:29:46.263Z"
     },
     "723": {
       "id": 723,
