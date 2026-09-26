@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 67,
-  "updatedAt": "2026-09-26T07:06:00.581Z",
+  "totalPulls": 68,
+  "updatedAt": "2026-09-26T12:11:55.133Z",
   "lastPull": {
-    "id": 299,
-    "name": "nosepass",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
+    "id": 405,
+    "name": "luxray",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
     "types": [
-      "rock"
+      "electric"
     ],
-    "totalStats": 375,
-    "grade": "N",
-    "pulledAt": "2026-09-26T07:06:00.581Z"
+    "totalStats": 523,
+    "grade": "SR",
+    "pulledAt": "2026-09-26T12:11:55.133Z"
   },
   "pulls": [
+    {
+      "id": 405,
+      "name": "luxray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 523,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T12:11:55.133Z"
+    },
     {
       "id": 299,
       "name": "nosepass",
@@ -117,18 +128,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-09-24T23:01:37.564Z"
-    },
-    {
-      "id": 723,
-      "name": "dartrix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-24T19:52:35.167Z"
     }
   ],
   "pokemon": {
@@ -504,6 +503,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T20:42:04.323Z",
       "lastPulledAt": "2026-09-20T20:42:04.323Z"
+    },
+    "405": {
+      "id": 405,
+      "name": "luxray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 523,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T12:11:55.133Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T12:11:55.133Z",
+      "lastPulledAt": "2026-09-26T12:11:55.133Z"
     },
     "436": {
       "id": 436,
