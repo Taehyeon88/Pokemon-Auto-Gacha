@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 74,
-  "updatedAt": "2026-09-27T10:49:10.306Z",
+  "totalPulls": 75,
+  "updatedAt": "2026-09-27T15:22:52.231Z",
   "lastPull": {
-    "id": 658,
-    "name": "greninja",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "id": 653,
+    "name": "fennekin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
     "types": [
-      "water",
-      "dark"
+      "fire"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-27T10:49:10.306Z"
+    "totalStats": 307,
+    "grade": "N",
+    "pulledAt": "2026-09-27T15:22:52.231Z"
   },
   "pulls": [
+    {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-09-27T15:22:52.231Z"
+    },
     {
       "id": 658,
       "name": "greninja",
@@ -116,17 +126,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-26T01:51:39.738Z"
-    },
-    {
-      "id": 470,
-      "name": "leafeon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T23:27:27.733Z"
     }
   ],
   "pokemon": {
@@ -762,6 +761,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T06:27:32.442Z",
       "lastPulledAt": "2026-09-25T06:27:32.442Z"
+    },
+    "653": {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-09-27T15:22:52.231Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T15:22:52.231Z",
+      "lastPulledAt": "2026-09-27T15:22:52.231Z"
     },
     "658": {
       "id": 658,
