@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 72,
-  "updatedAt": "2026-09-27T00:31:40.691Z",
+  "totalPulls": 73,
+  "updatedAt": "2026-09-27T05:42:11.013Z",
   "lastPull": {
-    "id": 374,
-    "name": "beldum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "id": 243,
+    "name": "raikou",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
     "types": [
-      "steel",
-      "psychic"
+      "electric"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-27T00:31:40.691Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-09-27T05:42:11.013Z"
   },
   "pulls": [
+    {
+      "id": 243,
+      "name": "raikou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T05:42:11.013Z"
+    },
     {
       "id": 374,
       "name": "beldum",
@@ -115,18 +125,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-09-25T20:27:50.464Z"
-    },
-    {
-      "id": 1008,
-      "name": "miraidon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-09-25T17:06:39.070Z"
     }
   ],
   "pokemon": {
@@ -421,10 +419,10 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-22T03:30:34.782Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T03:30:34.782Z",
-      "lastPulledAt": "2026-09-22T03:30:34.782Z"
+      "lastPulledAt": "2026-09-27T05:42:11.013Z"
     },
     "257": {
       "id": 257,
