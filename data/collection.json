@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 73,
-  "updatedAt": "2026-09-27T05:42:11.013Z",
+  "totalPulls": 74,
+  "updatedAt": "2026-09-27T10:49:10.306Z",
   "lastPull": {
-    "id": 243,
-    "name": "raikou",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+    "id": 658,
+    "name": "greninja",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
     "types": [
-      "electric"
+      "water",
+      "dark"
     ],
-    "totalStats": 580,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-09-27T05:42:11.013Z"
+    "pulledAt": "2026-09-27T10:49:10.306Z"
   },
   "pulls": [
+    {
+      "id": 658,
+      "name": "greninja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T10:49:10.306Z"
+    },
     {
       "id": 243,
       "name": "raikou",
@@ -114,17 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-25T23:27:27.733Z"
-    },
-    {
-      "id": 10,
-      "name": "caterpie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 195,
-      "grade": "N",
-      "pulledAt": "2026-09-25T20:27:50.464Z"
     }
   ],
   "pokemon": {
@@ -760,6 +762,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T06:27:32.442Z",
       "lastPulledAt": "2026-09-25T06:27:32.442Z"
+    },
+    "658": {
+      "id": 658,
+      "name": "greninja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T10:49:10.306Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T10:49:10.306Z",
+      "lastPulledAt": "2026-09-27T10:49:10.306Z"
     },
     "661": {
       "id": 661,
