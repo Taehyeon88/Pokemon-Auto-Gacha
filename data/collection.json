@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 75,
-  "updatedAt": "2026-09-27T15:22:52.231Z",
+  "totalPulls": 76,
+  "updatedAt": "2026-09-27T19:09:30.453Z",
   "lastPull": {
-    "id": 653,
-    "name": "fennekin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+    "id": 392,
+    "name": "infernape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
     "types": [
-      "fire"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 307,
-    "grade": "N",
-    "pulledAt": "2026-09-27T15:22:52.231Z"
+    "totalStats": 534,
+    "grade": "SR",
+    "pulledAt": "2026-09-27T19:09:30.453Z"
   },
   "pulls": [
+    {
+      "id": 392,
+      "name": "infernape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T19:09:30.453Z"
+    },
     {
       "id": 653,
       "name": "fennekin",
@@ -114,18 +127,6 @@
       "totalStats": 375,
       "grade": "N",
       "pulledAt": "2026-09-26T07:06:00.581Z"
-    },
-    {
-      "id": 998,
-      "name": "baxcalibur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
-      "types": [
-        "dragon",
-        "ice"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-26T01:51:39.738Z"
     }
   ],
   "pokemon": {
@@ -532,6 +533,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T00:31:40.691Z",
       "lastPulledAt": "2026-09-27T00:31:40.691Z"
+    },
+    "392": {
+      "id": 392,
+      "name": "infernape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T19:09:30.453Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T19:09:30.453Z",
+      "lastPulledAt": "2026-09-27T19:09:30.453Z"
     },
     "405": {
       "id": 405,
