@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 71,
-  "updatedAt": "2026-09-26T22:00:50.757Z",
+  "totalPulls": 72,
+  "updatedAt": "2026-09-27T00:31:40.691Z",
   "lastPull": {
-    "id": 29,
-    "name": "nidoran-f",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+    "id": 374,
+    "name": "beldum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
     "types": [
-      "poison"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 275,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-09-26T22:00:50.757Z"
+    "pulledAt": "2026-09-27T00:31:40.691Z"
   },
   "pulls": [
+    {
+      "id": 374,
+      "name": "beldum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-27T00:31:40.691Z"
+    },
     {
       "id": 29,
       "name": "nidoran-f",
@@ -114,18 +127,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-09-25T17:06:39.070Z"
-    },
-    {
-      "id": 979,
-      "name": "annihilape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
-      "types": [
-        "fighting",
-        "ghost"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T12:06:30.818Z"
     }
   ],
   "pokemon": {
@@ -516,6 +517,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T20:42:04.323Z",
       "lastPulledAt": "2026-09-20T20:42:04.323Z"
+    },
+    "374": {
+      "id": 374,
+      "name": "beldum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-27T00:31:40.691Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T00:31:40.691Z",
+      "lastPulledAt": "2026-09-27T00:31:40.691Z"
     },
     "405": {
       "id": 405,
