@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 76,
-  "updatedAt": "2026-09-27T19:09:30.453Z",
+  "totalPulls": 77,
+  "updatedAt": "2026-09-27T22:09:42.969Z",
   "lastPull": {
-    "id": 392,
-    "name": "infernape",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "id": 635,
+    "name": "hydreigon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
     "types": [
-      "fire",
-      "fighting"
+      "dark",
+      "dragon"
     ],
-    "totalStats": 534,
-    "grade": "SR",
-    "pulledAt": "2026-09-27T19:09:30.453Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-27T22:09:42.969Z"
   },
   "pulls": [
+    {
+      "id": 635,
+      "name": "hydreigon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-27T22:09:42.969Z"
+    },
     {
       "id": 392,
       "name": "infernape",
@@ -116,17 +128,6 @@
       "totalStats": 523,
       "grade": "SR",
       "pulledAt": "2026-09-26T12:11:55.133Z"
-    },
-    {
-      "id": 299,
-      "name": "nosepass",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 375,
-      "grade": "N",
-      "pulledAt": "2026-09-26T07:06:00.581Z"
     }
   ],
   "pokemon": {
@@ -747,6 +748,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T16:58:21.279Z",
       "lastPulledAt": "2026-09-21T16:58:21.279Z"
+    },
+    "635": {
+      "id": 635,
+      "name": "hydreigon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-27T22:09:42.969Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T22:09:42.969Z",
+      "lastPulledAt": "2026-09-27T22:09:42.969Z"
     },
     "638": {
       "id": 638,
