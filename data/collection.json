@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 79,
-  "updatedAt": "2026-09-28T05:56:56.439Z",
+  "totalPulls": 80,
+  "updatedAt": "2026-09-28T13:21:32.532Z",
   "lastPull": {
-    "id": 57,
-    "name": "primeape",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+    "id": 578,
+    "name": "duosion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
     "types": [
-      "fighting"
+      "psychic"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-09-28T05:56:56.439Z"
+    "totalStats": 370,
+    "grade": "N",
+    "pulledAt": "2026-09-28T13:21:32.532Z"
   },
   "pulls": [
+    {
+      "id": 578,
+      "name": "duosion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-09-28T13:21:32.532Z"
+    },
     {
       "id": 57,
       "name": "primeape",
@@ -116,17 +127,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-09-26T22:00:50.757Z"
-    },
-    {
-      "id": 815,
-      "name": "cinderace",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-26T19:19:46.426Z"
     }
   ],
   "pokemon": {
@@ -758,10 +758,10 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-09-28T00:45:38.115Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T00:45:38.115Z",
-      "lastPulledAt": "2026-09-28T00:45:38.115Z"
+      "lastPulledAt": "2026-09-28T13:21:32.532Z"
     },
     "615": {
       "id": 615,
