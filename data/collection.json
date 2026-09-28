@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 77,
-  "updatedAt": "2026-09-27T22:09:42.969Z",
+  "totalPulls": 78,
+  "updatedAt": "2026-09-28T00:45:38.115Z",
   "lastPull": {
-    "id": 635,
-    "name": "hydreigon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "id": 578,
+    "name": "duosion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
     "types": [
-      "dark",
-      "dragon"
+      "psychic"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-27T22:09:42.969Z"
+    "totalStats": 370,
+    "grade": "N",
+    "pulledAt": "2026-09-28T00:45:38.115Z"
   },
   "pulls": [
+    {
+      "id": 578,
+      "name": "duosion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-09-28T00:45:38.115Z"
+    },
     {
       "id": 635,
       "name": "hydreigon",
@@ -117,17 +127,6 @@
       "totalStats": 304,
       "grade": "N",
       "pulledAt": "2026-09-26T16:29:46.263Z"
-    },
-    {
-      "id": 405,
-      "name": "luxray",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 523,
-      "grade": "SR",
-      "pulledAt": "2026-09-26T12:11:55.133Z"
     }
   ],
   "pokemon": {
@@ -733,6 +732,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T20:30:00.103Z",
       "lastPulledAt": "2026-09-22T20:30:00.103Z"
+    },
+    "578": {
+      "id": 578,
+      "name": "duosion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-09-28T00:45:38.115Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T00:45:38.115Z",
+      "lastPulledAt": "2026-09-28T00:45:38.115Z"
     },
     "615": {
       "id": 615,
