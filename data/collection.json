@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 80,
-  "updatedAt": "2026-09-28T13:21:32.532Z",
+  "totalPulls": 81,
+  "updatedAt": "2026-09-28T20:11:19.260Z",
   "lastPull": {
-    "id": 578,
-    "name": "duosion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "id": 697,
+    "name": "tyrantrum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
     "types": [
-      "psychic"
+      "rock",
+      "dragon"
     ],
-    "totalStats": 370,
-    "grade": "N",
-    "pulledAt": "2026-09-28T13:21:32.532Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-09-28T20:11:19.260Z"
   },
   "pulls": [
+    {
+      "id": 697,
+      "name": "tyrantrum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T20:11:19.260Z"
+    },
     {
       "id": 578,
       "name": "duosion",
@@ -116,17 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-27T00:31:40.691Z"
-    },
-    {
-      "id": 29,
-      "name": "nidoran-f",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-09-26T22:00:50.757Z"
     }
   ],
   "pokemon": {
@@ -949,6 +951,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T20:03:43.248Z",
       "lastPulledAt": "2026-09-23T20:03:43.248Z"
+    },
+    "697": {
+      "id": 697,
+      "name": "tyrantrum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T20:11:19.260Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T20:11:19.260Z",
+      "lastPulledAt": "2026-09-28T20:11:19.260Z"
     },
     "706": {
       "id": 706,
