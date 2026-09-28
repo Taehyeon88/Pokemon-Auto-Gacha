@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 78,
-  "updatedAt": "2026-09-28T00:45:38.115Z",
+  "totalPulls": 79,
+  "updatedAt": "2026-09-28T05:56:56.439Z",
   "lastPull": {
-    "id": 578,
-    "name": "duosion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "id": 57,
+    "name": "primeape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
     "types": [
-      "psychic"
+      "fighting"
     ],
-    "totalStats": 370,
-    "grade": "N",
-    "pulledAt": "2026-09-28T00:45:38.115Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-09-28T05:56:56.439Z"
   },
   "pulls": [
+    {
+      "id": 57,
+      "name": "primeape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-28T05:56:56.439Z"
+    },
     {
       "id": 578,
       "name": "duosion",
@@ -116,17 +127,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-26T19:19:46.426Z"
-    },
-    {
-      "id": 712,
-      "name": "bergmite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 304,
-      "grade": "N",
-      "pulledAt": "2026-09-26T16:29:46.263Z"
     }
   ],
   "pokemon": {
@@ -223,6 +223,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T01:32:22.427Z",
       "lastPulledAt": "2026-09-23T01:32:22.427Z"
+    },
+    "57": {
+      "id": 57,
+      "name": "primeape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-28T05:56:56.439Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T05:56:56.439Z",
+      "lastPulledAt": "2026-09-28T05:56:56.439Z"
     },
     "69": {
       "id": 69,
