@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 84,
-  "updatedAt": "2026-09-29T12:40:00.114Z",
+  "totalPulls": 85,
+  "updatedAt": "2026-09-29T18:16:11.420Z",
   "lastPull": {
-    "id": 518,
-    "name": "musharna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+    "id": 77,
+    "name": "ponyta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
     "types": [
-      "psychic"
+      "fire"
     ],
-    "totalStats": 487,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-09-29T12:40:00.114Z"
+    "pulledAt": "2026-09-29T18:16:11.420Z"
   },
   "pulls": [
+    {
+      "id": 77,
+      "name": "ponyta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-29T18:16:11.420Z"
+    },
     {
       "id": 518,
       "name": "musharna",
@@ -116,17 +127,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-09-27T19:09:30.453Z"
-    },
-    {
-      "id": 653,
-      "name": "fennekin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 307,
-      "grade": "N",
-      "pulledAt": "2026-09-27T15:22:52.231Z"
     }
   ],
   "pokemon": {
@@ -254,6 +254,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T21:18:36.071Z",
       "lastPulledAt": "2026-09-19T21:18:36.071Z"
+    },
+    "77": {
+      "id": 77,
+      "name": "ponyta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-29T18:16:11.420Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T18:16:11.420Z",
+      "lastPulledAt": "2026-09-29T18:16:11.420Z"
     },
     "84": {
       "id": 84,
