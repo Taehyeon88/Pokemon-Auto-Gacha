@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 82,
-  "updatedAt": "2026-09-29T00:24:18.459Z",
+  "totalPulls": 83,
+  "updatedAt": "2026-09-29T05:59:42.838Z",
   "lastPull": {
-    "id": 783,
-    "name": "hakamo-o",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+    "id": 488,
+    "name": "cresselia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
     "types": [
-      "dragon",
-      "fighting"
+      "psychic"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-09-29T00:24:18.459Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-09-29T05:59:42.838Z"
   },
   "pulls": [
+    {
+      "id": 488,
+      "name": "cresselia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T05:59:42.838Z"
+    },
     {
       "id": 783,
       "name": "hakamo-o",
@@ -118,17 +128,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-27T10:49:10.306Z"
-    },
-    {
-      "id": 243,
-      "name": "raikou",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T05:42:11.013Z"
     }
   ],
   "pokemon": {
@@ -673,6 +672,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T23:27:27.733Z",
       "lastPulledAt": "2026-09-25T23:27:27.733Z"
+    },
+    "488": {
+      "id": 488,
+      "name": "cresselia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T05:59:42.838Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T05:59:42.838Z",
+      "lastPulledAt": "2026-09-29T05:59:42.838Z"
     },
     "513": {
       "id": 513,
