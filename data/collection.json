@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 83,
-  "updatedAt": "2026-09-29T05:59:42.838Z",
+  "totalPulls": 84,
+  "updatedAt": "2026-09-29T12:40:00.114Z",
   "lastPull": {
-    "id": 488,
-    "name": "cresselia",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
+    "id": 518,
+    "name": "musharna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
     "types": [
       "psychic"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-09-29T05:59:42.838Z"
+    "totalStats": 487,
+    "grade": "R",
+    "pulledAt": "2026-09-29T12:40:00.114Z"
   },
   "pulls": [
+    {
+      "id": 518,
+      "name": "musharna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-09-29T12:40:00.114Z"
+    },
     {
       "id": 488,
       "name": "cresselia",
@@ -116,18 +127,6 @@
       "totalStats": 307,
       "grade": "N",
       "pulledAt": "2026-09-27T15:22:52.231Z"
-    },
-    {
-      "id": 658,
-      "name": "greninja",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T10:49:10.306Z"
     }
   ],
   "pokemon": {
@@ -702,6 +701,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:00:58.576Z",
       "lastPulledAt": "2026-09-19T05:00:58.576Z"
+    },
+    "518": {
+      "id": 518,
+      "name": "musharna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-09-29T12:40:00.114Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T12:40:00.114Z",
+      "lastPulledAt": "2026-09-29T12:40:00.114Z"
     },
     "529": {
       "id": 529,
