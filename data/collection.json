@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 90,
-  "updatedAt": "2026-09-30T18:34:33.523Z",
+  "totalPulls": 91,
+  "updatedAt": "2026-09-30T22:35:44.916Z",
   "lastPull": {
-    "id": 473,
-    "name": "mamoswine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+    "id": 449,
+    "name": "hippopotas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
     "types": [
-      "ice",
       "ground"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-30T18:34:33.523Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-09-30T22:35:44.916Z"
   },
   "pulls": [
+    {
+      "id": 449,
+      "name": "hippopotas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-30T22:35:44.916Z"
+    },
     {
       "id": 473,
       "name": "mamoswine",
@@ -118,18 +128,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-29T00:24:18.459Z"
-    },
-    {
-      "id": 697,
-      "name": "tyrantrum",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
-      "types": [
-        "rock",
-        "dragon"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T20:11:19.260Z"
     }
   ],
   "pokemon": {
@@ -645,6 +643,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T10:59:16.192Z",
       "lastPulledAt": "2026-09-21T10:59:16.192Z"
+    },
+    "449": {
+      "id": 449,
+      "name": "hippopotas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-30T22:35:44.916Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T22:35:44.916Z",
+      "lastPulledAt": "2026-09-30T22:35:44.916Z"
     },
     "456": {
       "id": 456,
