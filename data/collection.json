@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 86,
-  "updatedAt": "2026-09-29T22:23:12.194Z",
+  "totalPulls": 87,
+  "updatedAt": "2026-09-30T01:24:42.873Z",
   "lastPull": {
-    "id": 630,
-    "name": "mandibuzz",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+    "id": 272,
+    "name": "ludicolo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
     "types": [
-      "dark",
-      "flying"
+      "water",
+      "grass"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-09-29T22:23:12.194Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-30T01:24:42.873Z"
   },
   "pulls": [
+    {
+      "id": 272,
+      "name": "ludicolo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-30T01:24:42.873Z"
+    },
     {
       "id": 630,
       "name": "mandibuzz",
@@ -116,18 +128,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-09-28T00:45:38.115Z"
-    },
-    {
-      "id": 635,
-      "name": "hydreigon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
-      "types": [
-        "dark",
-        "dragon"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-27T22:09:42.969Z"
     }
   ],
   "pokemon": {
@@ -472,6 +472,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T22:41:24.923Z",
       "lastPulledAt": "2026-09-17T22:41:24.923Z"
+    },
+    "272": {
+      "id": 272,
+      "name": "ludicolo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-30T01:24:42.873Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T01:24:42.873Z",
+      "lastPulledAt": "2026-09-30T01:24:42.873Z"
     },
     "299": {
       "id": 299,
