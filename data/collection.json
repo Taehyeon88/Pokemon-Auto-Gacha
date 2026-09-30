@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 87,
-  "updatedAt": "2026-09-30T01:24:42.873Z",
+  "totalPulls": 88,
+  "updatedAt": "2026-09-30T07:07:04.966Z",
   "lastPull": {
-    "id": 272,
-    "name": "ludicolo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "id": 12,
+    "name": "butterfree",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
     "types": [
-      "water",
-      "grass"
+      "bug",
+      "flying"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-09-30T01:24:42.873Z"
+    "totalStats": 395,
+    "grade": "N",
+    "pulledAt": "2026-09-30T07:07:04.966Z"
   },
   "pulls": [
+    {
+      "id": 12,
+      "name": "butterfree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-09-30T07:07:04.966Z"
+    },
     {
       "id": 272,
       "name": "ludicolo",
@@ -117,17 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-28T05:56:56.439Z"
-    },
-    {
-      "id": 578,
-      "name": "duosion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-09-28T00:45:38.115Z"
     }
   ],
   "pokemon": {
@@ -145,6 +146,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T20:27:50.464Z",
       "lastPulledAt": "2026-09-25T20:27:50.464Z"
+    },
+    "12": {
+      "id": 12,
+      "name": "butterfree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-09-30T07:07:04.966Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T07:07:04.966Z",
+      "lastPulledAt": "2026-09-30T07:07:04.966Z"
     },
     "14": {
       "id": 14,
