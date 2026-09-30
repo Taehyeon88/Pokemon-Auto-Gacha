@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 88,
-  "updatedAt": "2026-09-30T07:07:04.966Z",
+  "totalPulls": 89,
+  "updatedAt": "2026-09-30T13:38:54.857Z",
   "lastPull": {
-    "id": 12,
-    "name": "butterfree",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "id": 736,
+    "name": "grubbin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
     "types": [
-      "bug",
-      "flying"
+      "bug"
     ],
-    "totalStats": 395,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-09-30T07:07:04.966Z"
+    "pulledAt": "2026-09-30T13:38:54.857Z"
   },
   "pulls": [
+    {
+      "id": 736,
+      "name": "grubbin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-30T13:38:54.857Z"
+    },
     {
       "id": 12,
       "name": "butterfree",
@@ -118,17 +128,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-09-28T13:21:32.532Z"
-    },
-    {
-      "id": 57,
-      "name": "primeape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-09-28T05:56:56.439Z"
     }
   ],
   "pokemon": {
@@ -1121,6 +1120,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T13:18:18.332Z",
       "lastPulledAt": "2026-09-19T13:18:18.332Z"
+    },
+    "736": {
+      "id": 736,
+      "name": "grubbin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-30T13:38:54.857Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T13:38:54.857Z",
+      "lastPulledAt": "2026-09-30T13:38:54.857Z"
     },
     "755": {
       "id": 755,
