@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 89,
-  "updatedAt": "2026-09-30T13:38:54.857Z",
+  "totalPulls": 90,
+  "updatedAt": "2026-09-30T18:34:33.523Z",
   "lastPull": {
-    "id": 736,
-    "name": "grubbin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
+    "id": 473,
+    "name": "mamoswine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
     "types": [
-      "bug"
+      "ice",
+      "ground"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-30T13:38:54.857Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-30T18:34:33.523Z"
   },
   "pulls": [
+    {
+      "id": 473,
+      "name": "mamoswine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T18:34:33.523Z"
+    },
     {
       "id": 736,
       "name": "grubbin",
@@ -117,17 +130,6 @@
       "totalStats": 521,
       "grade": "SR",
       "pulledAt": "2026-09-28T20:11:19.260Z"
-    },
-    {
-      "id": 578,
-      "name": "duosion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-09-28T13:21:32.532Z"
     }
   ],
   "pokemon": {
@@ -719,6 +721,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T23:27:27.733Z",
       "lastPulledAt": "2026-09-25T23:27:27.733Z"
+    },
+    "473": {
+      "id": 473,
+      "name": "mamoswine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T18:34:33.523Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T18:34:33.523Z",
+      "lastPulledAt": "2026-09-30T18:34:33.523Z"
     },
     "488": {
       "id": 488,
