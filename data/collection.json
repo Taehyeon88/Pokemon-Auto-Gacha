@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 92,
-  "updatedAt": "2026-10-01T01:32:45.843Z",
+  "totalPulls": 93,
+  "updatedAt": "2026-10-01T07:46:01.260Z",
   "lastPull": {
-    "id": 773,
-    "name": "silvally",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+    "id": 448,
+    "name": "lucario",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
     "types": [
-      "normal"
+      "fighting",
+      "steel"
     ],
-    "totalStats": 570,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-10-01T01:32:45.843Z"
+    "pulledAt": "2026-10-01T07:46:01.260Z"
   },
   "pulls": [
+    {
+      "id": 448,
+      "name": "lucario",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-01T07:46:01.260Z"
+    },
     {
       "id": 773,
       "name": "silvally",
@@ -116,17 +129,6 @@
       "totalStats": 487,
       "grade": "R",
       "pulledAt": "2026-09-29T12:40:00.114Z"
-    },
-    {
-      "id": 488,
-      "name": "cresselia",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-29T05:59:42.838Z"
     }
   ],
   "pokemon": {
@@ -642,6 +644,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T10:59:16.192Z",
       "lastPulledAt": "2026-09-21T10:59:16.192Z"
+    },
+    "448": {
+      "id": 448,
+      "name": "lucario",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-01T07:46:01.260Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T07:46:01.260Z",
+      "lastPulledAt": "2026-10-01T07:46:01.260Z"
     },
     "449": {
       "id": 449,
