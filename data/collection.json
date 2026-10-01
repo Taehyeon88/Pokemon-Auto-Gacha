@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 91,
-  "updatedAt": "2026-09-30T22:35:44.916Z",
+  "totalPulls": 92,
+  "updatedAt": "2026-10-01T01:32:45.843Z",
   "lastPull": {
-    "id": 449,
-    "name": "hippopotas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+    "id": 773,
+    "name": "silvally",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
     "types": [
-      "ground"
+      "normal"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-09-30T22:35:44.916Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-01T01:32:45.843Z"
   },
   "pulls": [
+    {
+      "id": 773,
+      "name": "silvally",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-01T01:32:45.843Z"
+    },
     {
       "id": 449,
       "name": "hippopotas",
@@ -116,18 +127,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-29T05:59:42.838Z"
-    },
-    {
-      "id": 783,
-      "name": "hakamo-o",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
-      "types": [
-        "dragon",
-        "fighting"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-29T00:24:18.459Z"
     }
   ],
   "pokemon": {
@@ -1182,6 +1181,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:03.738Z",
       "lastPulledAt": "2026-09-16T01:47:03.738Z"
+    },
+    "773": {
+      "id": 773,
+      "name": "silvally",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-01T01:32:45.843Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T01:32:45.843Z",
+      "lastPulledAt": "2026-10-01T01:32:45.843Z"
     },
     "783": {
       "id": 783,
