@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 93,
-  "updatedAt": "2026-10-01T07:46:01.260Z",
+  "totalPulls": 94,
+  "updatedAt": "2026-10-01T14:49:11.164Z",
   "lastPull": {
-    "id": 448,
-    "name": "lucario",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "id": 451,
+    "name": "skorupi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
     "types": [
-      "fighting",
-      "steel"
+      "poison",
+      "bug"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-01T07:46:01.260Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-01T14:49:11.164Z"
   },
   "pulls": [
+    {
+      "id": 451,
+      "name": "skorupi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-01T14:49:11.164Z"
+    },
     {
       "id": 448,
       "name": "lucario",
@@ -118,17 +130,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-09-29T18:16:11.420Z"
-    },
-    {
-      "id": 518,
-      "name": "musharna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 487,
-      "grade": "R",
-      "pulledAt": "2026-09-29T12:40:00.114Z"
     }
   ],
   "pokemon": {
@@ -675,6 +676,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T22:35:44.916Z",
       "lastPulledAt": "2026-09-30T22:35:44.916Z"
+    },
+    "451": {
+      "id": 451,
+      "name": "skorupi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-01T14:49:11.164Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T14:49:11.164Z",
+      "lastPulledAt": "2026-10-01T14:49:11.164Z"
     },
     "456": {
       "id": 456,
