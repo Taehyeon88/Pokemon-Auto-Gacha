@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 99,
-  "updatedAt": "2026-10-02T15:42:18.104Z",
+  "totalPulls": 100,
+  "updatedAt": "2026-10-02T20:10:35.107Z",
   "lastPull": {
-    "id": 479,
-    "name": "rotom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "id": 565,
+    "name": "carracosta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
     "types": [
-      "electric",
-      "ghost"
+      "water",
+      "rock"
     ],
-    "totalStats": 440,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-10-02T15:42:18.104Z"
+    "pulledAt": "2026-10-02T20:10:35.107Z"
   },
   "pulls": [
+    {
+      "id": 565,
+      "name": "carracosta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-02T20:10:35.107Z"
+    },
     {
       "id": 479,
       "name": "rotom",
@@ -118,18 +130,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-09-30T22:35:44.916Z"
-    },
-    {
-      "id": 473,
-      "name": "mamoswine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
-      "types": [
-        "ice",
-        "ground"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T18:34:33.523Z"
     }
   ],
   "pokemon": {
@@ -938,6 +938,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T16:34:21.899Z",
       "lastPulledAt": "2026-09-19T16:34:21.899Z"
+    },
+    "565": {
+      "id": 565,
+      "name": "carracosta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-02T20:10:35.107Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T20:10:35.107Z",
+      "lastPulledAt": "2026-10-02T20:10:35.107Z"
     },
     "577": {
       "id": 577,
