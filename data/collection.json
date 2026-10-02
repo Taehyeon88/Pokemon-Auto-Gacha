@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 96,
-  "updatedAt": "2026-10-01T23:41:51.920Z",
+  "totalPulls": 97,
+  "updatedAt": "2026-10-02T02:36:11.336Z",
   "lastPull": {
-    "id": 577,
-    "name": "solosis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+    "id": 351,
+    "name": "castform",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
     "types": [
-      "psychic"
+      "normal"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-10-01T23:41:51.920Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-02T02:36:11.336Z"
   },
   "pulls": [
+    {
+      "id": 351,
+      "name": "castform",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-02T02:36:11.336Z"
+    },
     {
       "id": 577,
       "name": "solosis",
@@ -117,18 +128,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-09-30T07:07:04.966Z"
-    },
-    {
-      "id": 272,
-      "name": "ludicolo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
-      "types": [
-        "water",
-        "grass"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-30T01:24:42.873Z"
     }
   ],
   "pokemon": {
@@ -535,6 +534,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T19:57:51.462Z",
       "lastPulledAt": "2026-09-18T19:57:51.462Z"
+    },
+    "351": {
+      "id": 351,
+      "name": "castform",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-02T02:36:11.336Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T02:36:11.336Z",
+      "lastPulledAt": "2026-10-02T02:36:11.336Z"
     },
     "354": {
       "id": 354,
