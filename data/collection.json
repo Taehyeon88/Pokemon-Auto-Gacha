@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 98,
-  "updatedAt": "2026-10-02T08:59:22.034Z",
+  "totalPulls": 99,
+  "updatedAt": "2026-10-02T15:42:18.104Z",
   "lastPull": {
-    "id": 31,
-    "name": "nidoqueen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "id": 479,
+    "name": "rotom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
     "types": [
-      "poison",
-      "ground"
+      "electric",
+      "ghost"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-02T08:59:22.034Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-10-02T15:42:18.104Z"
   },
   "pulls": [
+    {
+      "id": 479,
+      "name": "rotom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+      "types": [
+        "electric",
+        "ghost"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-02T15:42:18.104Z"
+    },
     {
       "id": 31,
       "name": "nidoqueen",
@@ -118,17 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-30T18:34:33.523Z"
-    },
-    {
-      "id": 736,
-      "name": "grubbin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-30T13:38:54.857Z"
     }
   ],
   "pokemon": {
@@ -814,6 +815,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T18:34:33.523Z",
       "lastPulledAt": "2026-09-30T18:34:33.523Z"
+    },
+    "479": {
+      "id": 479,
+      "name": "rotom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+      "types": [
+        "electric",
+        "ghost"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-02T15:42:18.104Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T15:42:18.104Z",
+      "lastPulledAt": "2026-10-02T15:42:18.104Z"
     },
     "488": {
       "id": 488,
