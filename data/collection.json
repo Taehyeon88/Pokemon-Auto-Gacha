@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 104,
-  "updatedAt": "2026-10-03T14:26:14.477Z",
+  "totalPulls": 105,
+  "updatedAt": "2026-10-03T18:06:59.369Z",
   "lastPull": {
-    "id": 827,
-    "name": "nickit",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
+    "id": 286,
+    "name": "breloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
     "types": [
-      "dark"
+      "grass",
+      "fighting"
     ],
-    "totalStats": 245,
-    "grade": "N",
-    "pulledAt": "2026-10-03T14:26:14.477Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-10-03T18:06:59.369Z"
   },
   "pulls": [
+    {
+      "id": 286,
+      "name": "breloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-03T18:06:59.369Z"
+    },
     {
       "id": 827,
       "name": "nickit",
@@ -118,18 +131,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-01T23:41:51.920Z"
-    },
-    {
-      "id": 541,
-      "name": "swadloon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 380,
-      "grade": "N",
-      "pulledAt": "2026-10-01T19:54:46.679Z"
     }
   ],
   "pokemon": {
@@ -538,6 +539,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T01:24:42.873Z",
       "lastPulledAt": "2026-09-30T01:24:42.873Z"
+    },
+    "286": {
+      "id": 286,
+      "name": "breloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-03T18:06:59.369Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T18:06:59.369Z",
+      "lastPulledAt": "2026-10-03T18:06:59.369Z"
     },
     "299": {
       "id": 299,
