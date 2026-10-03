@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 101,
-  "updatedAt": "2026-10-02T23:50:48.178Z",
+  "totalPulls": 102,
+  "updatedAt": "2026-10-03T03:58:24.165Z",
   "lastPull": {
-    "id": 841,
-    "name": "flapple",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+    "id": 380,
+    "name": "latias",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
     "types": [
-      "grass",
-      "dragon"
+      "dragon",
+      "psychic"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-02T23:50:48.178Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-03T03:58:24.165Z"
   },
   "pulls": [
+    {
+      "id": 380,
+      "name": "latias",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-03T03:58:24.165Z"
+    },
     {
       "id": 841,
       "name": "flapple",
@@ -120,17 +132,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-01T07:46:01.260Z"
-    },
-    {
-      "id": 773,
-      "name": "silvally",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-01T01:32:45.843Z"
     }
   ],
   "pokemon": {
@@ -630,6 +631,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T00:31:40.691Z",
       "lastPulledAt": "2026-09-27T00:31:40.691Z"
+    },
+    "380": {
+      "id": 380,
+      "name": "latias",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-03T03:58:24.165Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T03:58:24.165Z",
+      "lastPulledAt": "2026-10-03T03:58:24.165Z"
     },
     "392": {
       "id": 392,
