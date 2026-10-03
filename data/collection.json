@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 106,
-  "updatedAt": "2026-10-03T21:10:56.769Z",
+  "totalPulls": 107,
+  "updatedAt": "2026-10-03T23:52:45.413Z",
   "lastPull": {
-    "id": 954,
-    "name": "rabsca",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+    "id": 374,
+    "name": "beldum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
     "types": [
-      "bug",
+      "steel",
       "psychic"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-10-03T21:10:56.769Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-03T23:52:45.413Z"
   },
   "pulls": [
+    {
+      "id": 374,
+      "name": "beldum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-03T23:52:45.413Z"
+    },
     {
       "id": 954,
       "name": "rabsca",
@@ -121,17 +133,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-02T08:59:22.034Z"
-    },
-    {
-      "id": 351,
-      "name": "castform",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-02T02:36:11.336Z"
     }
   ],
   "pokemon": {
@@ -659,10 +660,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-27T00:31:40.691Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T00:31:40.691Z",
-      "lastPulledAt": "2026-09-27T00:31:40.691Z"
+      "lastPulledAt": "2026-10-03T23:52:45.413Z"
     },
     "380": {
       "id": 380,
