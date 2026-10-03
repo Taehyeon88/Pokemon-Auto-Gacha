@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 103,
-  "updatedAt": "2026-10-03T09:47:38.662Z",
+  "totalPulls": 104,
+  "updatedAt": "2026-10-03T14:26:14.477Z",
   "lastPull": {
-    "id": 146,
-    "name": "moltres",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "id": 827,
+    "name": "nickit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
     "types": [
-      "fire",
-      "flying"
+      "dark"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-03T09:47:38.662Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-10-03T14:26:14.477Z"
   },
   "pulls": [
+    {
+      "id": 827,
+      "name": "nickit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-03T14:26:14.477Z"
+    },
     {
       "id": 146,
       "name": "moltres",
@@ -120,18 +130,6 @@
       "totalStats": 380,
       "grade": "N",
       "pulledAt": "2026-10-01T19:54:46.679Z"
-    },
-    {
-      "id": 451,
-      "name": "skorupi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
-      "types": [
-        "poison",
-        "bug"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-01T14:49:11.164Z"
     }
   ],
   "pokemon": {
@@ -1407,6 +1405,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T00:30:40.827Z",
       "lastPulledAt": "2026-09-19T00:30:40.827Z"
+    },
+    "827": {
+      "id": 827,
+      "name": "nickit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-03T14:26:14.477Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T14:26:14.477Z",
+      "lastPulledAt": "2026-10-03T14:26:14.477Z"
     },
     "836": {
       "id": 836,
