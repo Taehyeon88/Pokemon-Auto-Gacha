@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 111,
-  "updatedAt": "2026-10-04T18:46:44.842Z",
+  "totalPulls": 112,
+  "updatedAt": "2026-10-04T21:59:15.910Z",
   "lastPull": {
-    "id": 129,
-    "name": "magikarp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "id": 779,
+    "name": "bruxish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
     "types": [
-      "water"
+      "water",
+      "psychic"
     ],
-    "totalStats": 200,
-    "grade": "N",
-    "pulledAt": "2026-10-04T18:46:44.842Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-10-04T21:59:15.910Z"
   },
   "pulls": [
+    {
+      "id": 779,
+      "name": "bruxish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-04T21:59:15.910Z"
+    },
     {
       "id": 129,
       "name": "magikarp",
@@ -118,18 +131,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-03T09:47:38.662Z"
-    },
-    {
-      "id": 380,
-      "name": "latias",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
-      "types": [
-        "dragon",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-03T03:58:24.165Z"
     }
   ],
   "pokemon": {
@@ -1404,6 +1405,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T01:32:45.843Z",
       "lastPulledAt": "2026-10-01T01:32:45.843Z"
+    },
+    "779": {
+      "id": 779,
+      "name": "bruxish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-04T21:59:15.910Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T21:59:15.910Z",
+      "lastPulledAt": "2026-10-04T21:59:15.910Z"
     },
     "780": {
       "id": 780,
