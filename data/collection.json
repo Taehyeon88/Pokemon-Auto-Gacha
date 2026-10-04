@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 108,
-  "updatedAt": "2026-10-04T04:31:08.907Z",
+  "totalPulls": 109,
+  "updatedAt": "2026-10-04T10:44:47.035Z",
   "lastPull": {
-    "id": 780,
-    "name": "drampa",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
+    "id": 475,
+    "name": "gallade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
     "types": [
-      "normal",
-      "dragon"
+      "psychic",
+      "fighting"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-04T04:31:08.907Z"
+    "totalStats": 518,
+    "grade": "SR",
+    "pulledAt": "2026-10-04T10:44:47.035Z"
   },
   "pulls": [
+    {
+      "id": 475,
+      "name": "gallade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T10:44:47.035Z"
+    },
     {
       "id": 780,
       "name": "drampa",
@@ -121,18 +133,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-02T20:10:35.107Z"
-    },
-    {
-      "id": 479,
-      "name": "rotom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
-      "types": [
-        "electric",
-        "ghost"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-10-02T15:42:18.104Z"
     }
   ],
   "pokemon": {
@@ -866,6 +866,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T18:34:33.523Z",
       "lastPulledAt": "2026-09-30T18:34:33.523Z"
+    },
+    "475": {
+      "id": 475,
+      "name": "gallade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T10:44:47.035Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T10:44:47.035Z",
+      "lastPulledAt": "2026-10-04T10:44:47.035Z"
     },
     "479": {
       "id": 479,
