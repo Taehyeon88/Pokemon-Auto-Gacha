@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 115,
-  "updatedAt": "2026-10-05T14:58:56.375Z",
+  "totalPulls": 116,
+  "updatedAt": "2026-10-05T21:56:57.590Z",
   "lastPull": {
-    "id": 672,
-    "name": "skiddo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png",
+    "id": 275,
+    "name": "shiftry",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
     "types": [
-      "grass"
+      "grass",
+      "dark"
     ],
-    "totalStats": 350,
-    "grade": "N",
-    "pulledAt": "2026-10-05T14:58:56.375Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-05T21:56:57.590Z"
   },
   "pulls": [
+    {
+      "id": 275,
+      "name": "shiftry",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-05T21:56:57.590Z"
+    },
     {
       "id": 672,
       "name": "skiddo",
@@ -118,18 +131,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-03T23:52:45.413Z"
-    },
-    {
-      "id": 954,
-      "name": "rabsca",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
-      "types": [
-        "bug",
-        "psychic"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-03T21:10:56.769Z"
     }
   ],
   "pokemon": {
@@ -569,6 +570,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T01:24:42.873Z",
       "lastPulledAt": "2026-09-30T01:24:42.873Z"
+    },
+    "275": {
+      "id": 275,
+      "name": "shiftry",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-05T21:56:57.590Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T21:56:57.590Z",
+      "lastPulledAt": "2026-10-05T21:56:57.590Z"
     },
     "286": {
       "id": 286,
