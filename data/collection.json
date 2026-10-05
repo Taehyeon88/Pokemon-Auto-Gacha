@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 112,
-  "updatedAt": "2026-10-04T21:59:15.910Z",
+  "totalPulls": 113,
+  "updatedAt": "2026-10-05T00:44:28.687Z",
   "lastPull": {
-    "id": 779,
-    "name": "bruxish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+    "id": 347,
+    "name": "anorith",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
     "types": [
-      "water",
-      "psychic"
+      "rock",
+      "bug"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-10-04T21:59:15.910Z"
+    "totalStats": 355,
+    "grade": "N",
+    "pulledAt": "2026-10-05T00:44:28.687Z"
   },
   "pulls": [
+    {
+      "id": 347,
+      "name": "anorith",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-05T00:44:28.687Z"
+    },
     {
       "id": 779,
       "name": "bruxish",
@@ -119,18 +131,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-10-03T14:26:14.477Z"
-    },
-    {
-      "id": 146,
-      "name": "moltres",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T09:47:38.662Z"
     }
   ],
   "pokemon": {
@@ -615,6 +615,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T15:31:01.995Z",
       "lastPulledAt": "2026-10-04T15:31:01.995Z"
+    },
+    "347": {
+      "id": 347,
+      "name": "anorith",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-05T00:44:28.687Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T00:44:28.687Z",
+      "lastPulledAt": "2026-10-05T00:44:28.687Z"
     },
     "351": {
       "id": 351,
