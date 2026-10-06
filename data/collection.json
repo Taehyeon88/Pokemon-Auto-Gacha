@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 117,
-  "updatedAt": "2026-10-06T02:07:41.377Z",
+  "totalPulls": 118,
+  "updatedAt": "2026-10-06T08:57:08.097Z",
   "lastPull": {
-    "id": 238,
-    "name": "smoochum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
+    "id": 835,
+    "name": "yamper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
     "types": [
-      "ice",
-      "psychic"
+      "electric"
     ],
-    "totalStats": 305,
+    "totalStats": 270,
     "grade": "N",
-    "pulledAt": "2026-10-06T02:07:41.377Z"
+    "pulledAt": "2026-10-06T08:57:08.097Z"
   },
   "pulls": [
+    {
+      "id": 835,
+      "name": "yamper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-06T08:57:08.097Z"
+    },
     {
       "id": 238,
       "name": "smoochum",
@@ -119,18 +129,6 @@
       "totalStats": 518,
       "grade": "SR",
       "pulledAt": "2026-10-04T10:44:47.035Z"
-    },
-    {
-      "id": 780,
-      "name": "drampa",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
-      "types": [
-        "normal",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-04T04:31:08.907Z"
     }
   ],
   "pokemon": {
@@ -1594,6 +1592,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T14:26:14.477Z",
       "lastPulledAt": "2026-10-03T14:26:14.477Z"
+    },
+    "835": {
+      "id": 835,
+      "name": "yamper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-06T08:57:08.097Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T08:57:08.097Z",
+      "lastPulledAt": "2026-10-06T08:57:08.097Z"
     },
     "836": {
       "id": 836,
