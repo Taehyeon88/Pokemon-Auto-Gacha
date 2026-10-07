@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 122,
-  "updatedAt": "2026-10-07T05:51:08.884Z",
+  "totalPulls": 123,
+  "updatedAt": "2026-10-07T12:43:35.767Z",
   "lastPull": {
-    "id": 901,
-    "name": "ursaluna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+    "id": 973,
+    "name": "flamigo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
     "types": [
-      "ground",
-      "normal"
+      "flying",
+      "fighting"
     ],
-    "totalStats": 550,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-10-07T05:51:08.884Z"
+    "pulledAt": "2026-10-07T12:43:35.767Z"
   },
   "pulls": [
+    {
+      "id": 973,
+      "name": "flamigo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+      "types": [
+        "flying",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T12:43:35.767Z"
+    },
     {
       "id": 901,
       "name": "ursaluna",
@@ -118,18 +130,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-05T06:18:32.771Z"
-    },
-    {
-      "id": 347,
-      "name": "anorith",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
-      "types": [
-        "rock",
-        "bug"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-10-05T00:44:28.687Z"
     }
   ],
   "pokemon": {
@@ -1810,6 +1810,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T13:41:44.339Z",
       "lastPulledAt": "2026-09-22T13:41:44.339Z"
+    },
+    "973": {
+      "id": 973,
+      "name": "flamigo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+      "types": [
+        "flying",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T12:43:35.767Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T12:43:35.767Z",
+      "lastPulledAt": "2026-10-07T12:43:35.767Z"
     },
     "979": {
       "id": 979,
