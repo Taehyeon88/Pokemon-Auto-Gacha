@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 121,
-  "updatedAt": "2026-10-07T00:05:40.225Z",
+  "totalPulls": 122,
+  "updatedAt": "2026-10-07T05:51:08.884Z",
   "lastPull": {
-    "id": 55,
-    "name": "golduck",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "id": 901,
+    "name": "ursaluna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
     "types": [
-      "water"
+      "ground",
+      "normal"
     ],
-    "totalStats": 500,
+    "totalStats": 550,
     "grade": "SR",
-    "pulledAt": "2026-10-07T00:05:40.225Z"
+    "pulledAt": "2026-10-07T05:51:08.884Z"
   },
   "pulls": [
+    {
+      "id": 901,
+      "name": "ursaluna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+      "types": [
+        "ground",
+        "normal"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T05:51:08.884Z"
+    },
     {
       "id": 55,
       "name": "golduck",
@@ -117,18 +130,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-10-05T00:44:28.687Z"
-    },
-    {
-      "id": 779,
-      "name": "bruxish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-04T21:59:15.910Z"
     }
   ],
   "pokemon": {
@@ -1729,6 +1730,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T15:56:31.988Z",
       "lastPulledAt": "2026-09-24T15:56:31.988Z"
+    },
+    "901": {
+      "id": 901,
+      "name": "ursaluna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+      "types": [
+        "ground",
+        "normal"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T05:51:08.884Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T05:51:08.884Z",
+      "lastPulledAt": "2026-10-07T05:51:08.884Z"
     },
     "904": {
       "id": 904,
