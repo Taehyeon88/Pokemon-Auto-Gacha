@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 123,
-  "updatedAt": "2026-10-07T12:43:35.767Z",
+  "totalPulls": 124,
+  "updatedAt": "2026-10-07T19:05:38.590Z",
   "lastPull": {
-    "id": 973,
-    "name": "flamigo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+    "id": 747,
+    "name": "mareanie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
     "types": [
-      "flying",
-      "fighting"
+      "poison",
+      "water"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-07T12:43:35.767Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-07T19:05:38.590Z"
   },
   "pulls": [
+    {
+      "id": 747,
+      "name": "mareanie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-07T19:05:38.590Z"
+    },
     {
       "id": 973,
       "name": "flamigo",
@@ -118,18 +130,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-10-05T14:58:56.375Z"
-    },
-    {
-      "id": 3,
-      "name": "venusaur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-05T06:18:32.771Z"
     }
   ],
   "pokemon": {
@@ -1498,6 +1498,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T13:38:54.857Z",
       "lastPulledAt": "2026-09-30T13:38:54.857Z"
+    },
+    "747": {
+      "id": 747,
+      "name": "mareanie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-07T19:05:38.590Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T19:05:38.590Z",
+      "lastPulledAt": "2026-10-07T19:05:38.590Z"
     },
     "755": {
       "id": 755,
