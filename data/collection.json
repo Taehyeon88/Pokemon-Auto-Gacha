@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 125,
-  "updatedAt": "2026-10-07T23:33:29.394Z",
+  "totalPulls": 126,
+  "updatedAt": "2026-10-08T02:53:23.214Z",
   "lastPull": {
-    "id": 640,
-    "name": "virizion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
+    "id": 579,
+    "name": "reuniclus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
     "types": [
-      "grass",
-      "fighting"
+      "psychic"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-07T23:33:29.394Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-08T02:53:23.214Z"
   },
   "pulls": [
+    {
+      "id": 579,
+      "name": "reuniclus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-08T02:53:23.214Z"
+    },
     {
       "id": 640,
       "name": "virizion",
@@ -119,18 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-06T02:07:41.377Z"
-    },
-    {
-      "id": 275,
-      "name": "shiftry",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-05T21:56:57.590Z"
     }
   ],
   "pokemon": {
@@ -1189,6 +1187,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T00:45:38.115Z",
       "lastPulledAt": "2026-09-28T13:21:32.532Z"
+    },
+    "579": {
+      "id": 579,
+      "name": "reuniclus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-08T02:53:23.214Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T02:53:23.214Z",
+      "lastPulledAt": "2026-10-08T02:53:23.214Z"
     },
     "615": {
       "id": 615,
