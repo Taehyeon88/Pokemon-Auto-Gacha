@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 128,
-  "updatedAt": "2026-10-08T17:22:34.309Z",
+  "totalPulls": 129,
+  "updatedAt": "2026-10-08T22:17:49.771Z",
   "lastPull": {
-    "id": 776,
-    "name": "turtonator",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+    "id": 739,
+    "name": "crabrawler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
     "types": [
-      "fire",
-      "dragon"
+      "fighting"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-08T17:22:34.309Z"
+    "totalStats": 338,
+    "grade": "N",
+    "pulledAt": "2026-10-08T22:17:49.771Z"
   },
   "pulls": [
+    {
+      "id": 739,
+      "name": "crabrawler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 338,
+      "grade": "N",
+      "pulledAt": "2026-10-08T22:17:49.771Z"
+    },
     {
       "id": 776,
       "name": "turtonator",
@@ -119,17 +129,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-10-06T20:35:12.123Z"
-    },
-    {
-      "id": 404,
-      "name": "luxio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 363,
-      "grade": "N",
-      "pulledAt": "2026-10-06T15:45:24.518Z"
     }
   ],
   "pokemon": {
@@ -1544,6 +1543,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T13:38:54.857Z",
       "lastPulledAt": "2026-09-30T13:38:54.857Z"
+    },
+    "739": {
+      "id": 739,
+      "name": "crabrawler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 338,
+      "grade": "N",
+      "pulledAt": "2026-10-08T22:17:49.771Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T22:17:49.771Z",
+      "lastPulledAt": "2026-10-08T22:17:49.771Z"
     },
     "747": {
       "id": 747,
