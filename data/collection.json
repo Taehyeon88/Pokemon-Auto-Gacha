@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 127,
-  "updatedAt": "2026-10-08T10:04:17.384Z",
+  "totalPulls": 128,
+  "updatedAt": "2026-10-08T17:22:34.309Z",
   "lastPull": {
-    "id": 300,
-    "name": "skitty",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
+    "id": 776,
+    "name": "turtonator",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
     "types": [
-      "normal"
+      "fire",
+      "dragon"
     ],
-    "totalStats": 260,
-    "grade": "N",
-    "pulledAt": "2026-10-08T10:04:17.384Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-08T17:22:34.309Z"
   },
   "pulls": [
+    {
+      "id": 776,
+      "name": "turtonator",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-08T17:22:34.309Z"
+    },
     {
       "id": 300,
       "name": "skitty",
@@ -117,17 +130,6 @@
       "totalStats": 363,
       "grade": "N",
       "pulledAt": "2026-10-06T15:45:24.518Z"
-    },
-    {
-      "id": 835,
-      "name": "yamper",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-06T08:57:08.097Z"
     }
   ],
   "pokemon": {
@@ -1589,6 +1591,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T01:32:45.843Z",
       "lastPulledAt": "2026-10-01T01:32:45.843Z"
+    },
+    "776": {
+      "id": 776,
+      "name": "turtonator",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-08T17:22:34.309Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T17:22:34.309Z",
+      "lastPulledAt": "2026-10-08T17:22:34.309Z"
     },
     "779": {
       "id": 779,
