@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 132,
-  "updatedAt": "2026-10-09T16:19:54.596Z",
+  "totalPulls": 133,
+  "updatedAt": "2026-10-09T21:02:13.308Z",
   "lastPull": {
-    "id": 749,
-    "name": "mudbray",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+    "id": 544,
+    "name": "whirlipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
     "types": [
-      "ground"
+      "bug",
+      "poison"
     ],
-    "totalStats": 385,
+    "totalStats": 360,
     "grade": "N",
-    "pulledAt": "2026-10-09T16:19:54.596Z"
+    "pulledAt": "2026-10-09T21:02:13.308Z"
   },
   "pulls": [
+    {
+      "id": 544,
+      "name": "whirlipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-09T21:02:13.308Z"
+    },
     {
       "id": 749,
       "name": "mudbray",
@@ -117,18 +130,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-07T19:05:38.590Z"
-    },
-    {
-      "id": 973,
-      "name": "flamigo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
-      "types": [
-        "flying",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T12:43:35.767Z"
     }
   ],
   "pokemon": {
@@ -1157,6 +1158,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T19:54:46.679Z",
       "lastPulledAt": "2026-10-01T19:54:46.679Z"
+    },
+    "544": {
+      "id": 544,
+      "name": "whirlipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-09T21:02:13.308Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T21:02:13.308Z",
+      "lastPulledAt": "2026-10-09T21:02:13.308Z"
     },
     "548": {
       "id": 548,
