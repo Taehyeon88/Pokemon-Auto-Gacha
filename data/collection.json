@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 131,
-  "updatedAt": "2026-10-09T09:16:40.028Z",
+  "totalPulls": 132,
+  "updatedAt": "2026-10-09T16:19:54.596Z",
   "lastPull": {
-    "id": 220,
-    "name": "swinub",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png",
+    "id": 749,
+    "name": "mudbray",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
     "types": [
-      "ice",
       "ground"
     ],
-    "totalStats": 250,
+    "totalStats": 385,
     "grade": "N",
-    "pulledAt": "2026-10-09T09:16:40.028Z"
+    "pulledAt": "2026-10-09T16:19:54.596Z"
   },
   "pulls": [
+    {
+      "id": 749,
+      "name": "mudbray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-09T16:19:54.596Z"
+    },
     {
       "id": 220,
       "name": "swinub",
@@ -119,18 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-07T12:43:35.767Z"
-    },
-    {
-      "id": 901,
-      "name": "ursaluna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
-      "types": [
-        "ground",
-        "normal"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T05:51:08.884Z"
     }
   ],
   "pokemon": {
@@ -1608,6 +1606,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T19:05:38.590Z",
       "lastPulledAt": "2026-10-07T19:05:38.590Z"
+    },
+    "749": {
+      "id": 749,
+      "name": "mudbray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-09T16:19:54.596Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T16:19:54.596Z",
+      "lastPulledAt": "2026-10-09T16:19:54.596Z"
     },
     "755": {
       "id": 755,
