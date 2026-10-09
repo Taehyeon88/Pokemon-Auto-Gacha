@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 129,
-  "updatedAt": "2026-10-08T22:17:49.771Z",
+  "totalPulls": 130,
+  "updatedAt": "2026-10-09T02:17:42.297Z",
   "lastPull": {
-    "id": 739,
-    "name": "crabrawler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "id": 215,
+    "name": "sneasel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
     "types": [
-      "fighting"
+      "dark",
+      "ice"
     ],
-    "totalStats": 338,
-    "grade": "N",
-    "pulledAt": "2026-10-08T22:17:49.771Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-10-09T02:17:42.297Z"
   },
   "pulls": [
+    {
+      "id": 215,
+      "name": "sneasel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-09T02:17:42.297Z"
+    },
     {
       "id": 739,
       "name": "crabrawler",
@@ -117,18 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-07T00:05:40.225Z"
-    },
-    {
-      "id": 13,
-      "name": "weedle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 195,
-      "grade": "N",
-      "pulledAt": "2026-10-06T20:35:12.123Z"
     }
   ],
   "pokemon": {
@@ -520,6 +521,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T18:52:50.373Z",
       "lastPulledAt": "2026-09-19T18:52:50.373Z"
+    },
+    "215": {
+      "id": 215,
+      "name": "sneasel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-09T02:17:42.297Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T02:17:42.297Z",
+      "lastPulledAt": "2026-10-09T02:17:42.297Z"
     },
     "227": {
       "id": 227,
