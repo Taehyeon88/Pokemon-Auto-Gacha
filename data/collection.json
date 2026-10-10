@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 137,
-  "updatedAt": "2026-10-10T17:39:31.354Z",
+  "totalPulls": 138,
+  "updatedAt": "2026-10-10T20:42:26.022Z",
   "lastPull": {
-    "id": 1016,
-    "name": "fezandipiti",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
+    "id": 793,
+    "name": "nihilego",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
     "types": [
-      "poison",
-      "fairy"
+      "rock",
+      "poison"
     ],
-    "totalStats": 555,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-10T17:39:31.354Z"
+    "pulledAt": "2026-10-10T20:42:26.022Z"
   },
   "pulls": [
+    {
+      "id": 793,
+      "name": "nihilego",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T20:42:26.022Z"
+    },
     {
       "id": 1016,
       "name": "fezandipiti",
@@ -120,18 +132,6 @@
       "totalStats": 338,
       "grade": "N",
       "pulledAt": "2026-10-08T22:17:49.771Z"
-    },
-    {
-      "id": 776,
-      "name": "turtonator",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
-      "types": [
-        "fire",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-08T17:22:34.309Z"
     }
   ],
   "pokemon": {
@@ -1767,6 +1767,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T00:24:18.459Z",
       "lastPulledAt": "2026-09-29T00:24:18.459Z"
+    },
+    "793": {
+      "id": 793,
+      "name": "nihilego",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T20:42:26.022Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T20:42:26.022Z",
+      "lastPulledAt": "2026-10-10T20:42:26.022Z"
     },
     "798": {
       "id": 798,
