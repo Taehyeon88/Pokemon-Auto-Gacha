@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-10T00:45:04.278Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-10T06:26:26.302Z",
   "lastPull": {
-    "id": 225,
-    "name": "delibird",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+    "id": 798,
+    "name": "kartana",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
     "types": [
-      "ice",
-      "flying"
+      "grass",
+      "steel"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-10T00:45:04.278Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-10T06:26:26.302Z"
   },
   "pulls": [
+    {
+      "id": 798,
+      "name": "kartana",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T06:26:26.302Z"
+    },
     {
       "id": 225,
       "name": "delibird",
@@ -118,18 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-08T02:53:23.214Z"
-    },
-    {
-      "id": 640,
-      "name": "virizion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
-      "types": [
-        "grass",
-        "fighting"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T23:33:29.394Z"
     }
   ],
   "pokemon": {
@@ -1749,6 +1749,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T00:24:18.459Z",
       "lastPulledAt": "2026-09-29T00:24:18.459Z"
+    },
+    "798": {
+      "id": 798,
+      "name": "kartana",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T06:26:26.302Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T06:26:26.302Z",
+      "lastPulledAt": "2026-10-10T06:26:26.302Z"
     },
     "802": {
       "id": 802,
