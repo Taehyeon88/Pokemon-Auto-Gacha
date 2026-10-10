@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 135,
-  "updatedAt": "2026-10-10T06:26:26.302Z",
+  "totalPulls": 136,
+  "updatedAt": "2026-10-10T12:54:18.800Z",
   "lastPull": {
-    "id": 798,
-    "name": "kartana",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+    "id": 459,
+    "name": "snover",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
     "types": [
       "grass",
-      "steel"
+      "ice"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-10T06:26:26.302Z"
+    "totalStats": 334,
+    "grade": "N",
+    "pulledAt": "2026-10-10T12:54:18.800Z"
   },
   "pulls": [
+    {
+      "id": 459,
+      "name": "snover",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-10-10T12:54:18.800Z"
+    },
     {
       "id": 798,
       "name": "kartana",
@@ -119,17 +131,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-10-08T10:04:17.384Z"
-    },
-    {
-      "id": 579,
-      "name": "reuniclus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-08T02:53:23.214Z"
     }
   ],
   "pokemon": {
@@ -1020,6 +1021,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:16:18.033Z",
       "lastPulledAt": "2026-09-20T01:16:18.033Z"
+    },
+    "459": {
+      "id": 459,
+      "name": "snover",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-10-10T12:54:18.800Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T12:54:18.800Z",
+      "lastPulledAt": "2026-10-10T12:54:18.800Z"
     },
     "463": {
       "id": 463,
