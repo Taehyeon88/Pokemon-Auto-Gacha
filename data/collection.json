@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 141,
-  "updatedAt": "2026-10-11T10:53:03.656Z",
+  "totalPulls": 142,
+  "updatedAt": "2026-10-11T16:33:46.048Z",
   "lastPull": {
-    "id": 588,
-    "name": "karrablast",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+    "id": 213,
+    "name": "shuckle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
     "types": [
-      "bug"
+      "bug",
+      "rock"
     ],
-    "totalStats": 315,
-    "grade": "N",
-    "pulledAt": "2026-10-11T10:53:03.656Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-11T16:33:46.048Z"
   },
   "pulls": [
+    {
+      "id": 213,
+      "name": "shuckle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T16:33:46.048Z"
+    },
     {
       "id": 588,
       "name": "karrablast",
@@ -120,17 +133,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-10-09T21:02:13.308Z"
-    },
-    {
-      "id": 749,
-      "name": "mudbray",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 385,
-      "grade": "N",
-      "pulledAt": "2026-10-09T16:19:54.596Z"
     }
   ],
   "pokemon": {
@@ -522,6 +524,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T18:52:50.373Z",
       "lastPulledAt": "2026-09-19T18:52:50.373Z"
+    },
+    "213": {
+      "id": 213,
+      "name": "shuckle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T16:33:46.048Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T16:33:46.048Z",
+      "lastPulledAt": "2026-10-11T16:33:46.048Z"
     },
     "215": {
       "id": 215,
