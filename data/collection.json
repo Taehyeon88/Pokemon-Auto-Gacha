@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 147,
-  "updatedAt": "2026-10-12T21:50:20.838Z",
+  "totalPulls": 148,
+  "updatedAt": "2026-10-13T02:50:47.877Z",
   "lastPull": {
-    "id": 631,
-    "name": "heatmor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+    "id": 186,
+    "name": "politoed",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 484,
-    "grade": "R",
-    "pulledAt": "2026-10-12T21:50:20.838Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-13T02:50:47.877Z"
   },
   "pulls": [
+    {
+      "id": 186,
+      "name": "politoed",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T02:50:47.877Z"
+    },
     {
       "id": 631,
       "name": "heatmor",
@@ -118,18 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-10T23:54:23.236Z"
-    },
-    {
-      "id": 793,
-      "name": "nihilego",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
-      "types": [
-        "rock",
-        "poison"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-10T20:42:26.022Z"
     }
   ],
   "pokemon": {
@@ -505,6 +504,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T05:25:57.329Z",
       "lastPulledAt": "2026-09-21T05:25:57.329Z"
+    },
+    "186": {
+      "id": 186,
+      "name": "politoed",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T02:50:47.877Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T02:50:47.877Z",
+      "lastPulledAt": "2026-10-13T02:50:47.877Z"
     },
     "188": {
       "id": 188,
