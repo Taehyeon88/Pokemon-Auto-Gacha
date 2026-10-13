@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 148,
-  "updatedAt": "2026-10-13T02:50:47.877Z",
+  "totalPulls": 149,
+  "updatedAt": "2026-10-13T10:08:05.100Z",
   "lastPull": {
-    "id": 186,
-    "name": "politoed",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
+    "id": 833,
+    "name": "chewtle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
     "types": [
       "water"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-13T02:50:47.877Z"
+    "totalStats": 284,
+    "grade": "N",
+    "pulledAt": "2026-10-13T10:08:05.100Z"
   },
   "pulls": [
+    {
+      "id": 833,
+      "name": "chewtle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 284,
+      "grade": "N",
+      "pulledAt": "2026-10-13T10:08:05.100Z"
+    },
     {
       "id": 186,
       "name": "politoed",
@@ -117,18 +128,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-11T04:14:54.706Z"
-    },
-    {
-      "id": 883,
-      "name": "arctovish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-10T23:54:23.236Z"
     }
   ],
   "pokemon": {
@@ -1966,6 +1965,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T14:26:14.477Z",
       "lastPulledAt": "2026-10-03T14:26:14.477Z"
+    },
+    "833": {
+      "id": 833,
+      "name": "chewtle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 284,
+      "grade": "N",
+      "pulledAt": "2026-10-13T10:08:05.100Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T10:08:05.100Z",
+      "lastPulledAt": "2026-10-13T10:08:05.100Z"
     },
     "835": {
       "id": 835,
