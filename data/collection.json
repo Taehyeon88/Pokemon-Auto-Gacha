@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-10-13T10:08:05.100Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-10-13T17:35:03.347Z",
   "lastPull": {
-    "id": 833,
-    "name": "chewtle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
+    "id": 823,
+    "name": "corviknight",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
     "types": [
-      "water"
+      "flying",
+      "steel"
     ],
-    "totalStats": 284,
-    "grade": "N",
-    "pulledAt": "2026-10-13T10:08:05.100Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-13T17:35:03.347Z"
   },
   "pulls": [
+    {
+      "id": 823,
+      "name": "corviknight",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-13T17:35:03.347Z"
+    },
     {
       "id": 833,
       "name": "chewtle",
@@ -116,18 +129,6 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-10-11T10:53:03.656Z"
-    },
-    {
-      "id": 257,
-      "name": "blaziken",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T04:14:54.706Z"
     }
   ],
   "pokemon": {
@@ -1934,6 +1935,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T19:19:46.426Z",
       "lastPulledAt": "2026-09-26T19:19:46.426Z"
+    },
+    "823": {
+      "id": 823,
+      "name": "corviknight",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-13T17:35:03.347Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T17:35:03.347Z",
+      "lastPulledAt": "2026-10-13T17:35:03.347Z"
     },
     "826": {
       "id": 826,
