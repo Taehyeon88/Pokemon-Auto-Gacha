@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 151,
-  "updatedAt": "2026-10-13T21:56:40.810Z",
+  "totalPulls": 152,
+  "updatedAt": "2026-10-14T00:58:12.729Z",
   "lastPull": {
-    "id": 472,
-    "name": "gliscor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+    "id": 181,
+    "name": "ampharos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
     "types": [
-      "ground",
-      "flying"
+      "electric"
     ],
     "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-10-13T21:56:40.810Z"
+    "pulledAt": "2026-10-14T00:58:12.729Z"
   },
   "pulls": [
+    {
+      "id": 181,
+      "name": "ampharos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T00:58:12.729Z"
+    },
     {
       "id": 472,
       "name": "gliscor",
@@ -118,18 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-11T20:32:58.858Z"
-    },
-    {
-      "id": 213,
-      "name": "shuckle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
-      "types": [
-        "bug",
-        "rock"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T16:33:46.048Z"
     }
   ],
   "pokemon": {
@@ -505,6 +503,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T05:25:57.329Z",
       "lastPulledAt": "2026-09-21T05:25:57.329Z"
+    },
+    "181": {
+      "id": 181,
+      "name": "ampharos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T00:58:12.729Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T00:58:12.729Z",
+      "lastPulledAt": "2026-10-14T00:58:12.729Z"
     },
     "186": {
       "id": 186,
