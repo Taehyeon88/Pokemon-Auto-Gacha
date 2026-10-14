@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 152,
-  "updatedAt": "2026-10-14T00:58:12.729Z",
+  "totalPulls": 153,
+  "updatedAt": "2026-10-14T05:59:28.253Z",
   "lastPull": {
-    "id": 181,
-    "name": "ampharos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+    "id": 63,
+    "name": "abra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
     "types": [
-      "electric"
+      "psychic"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-14T00:58:12.729Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-14T05:59:28.253Z"
   },
   "pulls": [
+    {
+      "id": 63,
+      "name": "abra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-14T05:59:28.253Z"
+    },
     {
       "id": 181,
       "name": "ampharos",
@@ -116,18 +127,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-11T23:57:53.858Z"
-    },
-    {
-      "id": 3,
-      "name": "venusaur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T20:32:58.858Z"
     }
   ],
   "pokemon": {
@@ -318,6 +317,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T05:56:56.439Z",
       "lastPulledAt": "2026-09-28T05:56:56.439Z"
+    },
+    "63": {
+      "id": 63,
+      "name": "abra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-14T05:59:28.253Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T05:59:28.253Z",
+      "lastPulledAt": "2026-10-14T05:59:28.253Z"
     },
     "69": {
       "id": 69,
