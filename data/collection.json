@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 155,
-  "updatedAt": "2026-10-14T15:58:59.241Z",
+  "totalPulls": 156,
+  "updatedAt": "2026-10-14T20:08:28.028Z",
   "lastPull": {
-    "id": 275,
-    "name": "shiftry",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+    "id": 530,
+    "name": "excadrill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
     "types": [
-      "grass",
-      "dark"
+      "ground",
+      "steel"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-14T15:58:59.241Z"
+    "totalStats": 508,
+    "grade": "SR",
+    "pulledAt": "2026-10-14T20:08:28.028Z"
   },
   "pulls": [
+    {
+      "id": 530,
+      "name": "excadrill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "totalStats": 508,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T20:08:28.028Z"
+    },
     {
       "id": 275,
       "name": "shiftry",
@@ -117,18 +129,6 @@
       "totalStats": 484,
       "grade": "R",
       "pulledAt": "2026-10-12T21:50:20.838Z"
-    },
-    {
-      "id": 337,
-      "name": "lunatone",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
-      "types": [
-        "rock",
-        "psychic"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-12T13:29:24.543Z"
     }
   ],
   "pokemon": {
@@ -1281,6 +1281,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T06:37:47.665Z",
       "lastPulledAt": "2026-09-23T06:37:47.665Z"
+    },
+    "530": {
+      "id": 530,
+      "name": "excadrill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "totalStats": 508,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T20:08:28.028Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T20:08:28.028Z",
+      "lastPulledAt": "2026-10-14T20:08:28.028Z"
     },
     "541": {
       "id": 541,
