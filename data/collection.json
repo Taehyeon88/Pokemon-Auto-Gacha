@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 160,
-  "updatedAt": "2026-10-15T11:55:03.043Z",
+  "totalPulls": 161,
+  "updatedAt": "2026-10-15T16:23:01.035Z",
   "lastPull": {
-    "id": 1015,
-    "name": "munkidori",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png",
+    "id": 499,
+    "name": "pignite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
     "types": [
-      "poison",
-      "psychic"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 555,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T11:55:03.043Z"
+    "totalStats": 418,
+    "grade": "R",
+    "pulledAt": "2026-10-15T16:23:01.035Z"
   },
   "pulls": [
+    {
+      "id": 499,
+      "name": "pignite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-10-15T16:23:01.035Z"
+    },
     {
       "id": 1015,
       "name": "munkidori",
@@ -120,18 +132,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-14T00:58:12.729Z"
-    },
-    {
-      "id": 472,
-      "name": "gliscor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
-      "types": [
-        "ground",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-13T21:56:40.810Z"
     }
   ],
   "pokemon": {
@@ -1255,6 +1255,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T05:59:42.838Z",
       "lastPulledAt": "2026-09-29T05:59:42.838Z"
+    },
+    "499": {
+      "id": 499,
+      "name": "pignite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-10-15T16:23:01.035Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T16:23:01.035Z",
+      "lastPulledAt": "2026-10-15T16:23:01.035Z"
     },
     "513": {
       "id": 513,
