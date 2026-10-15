@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 161,
-  "updatedAt": "2026-10-15T16:23:01.035Z",
+  "totalPulls": 162,
+  "updatedAt": "2026-10-15T19:58:38.587Z",
   "lastPull": {
-    "id": 499,
-    "name": "pignite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+    "id": 716,
+    "name": "xerneas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
     "types": [
-      "fire",
-      "fighting"
+      "fairy"
     ],
-    "totalStats": 418,
-    "grade": "R",
-    "pulledAt": "2026-10-15T16:23:01.035Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-15T19:58:38.587Z"
   },
   "pulls": [
+    {
+      "id": 716,
+      "name": "xerneas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-15T19:58:38.587Z"
+    },
     {
       "id": 499,
       "name": "pignite",
@@ -121,17 +131,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-14T05:59:28.253Z"
-    },
-    {
-      "id": 181,
-      "name": "ampharos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-14T00:58:12.729Z"
     }
   ],
   "pokemon": {
@@ -1782,6 +1781,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T16:29:46.263Z",
       "lastPulledAt": "2026-09-26T16:29:46.263Z"
+    },
+    "716": {
+      "id": 716,
+      "name": "xerneas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-15T19:58:38.587Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T19:58:38.587Z",
+      "lastPulledAt": "2026-10-15T19:58:38.587Z"
     },
     "723": {
       "id": 723,
