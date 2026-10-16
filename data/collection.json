@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 168,
-  "updatedAt": "2026-10-16T18:46:24.405Z",
+  "totalPulls": 169,
+  "updatedAt": "2026-10-16T21:46:19.350Z",
   "lastPull": {
-    "id": 510,
-    "name": "liepard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+    "id": 183,
+    "name": "marill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
     "types": [
-      "dark"
+      "water",
+      "fairy"
     ],
-    "totalStats": 446,
-    "grade": "R",
-    "pulledAt": "2026-10-16T18:46:24.405Z"
+    "totalStats": 250,
+    "grade": "N",
+    "pulledAt": "2026-10-16T21:46:19.350Z"
   },
   "pulls": [
+    {
+      "id": 183,
+      "name": "marill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-16T21:46:19.350Z"
+    },
     {
       "id": 510,
       "name": "liepard",
@@ -116,18 +129,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-10-15T11:55:03.043Z"
-    },
-    {
-      "id": 40,
-      "name": "wigglytuff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
-      "types": [
-        "normal",
-        "fairy"
-      ],
-      "totalStats": 435,
-      "grade": "R",
-      "pulledAt": "2026-10-15T06:24:09.178Z"
     }
   ],
   "pokemon": {
@@ -549,6 +550,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T00:58:12.729Z",
       "lastPulledAt": "2026-10-14T00:58:12.729Z"
+    },
+    "183": {
+      "id": 183,
+      "name": "marill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-16T21:46:19.350Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T21:46:19.350Z",
+      "lastPulledAt": "2026-10-16T21:46:19.350Z"
     },
     "186": {
       "id": 186,
