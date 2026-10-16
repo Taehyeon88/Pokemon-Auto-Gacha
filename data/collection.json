@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 164,
-  "updatedAt": "2026-10-16T01:10:12.944Z",
+  "totalPulls": 165,
+  "updatedAt": "2026-10-16T05:55:18.982Z",
   "lastPull": {
-    "id": 967,
-    "name": "cyclizar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
+    "id": 1014,
+    "name": "okidogi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
     "types": [
-      "dragon",
-      "normal"
+      "poison",
+      "fighting"
     ],
-    "totalStats": 501,
+    "totalStats": 555,
     "grade": "SR",
-    "pulledAt": "2026-10-16T01:10:12.944Z"
+    "pulledAt": "2026-10-16T05:55:18.982Z"
   },
   "pulls": [
+    {
+      "id": 1014,
+      "name": "okidogi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T05:55:18.982Z"
+    },
     {
       "id": 967,
       "name": "cyclizar",
@@ -120,18 +132,6 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-10-14T20:08:28.028Z"
-    },
-    {
-      "id": 275,
-      "name": "shiftry",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-14T15:58:59.241Z"
     }
   ],
   "pokemon": {
@@ -2471,6 +2471,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:20:28.767Z",
       "lastPulledAt": "2026-09-24T06:08:59.814Z"
+    },
+    "1014": {
+      "id": 1014,
+      "name": "okidogi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T05:55:18.982Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T05:55:18.982Z",
+      "lastPulledAt": "2026-10-16T05:55:18.982Z"
     },
     "1015": {
       "id": 1015,
