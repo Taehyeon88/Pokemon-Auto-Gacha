@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 169,
-  "updatedAt": "2026-10-16T21:46:19.350Z",
+  "totalPulls": 170,
+  "updatedAt": "2026-10-16T23:57:40.506Z",
   "lastPull": {
-    "id": 183,
-    "name": "marill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "id": 925,
+    "name": "maushold-family-of-four",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
     "types": [
-      "water",
-      "fairy"
+      "normal"
     ],
-    "totalStats": 250,
-    "grade": "N",
-    "pulledAt": "2026-10-16T21:46:19.350Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-16T23:57:40.506Z"
   },
   "pulls": [
+    {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-16T23:57:40.506Z"
+    },
     {
       "id": 183,
       "name": "marill",
@@ -117,18 +127,6 @@
       "totalStats": 418,
       "grade": "R",
       "pulledAt": "2026-10-15T16:23:01.035Z"
-    },
-    {
-      "id": 1015,
-      "name": "munkidori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png",
-      "types": [
-        "poison",
-        "psychic"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T11:55:03.043Z"
     }
   ],
   "pokemon": {
@@ -2323,6 +2321,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T12:09:33.389Z",
       "lastPulledAt": "2026-09-23T12:09:33.389Z"
+    },
+    "925": {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-16T23:57:40.506Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T23:57:40.506Z",
+      "lastPulledAt": "2026-10-16T23:57:40.506Z"
     },
     "931": {
       "id": 931,
