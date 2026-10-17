@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 173,
-  "updatedAt": "2026-10-17T12:19:02.142Z",
+  "totalPulls": 174,
+  "updatedAt": "2026-10-17T15:44:13.054Z",
   "lastPull": {
-    "id": 185,
-    "name": "sudowoodo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
+    "id": 377,
+    "name": "regirock",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
     "types": [
       "rock"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-17T12:19:02.142Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-17T15:44:13.054Z"
   },
   "pulls": [
+    {
+      "id": 377,
+      "name": "regirock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T15:44:13.054Z"
+    },
     {
       "id": 185,
       "name": "sudowoodo",
@@ -115,18 +126,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-10-16T05:55:18.982Z"
-    },
-    {
-      "id": 967,
-      "name": "cyclizar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
-      "types": [
-        "dragon",
-        "normal"
-      ],
-      "totalStats": 501,
-      "grade": "SR",
-      "pulledAt": "2026-10-16T01:10:12.944Z"
     }
   ],
   "pokemon": {
@@ -1001,6 +1000,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T00:31:40.691Z",
       "lastPulledAt": "2026-10-03T23:52:45.413Z"
+    },
+    "377": {
+      "id": 377,
+      "name": "regirock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T15:44:13.054Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T15:44:13.054Z",
+      "lastPulledAt": "2026-10-17T15:44:13.054Z"
     },
     "380": {
       "id": 380,
