@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 174,
-  "updatedAt": "2026-10-17T15:44:13.054Z",
+  "totalPulls": 175,
+  "updatedAt": "2026-10-17T17:57:59.550Z",
   "lastPull": {
-    "id": 377,
-    "name": "regirock",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+    "id": 219,
+    "name": "magcargo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
     "types": [
+      "fire",
       "rock"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T15:44:13.054Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-10-17T17:57:59.550Z"
   },
   "pulls": [
+    {
+      "id": 219,
+      "name": "magcargo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-17T17:57:59.550Z"
+    },
     {
       "id": 377,
       "name": "regirock",
@@ -114,18 +127,6 @@
       "totalStats": 316,
       "grade": "N",
       "pulledAt": "2026-10-16T10:48:24.814Z"
-    },
-    {
-      "id": 1014,
-      "name": "okidogi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
-      "types": [
-        "poison",
-        "fighting"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-10-16T05:55:18.982Z"
     }
   ],
   "pokemon": {
@@ -657,6 +658,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T02:17:42.297Z",
       "lastPulledAt": "2026-10-09T02:17:42.297Z"
+    },
+    "219": {
+      "id": 219,
+      "name": "magcargo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-17T17:57:59.550Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T17:57:59.550Z",
+      "lastPulledAt": "2026-10-17T17:57:59.550Z"
     },
     "220": {
       "id": 220,
