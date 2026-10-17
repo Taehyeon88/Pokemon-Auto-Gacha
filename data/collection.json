@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 172,
-  "updatedAt": "2026-10-17T08:20:59.707Z",
+  "totalPulls": 173,
+  "updatedAt": "2026-10-17T12:19:02.142Z",
   "lastPull": {
-    "id": 1,
-    "name": "bulbasaur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "id": 185,
+    "name": "sudowoodo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
     "types": [
-      "grass",
-      "poison"
+      "rock"
     ],
-    "totalStats": 318,
-    "grade": "N",
-    "pulledAt": "2026-10-17T08:20:59.707Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-17T12:19:02.142Z"
   },
   "pulls": [
+    {
+      "id": 185,
+      "name": "sudowoodo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-17T12:19:02.142Z"
+    },
     {
       "id": 1,
       "name": "bulbasaur",
@@ -117,17 +127,6 @@
       "totalStats": 501,
       "grade": "SR",
       "pulledAt": "2026-10-16T01:10:12.944Z"
-    },
-    {
-      "id": 835,
-      "name": "yamper",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-15T22:59:35.513Z"
     }
   ],
   "pokemon": {
@@ -581,6 +580,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T21:46:19.350Z",
       "lastPulledAt": "2026-10-16T21:46:19.350Z"
+    },
+    "185": {
+      "id": 185,
+      "name": "sudowoodo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-17T12:19:02.142Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T12:19:02.142Z",
+      "lastPulledAt": "2026-10-17T12:19:02.142Z"
     },
     "186": {
       "id": 186,
