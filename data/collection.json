@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 176,
-  "updatedAt": "2026-10-17T20:25:50.760Z",
+  "totalPulls": 177,
+  "updatedAt": "2026-10-17T22:32:08.097Z",
   "lastPull": {
-    "id": 802,
-    "name": "marshadow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+    "id": 716,
+    "name": "xerneas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
     "types": [
-      "fighting",
-      "ghost"
+      "fairy"
     ],
-    "totalStats": 600,
+    "totalStats": 680,
     "grade": "SSR",
-    "pulledAt": "2026-10-17T20:25:50.760Z"
+    "pulledAt": "2026-10-17T22:32:08.097Z"
   },
   "pulls": [
+    {
+      "id": 716,
+      "name": "xerneas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-17T22:32:08.097Z"
+    },
     {
       "id": 802,
       "name": "marshadow",
@@ -117,17 +127,6 @@
       "totalStats": 446,
       "grade": "R",
       "pulledAt": "2026-10-16T18:46:24.405Z"
-    },
-    {
-      "id": 186,
-      "name": "politoed",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-16T15:01:24.193Z"
     }
   ],
   "pokemon": {
@@ -1912,10 +1911,10 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-15T19:58:38.587Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T19:58:38.587Z",
-      "lastPulledAt": "2026-10-15T19:58:38.587Z"
+      "lastPulledAt": "2026-10-17T22:32:08.097Z"
     },
     "723": {
       "id": 723,
