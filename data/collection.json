@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 170,
-  "updatedAt": "2026-10-16T23:57:40.506Z",
+  "totalPulls": 171,
+  "updatedAt": "2026-10-17T03:56:26.424Z",
   "lastPull": {
-    "id": 925,
-    "name": "maushold-family-of-four",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+    "id": 603,
+    "name": "eelektrik",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
     "types": [
-      "normal"
+      "electric"
     ],
-    "totalStats": 470,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-16T23:57:40.506Z"
+    "pulledAt": "2026-10-17T03:56:26.424Z"
   },
   "pulls": [
+    {
+      "id": 603,
+      "name": "eelektrik",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-17T03:56:26.424Z"
+    },
     {
       "id": 925,
       "name": "maushold-family-of-four",
@@ -115,18 +126,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-15T19:58:38.587Z"
-    },
-    {
-      "id": 499,
-      "name": "pignite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 418,
-      "grade": "R",
-      "pulledAt": "2026-10-15T16:23:01.035Z"
     }
   ],
   "pokemon": {
@@ -1512,6 +1511,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T10:53:03.656Z",
       "lastPulledAt": "2026-10-11T10:53:03.656Z"
+    },
+    "603": {
+      "id": 603,
+      "name": "eelektrik",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-17T03:56:26.424Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T03:56:26.424Z",
+      "lastPulledAt": "2026-10-17T03:56:26.424Z"
     },
     "615": {
       "id": 615,
