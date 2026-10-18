@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 178,
-  "updatedAt": "2026-10-18T00:15:41.011Z",
+  "totalPulls": 179,
+  "updatedAt": "2026-10-18T04:44:18.617Z",
   "lastPull": {
-    "id": 298,
-    "name": "azurill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+    "id": 996,
+    "name": "frigibax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
     "types": [
-      "normal",
-      "fairy"
+      "dragon",
+      "ice"
     ],
-    "totalStats": 190,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-10-18T00:15:41.011Z"
+    "pulledAt": "2026-10-18T04:44:18.617Z"
   },
   "pulls": [
+    {
+      "id": 996,
+      "name": "frigibax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-18T04:44:18.617Z"
+    },
     {
       "id": 298,
       "name": "azurill",
@@ -117,18 +129,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-16T23:57:40.506Z"
-    },
-    {
-      "id": 183,
-      "name": "marill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
-      "types": [
-        "water",
-        "fairy"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-10-16T21:46:19.350Z"
     }
   ],
   "pokemon": {
@@ -2543,6 +2543,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T12:06:30.818Z",
       "lastPulledAt": "2026-09-25T12:06:30.818Z"
+    },
+    "996": {
+      "id": 996,
+      "name": "frigibax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-18T04:44:18.617Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T04:44:18.617Z",
+      "lastPulledAt": "2026-10-18T04:44:18.617Z"
     },
     "998": {
       "id": 998,
