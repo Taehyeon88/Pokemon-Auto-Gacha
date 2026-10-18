@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 183,
-  "updatedAt": "2026-10-18T18:54:24.853Z",
+  "totalPulls": 184,
+  "updatedAt": "2026-10-18T21:16:20.673Z",
   "lastPull": {
-    "id": 89,
-    "name": "muk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "id": 137,
+    "name": "porygon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
     "types": [
-      "poison"
+      "normal"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-18T18:54:24.853Z"
+    "totalStats": 395,
+    "grade": "N",
+    "pulledAt": "2026-10-18T21:16:20.673Z"
   },
   "pulls": [
+    {
+      "id": 137,
+      "name": "porygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-10-18T21:16:20.673Z"
+    },
     {
       "id": 89,
       "name": "muk",
@@ -116,17 +127,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-10-17T17:57:59.550Z"
-    },
-    {
-      "id": 377,
-      "name": "regirock",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T15:44:13.054Z"
     }
   ],
   "pokemon": {
@@ -487,6 +487,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T18:46:44.842Z",
       "lastPulledAt": "2026-10-04T18:46:44.842Z"
+    },
+    "137": {
+      "id": 137,
+      "name": "porygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-10-18T21:16:20.673Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T21:16:20.673Z",
+      "lastPulledAt": "2026-10-18T21:16:20.673Z"
     },
     "146": {
       "id": 146,
