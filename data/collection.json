@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 184,
-  "updatedAt": "2026-10-18T21:16:20.673Z",
+  "totalPulls": 185,
+  "updatedAt": "2026-10-18T23:21:26.834Z",
   "lastPull": {
-    "id": 137,
-    "name": "porygon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "id": 315,
+    "name": "roselia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
     "types": [
-      "normal"
+      "grass",
+      "poison"
     ],
-    "totalStats": 395,
-    "grade": "N",
-    "pulledAt": "2026-10-18T21:16:20.673Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-10-18T23:21:26.834Z"
   },
   "pulls": [
+    {
+      "id": 315,
+      "name": "roselia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-10-18T23:21:26.834Z"
+    },
     {
       "id": 137,
       "name": "porygon",
@@ -115,18 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-17T20:25:50.760Z"
-    },
-    {
-      "id": 219,
-      "name": "magcargo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
-      "types": [
-        "fire",
-        "rock"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-10-17T17:57:59.550Z"
     }
   ],
   "pokemon": {
@@ -924,6 +925,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T10:04:17.384Z",
       "lastPulledAt": "2026-10-18T16:35:51.293Z"
+    },
+    "315": {
+      "id": 315,
+      "name": "roselia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-10-18T23:21:26.834Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T23:21:26.834Z",
+      "lastPulledAt": "2026-10-18T23:21:26.834Z"
     },
     "328": {
       "id": 328,
