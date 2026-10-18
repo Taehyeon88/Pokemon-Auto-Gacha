@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 180,
-  "updatedAt": "2026-10-18T09:09:11.849Z",
+  "totalPulls": 181,
+  "updatedAt": "2026-10-18T13:16:19.997Z",
   "lastPull": {
-    "id": 819,
-    "name": "skwovet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+    "id": 151,
+    "name": "mew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
     "types": [
-      "normal"
+      "psychic"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-10-18T09:09:11.849Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-18T13:16:19.997Z"
   },
   "pulls": [
+    {
+      "id": 151,
+      "name": "mew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-18T13:16:19.997Z"
+    },
     {
       "id": 819,
       "name": "skwovet",
@@ -117,17 +128,6 @@
       "totalStats": 318,
       "grade": "N",
       "pulledAt": "2026-10-17T08:20:59.707Z"
-    },
-    {
-      "id": 603,
-      "name": "eelektrik",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-17T03:56:26.424Z"
     }
   ],
   "pokemon": {
@@ -519,6 +519,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:58:46.934Z",
       "lastPulledAt": "2026-09-20T17:58:46.934Z"
+    },
+    "151": {
+      "id": 151,
+      "name": "mew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-18T13:16:19.997Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T13:16:19.997Z",
+      "lastPulledAt": "2026-10-18T13:16:19.997Z"
     },
     "160": {
       "id": 160,
