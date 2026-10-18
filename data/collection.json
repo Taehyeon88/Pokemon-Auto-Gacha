@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 177,
-  "updatedAt": "2026-10-17T22:32:08.097Z",
+  "totalPulls": 178,
+  "updatedAt": "2026-10-18T00:15:41.011Z",
   "lastPull": {
-    "id": 716,
-    "name": "xerneas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
+    "id": 298,
+    "name": "azurill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
     "types": [
+      "normal",
       "fairy"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-17T22:32:08.097Z"
+    "totalStats": 190,
+    "grade": "N",
+    "pulledAt": "2026-10-18T00:15:41.011Z"
   },
   "pulls": [
+    {
+      "id": 298,
+      "name": "azurill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 190,
+      "grade": "N",
+      "pulledAt": "2026-10-18T00:15:41.011Z"
+    },
     {
       "id": 716,
       "name": "xerneas",
@@ -116,17 +129,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-10-16T21:46:19.350Z"
-    },
-    {
-      "id": 510,
-      "name": "liepard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 446,
-      "grade": "R",
-      "pulledAt": "2026-10-16T18:46:24.405Z"
     }
   ],
   "pokemon": {
@@ -848,6 +850,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T18:06:59.369Z",
       "lastPulledAt": "2026-10-03T18:06:59.369Z"
+    },
+    "298": {
+      "id": 298,
+      "name": "azurill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 190,
+      "grade": "N",
+      "pulledAt": "2026-10-18T00:15:41.011Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T00:15:41.011Z",
+      "lastPulledAt": "2026-10-18T00:15:41.011Z"
     },
     "299": {
       "id": 299,
