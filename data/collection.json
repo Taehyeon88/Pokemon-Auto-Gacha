@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 185,
-  "updatedAt": "2026-10-18T23:21:26.834Z",
+  "totalPulls": 186,
+  "updatedAt": "2026-10-19T01:31:00.676Z",
   "lastPull": {
-    "id": 315,
-    "name": "roselia",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+    "id": 962,
+    "name": "bombirdier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
     "types": [
-      "grass",
-      "poison"
+      "flying",
+      "dark"
     ],
-    "totalStats": 400,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-10-18T23:21:26.834Z"
+    "pulledAt": "2026-10-19T01:31:00.676Z"
   },
   "pulls": [
+    {
+      "id": 962,
+      "name": "bombirdier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+      "types": [
+        "flying",
+        "dark"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-19T01:31:00.676Z"
+    },
     {
       "id": 315,
       "name": "roselia",
@@ -116,18 +128,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-17T22:32:08.097Z"
-    },
-    {
-      "id": 802,
-      "name": "marshadow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
-      "types": [
-        "fighting",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-17T20:25:50.760Z"
     }
   ],
   "pokemon": {
@@ -2535,10 +2535,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-18T05:18:56.475Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T05:18:56.475Z",
-      "lastPulledAt": "2026-09-18T05:18:56.475Z"
+      "lastPulledAt": "2026-10-19T01:31:00.676Z"
     },
     "966": {
       "id": 966,
