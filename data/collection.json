@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 189,
-  "updatedAt": "2026-10-19T19:51:35.611Z",
+  "totalPulls": 190,
+  "updatedAt": "2026-10-19T23:19:57.630Z",
   "lastPull": {
-    "id": 845,
-    "name": "cramorant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+    "id": 764,
+    "name": "comfey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
     "types": [
-      "flying",
-      "water"
+      "fairy"
     ],
-    "totalStats": 475,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-10-19T19:51:35.611Z"
+    "pulledAt": "2026-10-19T23:19:57.630Z"
   },
   "pulls": [
+    {
+      "id": 764,
+      "name": "comfey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-19T23:19:57.630Z"
+    },
     {
       "id": 845,
       "name": "cramorant",
@@ -118,17 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-18T13:16:19.997Z"
-    },
-    {
-      "id": 819,
-      "name": "skwovet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-10-18T09:09:11.849Z"
     }
   ],
   "pokemon": {
@@ -2103,6 +2102,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:03.738Z",
       "lastPulledAt": "2026-09-16T01:47:03.738Z"
+    },
+    "764": {
+      "id": 764,
+      "name": "comfey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-19T23:19:57.630Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T23:19:57.630Z",
+      "lastPulledAt": "2026-10-19T23:19:57.630Z"
     },
     "773": {
       "id": 773,
