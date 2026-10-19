@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 187,
-  "updatedAt": "2026-10-19T06:46:23.171Z",
+  "totalPulls": 188,
+  "updatedAt": "2026-10-19T14:03:26.947Z",
   "lastPull": {
-    "id": 958,
-    "name": "tinkatuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+    "id": 84,
+    "name": "doduo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
     "types": [
-      "fairy",
-      "steel"
+      "normal",
+      "flying"
     ],
-    "totalStats": 380,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-10-19T06:46:23.171Z"
+    "pulledAt": "2026-10-19T14:03:26.947Z"
   },
   "pulls": [
+    {
+      "id": 84,
+      "name": "doduo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-19T14:03:26.947Z"
+    },
     {
       "id": 958,
       "name": "tinkatuff",
@@ -117,18 +129,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-18T04:44:18.617Z"
-    },
-    {
-      "id": 298,
-      "name": "azurill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
-      "types": [
-        "normal",
-        "fairy"
-      ],
-      "totalStats": 190,
-      "grade": "N",
-      "pulledAt": "2026-10-18T00:15:41.011Z"
     }
   ],
   "pokemon": {
@@ -409,10 +409,10 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-22T23:12:52.167Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T23:12:52.167Z",
-      "lastPulledAt": "2026-09-22T23:12:52.167Z"
+      "lastPulledAt": "2026-10-19T14:03:26.947Z"
     },
     "89": {
       "id": 89,
