@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 192,
-  "updatedAt": "2026-10-20T07:15:58.111Z",
+  "totalPulls": 193,
+  "updatedAt": "2026-10-20T12:47:28.080Z",
   "lastPull": {
-    "id": 702,
-    "name": "dedenne",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "id": 291,
+    "name": "ninjask",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
     "types": [
-      "electric",
-      "fairy"
+      "bug",
+      "flying"
     ],
-    "totalStats": 431,
+    "totalStats": 456,
     "grade": "R",
-    "pulledAt": "2026-10-20T07:15:58.111Z"
+    "pulledAt": "2026-10-20T12:47:28.080Z"
   },
   "pulls": [
+    {
+      "id": 291,
+      "name": "ninjask",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 456,
+      "grade": "R",
+      "pulledAt": "2026-10-20T12:47:28.080Z"
+    },
     {
       "id": 702,
       "name": "dedenne",
@@ -120,17 +132,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-10-18T21:16:20.673Z"
-    },
-    {
-      "id": 89,
-      "name": "muk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T18:54:24.853Z"
     }
   ],
   "pokemon": {
@@ -898,6 +899,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T18:06:59.369Z",
       "lastPulledAt": "2026-10-03T18:06:59.369Z"
+    },
+    "291": {
+      "id": 291,
+      "name": "ninjask",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 456,
+      "grade": "R",
+      "pulledAt": "2026-10-20T12:47:28.080Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T12:47:28.080Z",
+      "lastPulledAt": "2026-10-20T12:47:28.080Z"
     },
     "298": {
       "id": 298,
