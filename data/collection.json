@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 190,
-  "updatedAt": "2026-10-19T23:19:57.630Z",
+  "totalPulls": 191,
+  "updatedAt": "2026-10-20T01:55:56.709Z",
   "lastPull": {
-    "id": 764,
-    "name": "comfey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+    "id": 283,
+    "name": "surskit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
     "types": [
-      "fairy"
+      "bug",
+      "water"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-19T23:19:57.630Z"
+    "totalStats": 269,
+    "grade": "N",
+    "pulledAt": "2026-10-20T01:55:56.709Z"
   },
   "pulls": [
+    {
+      "id": 283,
+      "name": "surskit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-10-20T01:55:56.709Z"
+    },
     {
       "id": 764,
       "name": "comfey",
@@ -117,17 +130,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-10-18T16:35:51.293Z"
-    },
-    {
-      "id": 151,
-      "name": "mew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-18T13:16:19.997Z"
     }
   ],
   "pokemon": {
@@ -863,6 +865,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T21:56:57.590Z",
       "lastPulledAt": "2026-10-14T15:58:59.241Z"
+    },
+    "283": {
+      "id": 283,
+      "name": "surskit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-10-20T01:55:56.709Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T01:55:56.709Z",
+      "lastPulledAt": "2026-10-20T01:55:56.709Z"
     },
     "286": {
       "id": 286,
