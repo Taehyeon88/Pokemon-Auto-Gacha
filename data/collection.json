@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 193,
-  "updatedAt": "2026-10-20T12:47:28.080Z",
+  "totalPulls": 194,
+  "updatedAt": "2026-10-20T17:34:49.061Z",
   "lastPull": {
-    "id": 291,
-    "name": "ninjask",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+    "id": 114,
+    "name": "tangela",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
     "types": [
-      "bug",
-      "flying"
+      "grass"
     ],
-    "totalStats": 456,
+    "totalStats": 435,
     "grade": "R",
-    "pulledAt": "2026-10-20T12:47:28.080Z"
+    "pulledAt": "2026-10-20T17:34:49.061Z"
   },
   "pulls": [
+    {
+      "id": 114,
+      "name": "tangela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-10-20T17:34:49.061Z"
+    },
     {
       "id": 291,
       "name": "ninjask",
@@ -121,17 +131,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-10-18T23:21:26.834Z"
-    },
-    {
-      "id": 137,
-      "name": "porygon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-10-18T21:16:20.673Z"
     }
   ],
   "pokemon": {
@@ -446,6 +445,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T08:47:45.081Z",
       "lastPulledAt": "2026-09-22T08:47:45.081Z"
+    },
+    "114": {
+      "id": 114,
+      "name": "tangela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-10-20T17:34:49.061Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T17:34:49.061Z",
+      "lastPulledAt": "2026-10-20T17:34:49.061Z"
     },
     "122": {
       "id": 122,
