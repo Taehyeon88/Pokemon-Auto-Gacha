@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 194,
-  "updatedAt": "2026-10-20T17:34:49.061Z",
+  "totalPulls": 195,
+  "updatedAt": "2026-10-20T20:51:30.431Z",
   "lastPull": {
-    "id": 114,
-    "name": "tangela",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "id": 1012,
+    "name": "poltchageist",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
     "types": [
-      "grass"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 435,
-    "grade": "R",
-    "pulledAt": "2026-10-20T17:34:49.061Z"
+    "totalStats": 308,
+    "grade": "N",
+    "pulledAt": "2026-10-20T20:51:30.431Z"
   },
   "pulls": [
+    {
+      "id": 1012,
+      "name": "poltchageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-20T20:51:30.431Z"
+    },
     {
       "id": 114,
       "name": "tangela",
@@ -119,18 +132,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-19T01:31:00.676Z"
-    },
-    {
-      "id": 315,
-      "name": "roselia",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-10-18T23:21:26.834Z"
     }
   ],
   "pokemon": {
@@ -2795,6 +2796,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T17:06:39.070Z",
       "lastPulledAt": "2026-09-25T17:06:39.070Z"
+    },
+    "1012": {
+      "id": 1012,
+      "name": "poltchageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-20T20:51:30.431Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T20:51:30.431Z",
+      "lastPulledAt": "2026-10-20T20:51:30.431Z"
     },
     "1013": {
       "id": 1013,
