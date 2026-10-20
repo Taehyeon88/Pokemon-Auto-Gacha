@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 195,
-  "updatedAt": "2026-10-20T20:51:30.431Z",
+  "totalPulls": 196,
+  "updatedAt": "2026-10-20T23:37:56.857Z",
   "lastPull": {
-    "id": 1012,
-    "name": "poltchageist",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+    "id": 33,
+    "name": "nidorino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
     "types": [
-      "grass",
-      "ghost"
+      "poison"
     ],
-    "totalStats": 308,
+    "totalStats": 365,
     "grade": "N",
-    "pulledAt": "2026-10-20T20:51:30.431Z"
+    "pulledAt": "2026-10-20T23:37:56.857Z"
   },
   "pulls": [
+    {
+      "id": 33,
+      "name": "nidorino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-10-20T23:37:56.857Z"
+    },
     {
       "id": 1012,
       "name": "poltchageist",
@@ -120,18 +130,6 @@
       "totalStats": 380,
       "grade": "N",
       "pulledAt": "2026-10-19T06:46:23.171Z"
-    },
-    {
-      "id": 962,
-      "name": "bombirdier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
-      "types": [
-        "flying",
-        "dark"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-19T01:31:00.676Z"
     }
   ],
   "pokemon": {
@@ -276,6 +274,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T08:59:22.034Z",
       "lastPulledAt": "2026-10-02T08:59:22.034Z"
+    },
+    "33": {
+      "id": 33,
+      "name": "nidorino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-10-20T23:37:56.857Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T23:37:56.857Z",
+      "lastPulledAt": "2026-10-20T23:37:56.857Z"
     },
     "34": {
       "id": 34,
