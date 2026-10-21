@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 199,
-  "updatedAt": "2026-10-21T13:12:12.335Z",
+  "totalPulls": 200,
+  "updatedAt": "2026-10-21T18:06:49.241Z",
   "lastPull": {
-    "id": 963,
-    "name": "finizen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+    "id": 663,
+    "name": "talonflame",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
     "types": [
-      "water"
+      "fire",
+      "flying"
     ],
-    "totalStats": 315,
-    "grade": "N",
-    "pulledAt": "2026-10-21T13:12:12.335Z"
+    "totalStats": 499,
+    "grade": "R",
+    "pulledAt": "2026-10-21T18:06:49.241Z"
   },
   "pulls": [
+    {
+      "id": 663,
+      "name": "talonflame",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 499,
+      "grade": "R",
+      "pulledAt": "2026-10-21T18:06:49.241Z"
+    },
     {
       "id": 963,
       "name": "finizen",
@@ -116,17 +129,6 @@
       "totalStats": 269,
       "grade": "N",
       "pulledAt": "2026-10-20T01:55:56.709Z"
-    },
-    {
-      "id": 764,
-      "name": "comfey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-19T23:19:57.630Z"
     }
   ],
   "pokemon": {
@@ -1884,6 +1886,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T01:26:25.978Z",
       "lastPulledAt": "2026-09-25T01:26:25.978Z"
+    },
+    "663": {
+      "id": 663,
+      "name": "talonflame",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 499,
+      "grade": "R",
+      "pulledAt": "2026-10-21T18:06:49.241Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T18:06:49.241Z",
+      "lastPulledAt": "2026-10-21T18:06:49.241Z"
     },
     "667": {
       "id": 667,
