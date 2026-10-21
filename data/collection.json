@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 196,
-  "updatedAt": "2026-10-20T23:37:56.857Z",
+  "totalPulls": 197,
+  "updatedAt": "2026-10-21T02:01:36.717Z",
   "lastPull": {
-    "id": 33,
-    "name": "nidorino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+    "id": 63,
+    "name": "abra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
     "types": [
-      "poison"
+      "psychic"
     ],
-    "totalStats": 365,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-10-20T23:37:56.857Z"
+    "pulledAt": "2026-10-21T02:01:36.717Z"
   },
   "pulls": [
+    {
+      "id": 63,
+      "name": "abra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-21T02:01:36.717Z"
+    },
     {
       "id": 33,
       "name": "nidorino",
@@ -118,18 +129,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-19T14:03:26.947Z"
-    },
-    {
-      "id": 958,
-      "name": "tinkatuff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
-      "types": [
-        "fairy",
-        "steel"
-      ],
-      "totalStats": 380,
-      "grade": "N",
-      "pulledAt": "2026-10-19T06:46:23.171Z"
     }
   ],
   "pokemon": {
@@ -378,10 +377,10 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-14T05:59:28.253Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T05:59:28.253Z",
-      "lastPulledAt": "2026-10-14T05:59:28.253Z"
+      "lastPulledAt": "2026-10-21T02:01:36.717Z"
     },
     "69": {
       "id": 69,
