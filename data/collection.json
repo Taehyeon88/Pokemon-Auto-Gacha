@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 198,
-  "updatedAt": "2026-10-21T07:31:07.929Z",
+  "totalPulls": 199,
+  "updatedAt": "2026-10-21T13:12:12.335Z",
   "lastPull": {
-    "id": 562,
-    "name": "yamask",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png",
+    "id": 963,
+    "name": "finizen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
     "types": [
-      "ghost"
+      "water"
     ],
-    "totalStats": 303,
+    "totalStats": 315,
     "grade": "N",
-    "pulledAt": "2026-10-21T07:31:07.929Z"
+    "pulledAt": "2026-10-21T13:12:12.335Z"
   },
   "pulls": [
+    {
+      "id": 963,
+      "name": "finizen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-21T13:12:12.335Z"
+    },
     {
       "id": 562,
       "name": "yamask",
@@ -116,18 +127,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-19T23:19:57.630Z"
-    },
-    {
-      "id": 845,
-      "name": "cramorant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
-      "types": [
-        "flying",
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-19T19:51:35.611Z"
     }
   ],
   "pokemon": {
@@ -2679,6 +2678,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T05:18:56.475Z",
       "lastPulledAt": "2026-10-19T01:31:00.676Z"
+    },
+    "963": {
+      "id": 963,
+      "name": "finizen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-21T13:12:12.335Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T13:12:12.335Z",
+      "lastPulledAt": "2026-10-21T13:12:12.335Z"
     },
     "966": {
       "id": 966,
