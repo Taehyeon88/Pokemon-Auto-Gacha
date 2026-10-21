@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 200,
-  "updatedAt": "2026-10-21T18:06:49.241Z",
+  "totalPulls": 201,
+  "updatedAt": "2026-10-21T21:37:25.442Z",
   "lastPull": {
-    "id": 663,
-    "name": "talonflame",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+    "id": 370,
+    "name": "luvdisc",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
     "types": [
-      "fire",
-      "flying"
+      "water"
     ],
-    "totalStats": 499,
-    "grade": "R",
-    "pulledAt": "2026-10-21T18:06:49.241Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-21T21:37:25.442Z"
   },
   "pulls": [
+    {
+      "id": 370,
+      "name": "luvdisc",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-21T21:37:25.442Z"
+    },
     {
       "id": 663,
       "name": "talonflame",
@@ -117,18 +127,6 @@
       "totalStats": 431,
       "grade": "R",
       "pulledAt": "2026-10-20T07:15:58.111Z"
-    },
-    {
-      "id": 283,
-      "name": "surskit",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
-      "types": [
-        "bug",
-        "water"
-      ],
-      "totalStats": 269,
-      "grade": "N",
-      "pulledAt": "2026-10-20T01:55:56.709Z"
     }
   ],
   "pokemon": {
@@ -1112,6 +1110,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T23:01:37.564Z",
       "lastPulledAt": "2026-09-24T23:01:37.564Z"
+    },
+    "370": {
+      "id": 370,
+      "name": "luvdisc",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-21T21:37:25.442Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T21:37:25.442Z",
+      "lastPulledAt": "2026-10-21T21:37:25.442Z"
     },
     "372": {
       "id": 372,
