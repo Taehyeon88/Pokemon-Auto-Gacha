@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 202,
-  "updatedAt": "2026-10-22T00:12:20.964Z",
+  "totalPulls": 203,
+  "updatedAt": "2026-10-22T05:00:17.599Z",
   "lastPull": {
-    "id": 516,
-    "name": "simipour",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+    "id": 723,
+    "name": "dartrix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
     "types": [
-      "water"
+      "grass",
+      "flying"
     ],
-    "totalStats": 498,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-10-22T00:12:20.964Z"
+    "pulledAt": "2026-10-22T05:00:17.599Z"
   },
   "pulls": [
+    {
+      "id": 723,
+      "name": "dartrix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-22T05:00:17.599Z"
+    },
     {
       "id": 516,
       "name": "simipour",
@@ -114,18 +127,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-10-20T17:34:49.061Z"
-    },
-    {
-      "id": 291,
-      "name": "ninjask",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 456,
-      "grade": "R",
-      "pulledAt": "2026-10-20T12:47:28.080Z"
     }
   ],
   "pokemon": {
@@ -2127,10 +2128,10 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-24T19:52:35.167Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T19:52:35.167Z",
-      "lastPulledAt": "2026-09-24T19:52:35.167Z"
+      "lastPulledAt": "2026-10-22T05:00:17.599Z"
     },
     "730": {
       "id": 730,
