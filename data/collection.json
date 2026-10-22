@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 201,
-  "updatedAt": "2026-10-21T21:37:25.442Z",
+  "totalPulls": 202,
+  "updatedAt": "2026-10-22T00:12:20.964Z",
   "lastPull": {
-    "id": 370,
-    "name": "luvdisc",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+    "id": 516,
+    "name": "simipour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
     "types": [
       "water"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-21T21:37:25.442Z"
+    "totalStats": 498,
+    "grade": "R",
+    "pulledAt": "2026-10-22T00:12:20.964Z"
   },
   "pulls": [
+    {
+      "id": 516,
+      "name": "simipour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-10-22T00:12:20.964Z"
+    },
     {
       "id": 370,
       "name": "luvdisc",
@@ -115,18 +126,6 @@
       "totalStats": 456,
       "grade": "R",
       "pulledAt": "2026-10-20T12:47:28.080Z"
-    },
-    {
-      "id": 702,
-      "name": "dedenne",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
-      "types": [
-        "electric",
-        "fairy"
-      ],
-      "totalStats": 431,
-      "grade": "R",
-      "pulledAt": "2026-10-20T07:15:58.111Z"
     }
   ],
   "pokemon": {
@@ -1528,6 +1527,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:00:58.576Z",
       "lastPulledAt": "2026-09-19T05:00:58.576Z"
+    },
+    "516": {
+      "id": 516,
+      "name": "simipour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-10-22T00:12:20.964Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T00:12:20.964Z",
+      "lastPulledAt": "2026-10-22T00:12:20.964Z"
     },
     "518": {
       "id": 518,
