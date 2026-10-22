@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 203,
-  "updatedAt": "2026-10-22T05:00:17.599Z",
+  "totalPulls": 204,
+  "updatedAt": "2026-10-22T10:05:34.882Z",
   "lastPull": {
-    "id": 723,
-    "name": "dartrix",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+    "id": 566,
+    "name": "archen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
     "types": [
-      "grass",
+      "rock",
       "flying"
     ],
-    "totalStats": 420,
+    "totalStats": 401,
     "grade": "R",
-    "pulledAt": "2026-10-22T05:00:17.599Z"
+    "pulledAt": "2026-10-22T10:05:34.882Z"
   },
   "pulls": [
+    {
+      "id": 566,
+      "name": "archen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 401,
+      "grade": "R",
+      "pulledAt": "2026-10-22T10:05:34.882Z"
+    },
     {
       "id": 723,
       "name": "dartrix",
@@ -116,17 +128,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-10-20T20:51:30.431Z"
-    },
-    {
-      "id": 114,
-      "name": "tangela",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 435,
-      "grade": "R",
-      "pulledAt": "2026-10-20T17:34:49.061Z"
     }
   ],
   "pokemon": {
@@ -1683,6 +1684,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T20:10:35.107Z",
       "lastPulledAt": "2026-10-02T20:10:35.107Z"
+    },
+    "566": {
+      "id": 566,
+      "name": "archen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 401,
+      "grade": "R",
+      "pulledAt": "2026-10-22T10:05:34.882Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T10:05:34.882Z",
+      "lastPulledAt": "2026-10-22T10:05:34.882Z"
     },
     "577": {
       "id": 577,
