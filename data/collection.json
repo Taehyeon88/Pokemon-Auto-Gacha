@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 205,
-  "updatedAt": "2026-10-22T15:12:27.160Z",
+  "totalPulls": 206,
+  "updatedAt": "2026-10-22T19:15:43.114Z",
   "lastPull": {
-    "id": 100,
-    "name": "voltorb",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "id": 635,
+    "name": "hydreigon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
     "types": [
-      "electric"
+      "dark",
+      "dragon"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-22T15:12:27.160Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-22T19:15:43.114Z"
   },
   "pulls": [
+    {
+      "id": 635,
+      "name": "hydreigon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-22T19:15:43.114Z"
+    },
     {
       "id": 100,
       "name": "voltorb",
@@ -115,17 +128,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-21T02:01:36.717Z"
-    },
-    {
-      "id": 33,
-      "name": "nidorino",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-10-20T23:37:56.857Z"
     }
   ],
   "pokemon": {
@@ -1846,10 +1848,10 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-27T22:09:42.969Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T22:09:42.969Z",
-      "lastPulledAt": "2026-09-27T22:09:42.969Z"
+      "lastPulledAt": "2026-10-22T19:15:43.114Z"
     },
     "638": {
       "id": 638,
