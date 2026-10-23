@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 211,
-  "updatedAt": "2026-10-23T15:26:40.172Z",
+  "totalPulls": 212,
+  "updatedAt": "2026-10-23T19:28:39.460Z",
   "lastPull": {
-    "id": 588,
-    "name": "karrablast",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+    "id": 651,
+    "name": "quilladin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
     "types": [
-      "bug"
+      "grass"
     ],
-    "totalStats": 315,
-    "grade": "N",
-    "pulledAt": "2026-10-23T15:26:40.172Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-23T19:28:39.460Z"
   },
   "pulls": [
+    {
+      "id": 651,
+      "name": "quilladin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-23T19:28:39.460Z"
+    },
     {
       "id": 588,
       "name": "karrablast",
@@ -118,17 +129,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-22T05:00:17.599Z"
-    },
-    {
-      "id": 516,
-      "name": "simipour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 498,
-      "grade": "R",
-      "pulledAt": "2026-10-22T00:12:20.964Z"
     }
   ],
   "pokemon": {
@@ -1931,6 +1931,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T06:27:32.442Z",
       "lastPulledAt": "2026-09-25T06:27:32.442Z"
+    },
+    "651": {
+      "id": 651,
+      "name": "quilladin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-23T19:28:39.460Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T19:28:39.460Z",
+      "lastPulledAt": "2026-10-23T19:28:39.460Z"
     },
     "653": {
       "id": 653,
