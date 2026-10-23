@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 209,
-  "updatedAt": "2026-10-23T05:45:46.045Z",
+  "totalPulls": 210,
+  "updatedAt": "2026-10-23T10:33:12.820Z",
   "lastPull": {
-    "id": 486,
-    "name": "regigigas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "id": 886,
+    "name": "drakloak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
     "types": [
-      "normal"
+      "dragon",
+      "ghost"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-10-23T05:45:46.045Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-23T10:33:12.820Z"
   },
   "pulls": [
+    {
+      "id": 886,
+      "name": "drakloak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-23T10:33:12.820Z"
+    },
     {
       "id": 486,
       "name": "regigigas",
@@ -117,18 +130,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-21T21:37:25.442Z"
-    },
-    {
-      "id": 663,
-      "name": "talonflame",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 499,
-      "grade": "R",
-      "pulledAt": "2026-10-21T18:06:49.241Z"
     }
   ],
   "pokemon": {
@@ -2662,6 +2663,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T23:54:23.236Z",
       "lastPulledAt": "2026-10-10T23:54:23.236Z"
+    },
+    "886": {
+      "id": 886,
+      "name": "drakloak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-23T10:33:12.820Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T10:33:12.820Z",
+      "lastPulledAt": "2026-10-23T10:33:12.820Z"
     },
     "891": {
       "id": 891,
