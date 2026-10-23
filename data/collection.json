@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 207,
-  "updatedAt": "2026-10-22T22:26:40.149Z",
+  "totalPulls": 208,
+  "updatedAt": "2026-10-23T00:50:26.190Z",
   "lastPull": {
-    "id": 485,
-    "name": "heatran",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+    "id": 392,
+    "name": "infernape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
     "types": [
       "fire",
-      "steel"
+      "fighting"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-22T22:26:40.149Z"
+    "totalStats": 534,
+    "grade": "SR",
+    "pulledAt": "2026-10-23T00:50:26.190Z"
   },
   "pulls": [
+    {
+      "id": 392,
+      "name": "infernape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T00:50:26.190Z"
+    },
     {
       "id": 485,
       "name": "heatran",
@@ -118,17 +130,6 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-10-21T13:12:12.335Z"
-    },
-    {
-      "id": 562,
-      "name": "yamask",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 303,
-      "grade": "N",
-      "pulledAt": "2026-10-21T07:31:07.929Z"
     }
   ],
   "pokemon": {
@@ -1216,10 +1217,10 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-09-27T19:09:30.453Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:09:30.453Z",
-      "lastPulledAt": "2026-09-27T19:09:30.453Z"
+      "lastPulledAt": "2026-10-23T00:50:26.190Z"
     },
     "404": {
       "id": 404,
