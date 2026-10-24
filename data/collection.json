@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 217,
-  "updatedAt": "2026-10-24T13:50:41.785Z",
+  "totalPulls": 218,
+  "updatedAt": "2026-10-24T17:13:09.188Z",
   "lastPull": {
-    "id": 532,
-    "name": "timburr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+    "id": 225,
+    "name": "delibird",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
     "types": [
-      "fighting"
+      "ice",
+      "flying"
     ],
-    "totalStats": 305,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-10-24T13:50:41.785Z"
+    "pulledAt": "2026-10-24T17:13:09.188Z"
   },
   "pulls": [
+    {
+      "id": 225,
+      "name": "delibird",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-24T17:13:09.188Z"
+    },
     {
       "id": 532,
       "name": "timburr",
@@ -113,18 +126,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-10-23T05:45:46.045Z"
-    },
-    {
-      "id": 392,
-      "name": "infernape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T00:50:26.190Z"
     }
   ],
   "pokemon": {
@@ -775,10 +776,10 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-10T00:45:04.278Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T00:45:04.278Z",
-      "lastPulledAt": "2026-10-10T00:45:04.278Z"
+      "lastPulledAt": "2026-10-24T17:13:09.188Z"
     },
     "227": {
       "id": 227,
