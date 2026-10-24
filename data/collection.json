@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 216,
-  "updatedAt": "2026-10-24T09:50:27.033Z",
+  "totalPulls": 217,
+  "updatedAt": "2026-10-24T13:50:41.785Z",
   "lastPull": {
-    "id": 606,
-    "name": "beheeyem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
+    "id": 532,
+    "name": "timburr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
     "types": [
-      "psychic"
+      "fighting"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-24T09:50:27.033Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-24T13:50:41.785Z"
   },
   "pulls": [
+    {
+      "id": 532,
+      "name": "timburr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-24T13:50:41.785Z"
+    },
     {
       "id": 606,
       "name": "beheeyem",
@@ -114,18 +125,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-10-23T00:50:26.190Z"
-    },
-    {
-      "id": 485,
-      "name": "heatran",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
-      "types": [
-        "fire",
-        "steel"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-22T22:26:40.149Z"
     }
   ],
   "pokemon": {
@@ -1664,6 +1663,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T20:08:28.028Z",
       "lastPulledAt": "2026-10-14T20:08:28.028Z"
+    },
+    "532": {
+      "id": 532,
+      "name": "timburr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-24T13:50:41.785Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T13:50:41.785Z",
+      "lastPulledAt": "2026-10-24T13:50:41.785Z"
     },
     "541": {
       "id": 541,
