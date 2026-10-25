@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 226,
-  "updatedAt": "2026-10-25T19:51:43.509Z",
+  "totalPulls": 227,
+  "updatedAt": "2026-10-25T22:18:38.024Z",
   "lastPull": {
-    "id": 98,
-    "name": "krabby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "id": 355,
+    "name": "duskull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
     "types": [
-      "water"
+      "ghost"
     ],
-    "totalStats": 325,
+    "totalStats": 295,
     "grade": "N",
-    "pulledAt": "2026-10-25T19:51:43.509Z"
+    "pulledAt": "2026-10-25T22:18:38.024Z"
   },
   "pulls": [
+    {
+      "id": 355,
+      "name": "duskull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-25T22:18:38.024Z"
+    },
     {
       "id": 98,
       "name": "krabby",
@@ -117,17 +128,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-24T17:13:09.188Z"
-    },
-    {
-      "id": 532,
-      "name": "timburr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-24T13:50:41.785Z"
     }
   ],
   "pokemon": {
@@ -1171,6 +1171,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T22:26:31.113Z",
       "lastPulledAt": "2026-09-24T01:07:34.071Z"
+    },
+    "355": {
+      "id": 355,
+      "name": "duskull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-25T22:18:38.024Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T22:18:38.024Z",
+      "lastPulledAt": "2026-10-25T22:18:38.024Z"
     },
     "357": {
       "id": 357,
