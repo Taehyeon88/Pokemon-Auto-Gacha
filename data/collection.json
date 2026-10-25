@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 224,
-  "updatedAt": "2026-10-25T13:50:18.338Z",
+  "totalPulls": 225,
+  "updatedAt": "2026-10-25T17:25:15.659Z",
   "lastPull": {
-    "id": 722,
-    "name": "rowlet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+    "id": 424,
+    "name": "ambipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
     "types": [
-      "grass",
-      "flying"
+      "normal"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-10-25T13:50:18.338Z"
+    "totalStats": 482,
+    "grade": "R",
+    "pulledAt": "2026-10-25T17:25:15.659Z"
   },
   "pulls": [
+    {
+      "id": 424,
+      "name": "ambipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-10-25T17:25:15.659Z"
+    },
     {
       "id": 722,
       "name": "rowlet",
@@ -118,17 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-24T09:50:27.033Z"
-    },
-    {
-      "id": 293,
-      "name": "whismur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 240,
-      "grade": "N",
-      "pulledAt": "2026-10-24T05:45:40.755Z"
     }
   ],
   "pokemon": {
@@ -1296,6 +1295,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T12:11:55.133Z",
       "lastPulledAt": "2026-09-26T12:11:55.133Z"
+    },
+    "424": {
+      "id": 424,
+      "name": "ambipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-10-25T17:25:15.659Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T17:25:15.659Z",
+      "lastPulledAt": "2026-10-25T17:25:15.659Z"
     },
     "436": {
       "id": 436,
