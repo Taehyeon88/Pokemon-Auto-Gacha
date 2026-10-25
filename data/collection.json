@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 225,
-  "updatedAt": "2026-10-25T17:25:15.659Z",
+  "totalPulls": 226,
+  "updatedAt": "2026-10-25T19:51:43.509Z",
   "lastPull": {
-    "id": 424,
-    "name": "ambipom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+    "id": 98,
+    "name": "krabby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 482,
-    "grade": "R",
-    "pulledAt": "2026-10-25T17:25:15.659Z"
+    "totalStats": 325,
+    "grade": "N",
+    "pulledAt": "2026-10-25T19:51:43.509Z"
   },
   "pulls": [
+    {
+      "id": 98,
+      "name": "krabby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-10-25T19:51:43.509Z"
+    },
     {
       "id": 424,
       "name": "ambipom",
@@ -117,17 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-24T13:50:41.785Z"
-    },
-    {
-      "id": 606,
-      "name": "beheeyem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-24T09:50:27.033Z"
     }
   ],
   "pokemon": {
@@ -473,6 +473,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T08:47:45.081Z",
       "lastPulledAt": "2026-09-22T08:47:45.081Z"
+    },
+    "98": {
+      "id": 98,
+      "name": "krabby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-10-25T19:51:43.509Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T19:51:43.509Z",
+      "lastPulledAt": "2026-10-25T19:51:43.509Z"
     },
     "100": {
       "id": 100,
