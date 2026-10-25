@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 223,
-  "updatedAt": "2026-10-25T09:22:51.973Z",
+  "totalPulls": 224,
+  "updatedAt": "2026-10-25T13:50:18.338Z",
   "lastPull": {
-    "id": 776,
-    "name": "turtonator",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+    "id": 722,
+    "name": "rowlet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
     "types": [
-      "fire",
-      "dragon"
+      "grass",
+      "flying"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-25T09:22:51.973Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-25T13:50:18.338Z"
   },
   "pulls": [
+    {
+      "id": 722,
+      "name": "rowlet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-25T13:50:18.338Z"
+    },
     {
       "id": 776,
       "name": "turtonator",
@@ -117,17 +129,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-10-24T05:45:40.755Z"
-    },
-    {
-      "id": 353,
-      "name": "shuppet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-10-24T01:02:18.985Z"
     }
   ],
   "pokemon": {
@@ -2300,6 +2301,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T19:58:38.587Z",
       "lastPulledAt": "2026-10-17T22:32:08.097Z"
+    },
+    "722": {
+      "id": 722,
+      "name": "rowlet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-25T13:50:18.338Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T13:50:18.338Z",
+      "lastPulledAt": "2026-10-25T13:50:18.338Z"
     },
     "723": {
       "id": 723,
