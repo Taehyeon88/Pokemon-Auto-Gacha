@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 222,
-  "updatedAt": "2026-10-25T04:32:55.606Z",
+  "totalPulls": 223,
+  "updatedAt": "2026-10-25T09:22:51.973Z",
   "lastPull": {
-    "id": 759,
-    "name": "stufful",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
+    "id": 776,
+    "name": "turtonator",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
     "types": [
-      "normal",
-      "fighting"
+      "fire",
+      "dragon"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-10-25T04:32:55.606Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-25T09:22:51.973Z"
   },
   "pulls": [
+    {
+      "id": 776,
+      "name": "turtonator",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-25T09:22:51.973Z"
+    },
     {
       "id": 759,
       "name": "stufful",
@@ -116,17 +128,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-10-24T01:02:18.985Z"
-    },
-    {
-      "id": 999,
-      "name": "gimmighoul",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-23T22:33:09.753Z"
     }
   ],
   "pokemon": {
@@ -2481,10 +2482,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-08T17:22:34.309Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T17:22:34.309Z",
-      "lastPulledAt": "2026-10-08T17:22:34.309Z"
+      "lastPulledAt": "2026-10-25T09:22:51.973Z"
     },
     "778": {
       "id": 778,
