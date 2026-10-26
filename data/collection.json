@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 230,
-  "updatedAt": "2026-10-26T11:13:40.722Z",
+  "totalPulls": 231,
+  "updatedAt": "2026-10-26T17:25:56.068Z",
   "lastPull": {
-    "id": 849,
-    "name": "toxtricity-amped",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "id": 597,
+    "name": "ferroseed",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
     "types": [
-      "electric",
-      "poison"
+      "grass",
+      "steel"
     ],
-    "totalStats": 502,
-    "grade": "SR",
-    "pulledAt": "2026-10-26T11:13:40.722Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-26T17:25:56.068Z"
   },
   "pulls": [
+    {
+      "id": 597,
+      "name": "ferroseed",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-26T17:25:56.068Z"
+    },
     {
       "id": 849,
       "name": "toxtricity-amped",
@@ -117,17 +129,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-25T04:32:55.606Z"
-    },
-    {
-      "id": 489,
-      "name": "phione",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-25T00:00:24.593Z"
     }
   ],
   "pokemon": {
@@ -1957,6 +1958,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T10:53:03.656Z",
       "lastPulledAt": "2026-10-23T15:26:40.172Z"
+    },
+    "597": {
+      "id": 597,
+      "name": "ferroseed",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-26T17:25:56.068Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T17:25:56.068Z",
+      "lastPulledAt": "2026-10-26T17:25:56.068Z"
     },
     "603": {
       "id": 603,
