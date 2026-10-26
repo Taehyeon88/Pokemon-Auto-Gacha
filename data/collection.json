@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 228,
-  "updatedAt": "2026-10-26T00:28:42.864Z",
+  "totalPulls": 229,
+  "updatedAt": "2026-10-26T05:11:41.202Z",
   "lastPull": {
-    "id": 654,
-    "name": "braixen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+    "id": 118,
+    "name": "goldeen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 409,
-    "grade": "R",
-    "pulledAt": "2026-10-26T00:28:42.864Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-26T05:11:41.202Z"
   },
   "pulls": [
+    {
+      "id": 118,
+      "name": "goldeen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-26T05:11:41.202Z"
+    },
     {
       "id": 654,
       "name": "braixen",
@@ -116,17 +127,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-24T21:51:32.626Z"
-    },
-    {
-      "id": 503,
-      "name": "samurott",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 528,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T19:33:04.434Z"
     }
   ],
   "pokemon": {
@@ -517,6 +517,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T17:34:49.061Z",
       "lastPulledAt": "2026-10-20T17:34:49.061Z"
+    },
+    "118": {
+      "id": 118,
+      "name": "goldeen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-26T05:11:41.202Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T05:11:41.202Z",
+      "lastPulledAt": "2026-10-26T05:11:41.202Z"
     },
     "122": {
       "id": 122,
