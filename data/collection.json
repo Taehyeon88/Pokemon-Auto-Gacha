@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 232,
-  "updatedAt": "2026-10-26T21:46:03.246Z",
+  "totalPulls": 233,
+  "updatedAt": "2026-10-27T00:53:26.895Z",
   "lastPull": {
-    "id": 529,
-    "name": "drilbur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "id": 132,
+    "name": "ditto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
     "types": [
-      "ground"
+      "normal"
     ],
-    "totalStats": 328,
+    "totalStats": 288,
     "grade": "N",
-    "pulledAt": "2026-10-26T21:46:03.246Z"
+    "pulledAt": "2026-10-27T00:53:26.895Z"
   },
   "pulls": [
+    {
+      "id": 132,
+      "name": "ditto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-10-27T00:53:26.895Z"
+    },
     {
       "id": 529,
       "name": "drilbur",
@@ -115,18 +126,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-25T13:50:18.338Z"
-    },
-    {
-      "id": 776,
-      "name": "turtonator",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
-      "types": [
-        "fire",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-25T09:22:51.973Z"
     }
   ],
   "pokemon": {
@@ -578,6 +577,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T18:46:44.842Z",
       "lastPulledAt": "2026-10-04T18:46:44.842Z"
+    },
+    "132": {
+      "id": 132,
+      "name": "ditto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-10-27T00:53:26.895Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T00:53:26.895Z",
+      "lastPulledAt": "2026-10-27T00:53:26.895Z"
     },
     "137": {
       "id": 137,
