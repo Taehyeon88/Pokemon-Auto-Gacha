@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 236,
-  "updatedAt": "2026-10-27T17:53:37.188Z",
+  "totalPulls": 237,
+  "updatedAt": "2026-10-27T21:50:57.626Z",
   "lastPull": {
-    "id": 251,
-    "name": "celebi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "id": 154,
+    "name": "meganium",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
     "types": [
-      "psychic",
       "grass"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-27T17:53:37.188Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-27T21:50:57.626Z"
   },
   "pulls": [
+    {
+      "id": 154,
+      "name": "meganium",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-27T21:50:57.626Z"
+    },
     {
       "id": 251,
       "name": "celebi",
@@ -117,17 +127,6 @@
       "totalStats": 409,
       "grade": "R",
       "pulledAt": "2026-10-26T00:28:42.864Z"
-    },
-    {
-      "id": 355,
-      "name": "duskull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-10-25T22:18:38.024Z"
     }
   ],
   "pokemon": {
@@ -655,6 +654,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T13:16:19.997Z",
       "lastPulledAt": "2026-10-18T13:16:19.997Z"
+    },
+    "154": {
+      "id": 154,
+      "name": "meganium",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-27T21:50:57.626Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T21:50:57.626Z",
+      "lastPulledAt": "2026-10-27T21:50:57.626Z"
     },
     "160": {
       "id": 160,
