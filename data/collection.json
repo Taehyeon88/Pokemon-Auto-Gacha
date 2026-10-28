@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 238,
-  "updatedAt": "2026-10-28T00:59:21.239Z",
+  "totalPulls": 239,
+  "updatedAt": "2026-10-28T06:47:05.707Z",
   "lastPull": {
-    "id": 392,
-    "name": "infernape",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "id": 66,
+    "name": "machop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
     "types": [
-      "fire",
       "fighting"
     ],
-    "totalStats": 534,
-    "grade": "SR",
-    "pulledAt": "2026-10-28T00:59:21.239Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-28T06:47:05.707Z"
   },
   "pulls": [
+    {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-28T06:47:05.707Z"
+    },
     {
       "id": 392,
       "name": "infernape",
@@ -118,17 +128,6 @@
       "totalStats": 502,
       "grade": "SR",
       "pulledAt": "2026-10-26T11:13:40.722Z"
-    },
-    {
-      "id": 118,
-      "name": "goldeen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-26T05:11:41.202Z"
     }
   ],
   "pokemon": {
@@ -397,6 +396,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T05:59:28.253Z",
       "lastPulledAt": "2026-10-21T02:01:36.717Z"
+    },
+    "66": {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-28T06:47:05.707Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T06:47:05.707Z",
+      "lastPulledAt": "2026-10-28T06:47:05.707Z"
     },
     "69": {
       "id": 69,
