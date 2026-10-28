@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 239,
-  "updatedAt": "2026-10-28T06:47:05.707Z",
+  "totalPulls": 240,
+  "updatedAt": "2026-10-28T13:35:23.962Z",
   "lastPull": {
-    "id": 66,
-    "name": "machop",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "id": 380,
+    "name": "latias",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
     "types": [
-      "fighting"
+      "dragon",
+      "psychic"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-28T06:47:05.707Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-28T13:35:23.962Z"
   },
   "pulls": [
+    {
+      "id": 380,
+      "name": "latias",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-28T13:35:23.962Z"
+    },
     {
       "id": 66,
       "name": "machop",
@@ -116,18 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-26T17:25:56.068Z"
-    },
-    {
-      "id": 849,
-      "name": "toxtricity-amped",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
-      "types": [
-        "electric",
-        "poison"
-      ],
-      "totalStats": 502,
-      "grade": "SR",
-      "pulledAt": "2026-10-26T11:13:40.722Z"
     }
   ],
   "pokemon": {
@@ -1351,10 +1352,10 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-03T03:58:24.165Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T03:58:24.165Z",
-      "lastPulledAt": "2026-10-03T03:58:24.165Z"
+      "lastPulledAt": "2026-10-28T13:35:23.962Z"
     },
     "392": {
       "id": 392,
