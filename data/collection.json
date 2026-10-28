@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 240,
-  "updatedAt": "2026-10-28T13:35:23.962Z",
+  "totalPulls": 241,
+  "updatedAt": "2026-10-28T19:05:34.421Z",
   "lastPull": {
-    "id": 380,
-    "name": "latias",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+    "id": 899,
+    "name": "wyrdeer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
     "types": [
-      "dragon",
+      "normal",
       "psychic"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-28T13:35:23.962Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-28T19:05:34.421Z"
   },
   "pulls": [
+    {
+      "id": 899,
+      "name": "wyrdeer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T19:05:34.421Z"
+    },
     {
       "id": 380,
       "name": "latias",
@@ -117,18 +129,6 @@
       "totalStats": 328,
       "grade": "N",
       "pulledAt": "2026-10-26T21:46:03.246Z"
-    },
-    {
-      "id": 597,
-      "name": "ferroseed",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
-      "types": [
-        "grass",
-        "steel"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-26T17:25:56.068Z"
     }
   ],
   "pokemon": {
@@ -3030,6 +3030,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T15:56:31.988Z",
       "lastPulledAt": "2026-09-24T15:56:31.988Z"
+    },
+    "899": {
+      "id": 899,
+      "name": "wyrdeer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T19:05:34.421Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T19:05:34.421Z",
+      "lastPulledAt": "2026-10-28T19:05:34.421Z"
     },
     "901": {
       "id": 901,
