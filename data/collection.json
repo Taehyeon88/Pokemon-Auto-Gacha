@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 245,
-  "updatedAt": "2026-10-29T15:37:30.012Z",
+  "totalPulls": 246,
+  "updatedAt": "2026-10-29T20:35:15.736Z",
   "lastPull": {
-    "id": 857,
-    "name": "hattrem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png",
+    "id": 313,
+    "name": "volbeat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
     "types": [
-      "psychic"
+      "bug"
     ],
-    "totalStats": 370,
-    "grade": "N",
-    "pulledAt": "2026-10-29T15:37:30.012Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-10-29T20:35:15.736Z"
   },
   "pulls": [
+    {
+      "id": 313,
+      "name": "volbeat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-29T20:35:15.736Z"
+    },
     {
       "id": 857,
       "name": "hattrem",
@@ -117,18 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-27T21:50:57.626Z"
-    },
-    {
-      "id": 251,
-      "name": "celebi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
-      "types": [
-        "psychic",
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-27T17:53:37.188Z"
     }
   ],
   "pokemon": {
@@ -1172,6 +1171,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T10:04:17.384Z",
       "lastPulledAt": "2026-10-18T16:35:51.293Z"
+    },
+    "313": {
+      "id": 313,
+      "name": "volbeat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-29T20:35:15.736Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T20:35:15.736Z",
+      "lastPulledAt": "2026-10-29T20:35:15.736Z"
     },
     "315": {
       "id": 315,
