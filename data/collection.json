@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 248,
-  "updatedAt": "2026-10-30T06:02:55.676Z",
+  "totalPulls": 249,
+  "updatedAt": "2026-10-30T12:45:26.105Z",
   "lastPull": {
-    "id": 187,
-    "name": "hoppip",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+    "id": 296,
+    "name": "makuhita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
     "types": [
-      "grass",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 250,
+    "totalStats": 237,
     "grade": "N",
-    "pulledAt": "2026-10-30T06:02:55.676Z"
+    "pulledAt": "2026-10-30T12:45:26.105Z"
   },
   "pulls": [
+    {
+      "id": 296,
+      "name": "makuhita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 237,
+      "grade": "N",
+      "pulledAt": "2026-10-30T12:45:26.105Z"
+    },
     {
       "id": 187,
       "name": "hoppip",
@@ -118,17 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-28T13:35:23.962Z"
-    },
-    {
-      "id": 66,
-      "name": "machop",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-28T06:47:05.707Z"
     }
   ],
   "pokemon": {
@@ -1157,6 +1156,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T05:45:40.755Z",
       "lastPulledAt": "2026-10-24T05:45:40.755Z"
+    },
+    "296": {
+      "id": 296,
+      "name": "makuhita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 237,
+      "grade": "N",
+      "pulledAt": "2026-10-30T12:45:26.105Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T12:45:26.105Z",
+      "lastPulledAt": "2026-10-30T12:45:26.105Z"
     },
     "298": {
       "id": 298,
