@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 250,
-  "updatedAt": "2026-10-30T18:16:20.556Z",
+  "totalPulls": 251,
+  "updatedAt": "2026-10-30T22:28:48.992Z",
   "lastPull": {
-    "id": 301,
-    "name": "delcatty",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
+    "id": 532,
+    "name": "timburr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
     "types": [
-      "normal"
+      "fighting"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-10-30T18:16:20.556Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-30T22:28:48.992Z"
   },
   "pulls": [
+    {
+      "id": 532,
+      "name": "timburr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-30T22:28:48.992Z"
+    },
     {
       "id": 301,
       "name": "delcatty",
@@ -115,18 +126,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-28T23:09:08.916Z"
-    },
-    {
-      "id": 899,
-      "name": "wyrdeer",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-28T19:05:34.421Z"
     }
   ],
   "pokemon": {
@@ -1966,10 +1965,10 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-24T13:50:41.785Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T13:50:41.785Z",
-      "lastPulledAt": "2026-10-24T13:50:41.785Z"
+      "lastPulledAt": "2026-10-30T22:28:48.992Z"
     },
     "541": {
       "id": 541,
