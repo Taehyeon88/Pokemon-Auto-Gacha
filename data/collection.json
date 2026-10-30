@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 249,
-  "updatedAt": "2026-10-30T12:45:26.105Z",
+  "totalPulls": 250,
+  "updatedAt": "2026-10-30T18:16:20.556Z",
   "lastPull": {
-    "id": 296,
-    "name": "makuhita",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+    "id": 301,
+    "name": "delcatty",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
     "types": [
-      "fighting"
+      "normal"
     ],
-    "totalStats": 237,
-    "grade": "N",
-    "pulledAt": "2026-10-30T12:45:26.105Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-10-30T18:16:20.556Z"
   },
   "pulls": [
+    {
+      "id": 301,
+      "name": "delcatty",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-10-30T18:16:20.556Z"
+    },
     {
       "id": 296,
       "name": "makuhita",
@@ -116,18 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-28T19:05:34.421Z"
-    },
-    {
-      "id": 380,
-      "name": "latias",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
-      "types": [
-        "dragon",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-28T13:35:23.962Z"
     }
   ],
   "pokemon": {
@@ -1217,6 +1216,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T10:04:17.384Z",
       "lastPulledAt": "2026-10-18T16:35:51.293Z"
+    },
+    "301": {
+      "id": 301,
+      "name": "delcatty",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-10-30T18:16:20.556Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T18:16:20.556Z",
+      "lastPulledAt": "2026-10-30T18:16:20.556Z"
     },
     "313": {
       "id": 313,
