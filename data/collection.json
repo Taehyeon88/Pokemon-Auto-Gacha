@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 247,
-  "updatedAt": "2026-10-30T00:18:57.745Z",
+  "totalPulls": 248,
+  "updatedAt": "2026-10-30T06:02:55.676Z",
   "lastPull": {
-    "id": 11,
-    "name": "metapod",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+    "id": 187,
+    "name": "hoppip",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
     "types": [
-      "bug"
+      "grass",
+      "flying"
     ],
-    "totalStats": 205,
+    "totalStats": 250,
     "grade": "N",
-    "pulledAt": "2026-10-30T00:18:57.745Z"
+    "pulledAt": "2026-10-30T06:02:55.676Z"
   },
   "pulls": [
+    {
+      "id": 187,
+      "name": "hoppip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-30T06:02:55.676Z"
+    },
     {
       "id": 11,
       "name": "metapod",
@@ -116,18 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-28T06:47:05.707Z"
-    },
-    {
-      "id": 392,
-      "name": "infernape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-10-28T00:59:21.239Z"
     }
   ],
   "pokemon": {
@@ -808,6 +809,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T02:50:47.877Z",
       "lastPulledAt": "2026-10-16T15:01:24.193Z"
+    },
+    "187": {
+      "id": 187,
+      "name": "hoppip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-30T06:02:55.676Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T06:02:55.676Z",
+      "lastPulledAt": "2026-10-30T06:02:55.676Z"
     },
     "188": {
       "id": 188,
