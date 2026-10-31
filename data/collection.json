@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 252,
-  "updatedAt": "2026-10-31T01:44:59.980Z",
+  "totalPulls": 253,
+  "updatedAt": "2026-10-31T07:33:12.593Z",
   "lastPull": {
-    "id": 894,
-    "name": "regieleki",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png",
+    "id": 124,
+    "name": "jynx",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
     "types": [
-      "electric"
+      "ice",
+      "psychic"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-31T01:44:59.980Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-10-31T07:33:12.593Z"
   },
   "pulls": [
+    {
+      "id": 124,
+      "name": "jynx",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-31T07:33:12.593Z"
+    },
     {
       "id": 894,
       "name": "regieleki",
@@ -114,17 +127,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-10-29T08:46:08.210Z"
-    },
-    {
-      "id": 255,
-      "name": "torchic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-29T02:26:00.065Z"
     }
   ],
   "pokemon": {
@@ -576,6 +578,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T11:58:35.740Z",
       "lastPulledAt": "2026-09-17T11:58:35.740Z"
+    },
+    "124": {
+      "id": 124,
+      "name": "jynx",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-31T07:33:12.593Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T07:33:12.593Z",
+      "lastPulledAt": "2026-10-31T07:33:12.593Z"
     },
     "127": {
       "id": 127,
