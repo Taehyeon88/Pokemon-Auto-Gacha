@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 251,
-  "updatedAt": "2026-10-30T22:28:48.992Z",
+  "totalPulls": 252,
+  "updatedAt": "2026-10-31T01:44:59.980Z",
   "lastPull": {
-    "id": 532,
-    "name": "timburr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+    "id": 894,
+    "name": "regieleki",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png",
     "types": [
-      "fighting"
+      "electric"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-30T22:28:48.992Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-31T01:44:59.980Z"
   },
   "pulls": [
+    {
+      "id": 894,
+      "name": "regieleki",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-31T01:44:59.980Z"
+    },
     {
       "id": 532,
       "name": "timburr",
@@ -114,18 +125,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-29T02:26:00.065Z"
-    },
-    {
-      "id": 131,
-      "name": "lapras",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-28T23:09:08.916Z"
     }
   ],
   "pokemon": {
@@ -3165,6 +3164,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T15:56:31.988Z",
       "lastPulledAt": "2026-09-24T15:56:31.988Z"
+    },
+    "894": {
+      "id": 894,
+      "name": "regieleki",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-31T01:44:59.980Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T01:44:59.980Z",
+      "lastPulledAt": "2026-10-31T01:44:59.980Z"
     },
     "899": {
       "id": 899,
