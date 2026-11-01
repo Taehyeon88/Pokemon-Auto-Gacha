@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 260,
-  "updatedAt": "2026-11-01T18:45:03.412Z",
+  "totalPulls": 261,
+  "updatedAt": "2026-11-01T22:27:37.118Z",
   "lastPull": {
-    "id": 876,
-    "name": "indeedee-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
+    "id": 141,
+    "name": "kabutops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
     "types": [
-      "psychic",
-      "normal"
+      "rock",
+      "water"
     ],
-    "totalStats": 475,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-11-01T18:45:03.412Z"
+    "pulledAt": "2026-11-01T22:27:37.118Z"
   },
   "pulls": [
+    {
+      "id": 141,
+      "name": "kabutops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-01T22:27:37.118Z"
+    },
     {
       "id": 876,
       "name": "indeedee-male",
@@ -118,17 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-31T01:44:59.980Z"
-    },
-    {
-      "id": 532,
-      "name": "timburr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-30T22:28:48.992Z"
     }
   ],
   "pokemon": {
@@ -703,6 +704,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T21:16:20.673Z",
       "lastPulledAt": "2026-10-18T21:16:20.673Z"
+    },
+    "141": {
+      "id": 141,
+      "name": "kabutops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-01T22:27:37.118Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T22:27:37.118Z",
+      "lastPulledAt": "2026-11-01T22:27:37.118Z"
     },
     "146": {
       "id": 146,
