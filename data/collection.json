@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 257,
-  "updatedAt": "2026-11-01T00:27:38.845Z",
+  "totalPulls": 258,
+  "updatedAt": "2026-11-01T06:40:39.247Z",
   "lastPull": {
-    "id": 162,
-    "name": "furret",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+    "id": 525,
+    "name": "boldore",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
     "types": [
-      "normal"
+      "rock"
     ],
-    "totalStats": 415,
-    "grade": "R",
-    "pulledAt": "2026-11-01T00:27:38.845Z"
+    "totalStats": 390,
+    "grade": "N",
+    "pulledAt": "2026-11-01T06:40:39.247Z"
   },
   "pulls": [
+    {
+      "id": 525,
+      "name": "boldore",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-01T06:40:39.247Z"
+    },
     {
       "id": 162,
       "name": "furret",
@@ -115,18 +126,6 @@
       "totalStats": 237,
       "grade": "N",
       "pulledAt": "2026-10-30T12:45:26.105Z"
-    },
-    {
-      "id": 187,
-      "name": "hoppip",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-10-30T06:02:55.676Z"
     }
   ],
   "pokemon": {
@@ -1986,6 +1985,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T12:40:00.114Z",
       "lastPulledAt": "2026-09-29T12:40:00.114Z"
+    },
+    "525": {
+      "id": 525,
+      "name": "boldore",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-01T06:40:39.247Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T06:40:39.247Z",
+      "lastPulledAt": "2026-11-01T06:40:39.247Z"
     },
     "529": {
       "id": 529,
