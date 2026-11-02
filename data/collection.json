@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 261,
-  "updatedAt": "2026-11-01T22:27:37.118Z",
+  "totalPulls": 262,
+  "updatedAt": "2026-11-02T01:43:12.589Z",
   "lastPull": {
-    "id": 141,
-    "name": "kabutops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "id": 606,
+    "name": "beheeyem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
     "types": [
-      "rock",
-      "water"
+      "psychic"
     ],
-    "totalStats": 495,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-11-01T22:27:37.118Z"
+    "pulledAt": "2026-11-02T01:43:12.589Z"
   },
   "pulls": [
+    {
+      "id": 606,
+      "name": "beheeyem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-02T01:43:12.589Z"
+    },
     {
       "id": 141,
       "name": "kabutops",
@@ -119,17 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-31T07:33:12.593Z"
-    },
-    {
-      "id": 894,
-      "name": "regieleki",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-31T01:44:59.980Z"
     }
   ],
   "pokemon": {
@@ -2294,10 +2293,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-24T09:50:27.033Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T09:50:27.033Z",
-      "lastPulledAt": "2026-10-24T09:50:27.033Z"
+      "lastPulledAt": "2026-11-02T01:43:12.589Z"
     },
     "615": {
       "id": 615,
