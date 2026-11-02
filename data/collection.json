@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 263,
-  "updatedAt": "2026-11-02T08:22:46.993Z",
+  "totalPulls": 264,
+  "updatedAt": "2026-11-02T18:40:35.738Z",
   "lastPull": {
-    "id": 905,
-    "name": "enamorus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
+    "id": 979,
+    "name": "annihilape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
     "types": [
-      "fairy",
-      "flying"
+      "fighting",
+      "ghost"
     ],
-    "totalStats": 580,
+    "totalStats": 535,
     "grade": "SR",
-    "pulledAt": "2026-11-02T08:22:46.993Z"
+    "pulledAt": "2026-11-02T18:40:35.738Z"
   },
   "pulls": [
+    {
+      "id": 979,
+      "name": "annihilape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-02T18:40:35.738Z"
+    },
     {
       "id": 905,
       "name": "enamorus-incarnate",
@@ -118,18 +130,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-31T18:12:40.443Z"
-    },
-    {
-      "id": 1004,
-      "name": "chi-yu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
-      "types": [
-        "dark",
-        "fire"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-31T13:51:22.795Z"
     }
   ],
   "pokemon": {
@@ -3527,10 +3527,10 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-09-25T12:06:30.818Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T12:06:30.818Z",
-      "lastPulledAt": "2026-09-25T12:06:30.818Z"
+      "lastPulledAt": "2026-11-02T18:40:35.738Z"
     },
     "996": {
       "id": 996,
