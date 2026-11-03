@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 265,
-  "updatedAt": "2026-11-03T01:18:10.862Z",
+  "totalPulls": 266,
+  "updatedAt": "2026-11-03T07:59:50.144Z",
   "lastPull": {
-    "id": 747,
-    "name": "mareanie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+    "id": 356,
+    "name": "dusclops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
     "types": [
-      "poison",
-      "water"
+      "ghost"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-11-03T01:18:10.862Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-11-03T07:59:50.144Z"
   },
   "pulls": [
+    {
+      "id": 356,
+      "name": "dusclops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-03T07:59:50.144Z"
+    },
     {
       "id": 747,
       "name": "mareanie",
@@ -119,17 +129,6 @@
       "totalStats": 415,
       "grade": "R",
       "pulledAt": "2026-11-01T00:27:38.845Z"
-    },
-    {
-      "id": 107,
-      "name": "hitmonchan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-31T21:42:28.701Z"
     }
   ],
   "pokemon": {
@@ -1465,6 +1464,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T22:18:38.024Z",
       "lastPulledAt": "2026-10-25T22:18:38.024Z"
+    },
+    "356": {
+      "id": 356,
+      "name": "dusclops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-03T07:59:50.144Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T07:59:50.144Z",
+      "lastPulledAt": "2026-11-03T07:59:50.144Z"
     },
     "357": {
       "id": 357,
