@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 264,
-  "updatedAt": "2026-11-02T18:40:35.738Z",
+  "totalPulls": 265,
+  "updatedAt": "2026-11-03T01:18:10.862Z",
   "lastPull": {
-    "id": 979,
-    "name": "annihilape",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+    "id": 747,
+    "name": "mareanie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
     "types": [
-      "fighting",
-      "ghost"
+      "poison",
+      "water"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-11-02T18:40:35.738Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-11-03T01:18:10.862Z"
   },
   "pulls": [
+    {
+      "id": 747,
+      "name": "mareanie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-03T01:18:10.862Z"
+    },
     {
       "id": 979,
       "name": "annihilape",
@@ -118,18 +130,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-31T21:42:28.701Z"
-    },
-    {
-      "id": 391,
-      "name": "monferno",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-31T18:12:40.443Z"
     }
   ],
   "pokemon": {
@@ -2807,10 +2807,10 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-07T19:05:38.590Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T19:05:38.590Z",
-      "lastPulledAt": "2026-10-07T19:05:38.590Z"
+      "lastPulledAt": "2026-11-03T01:18:10.862Z"
     },
     "749": {
       "id": 749,
