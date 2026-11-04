@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 271,
-  "updatedAt": "2026-11-04T16:22:53.937Z",
+  "totalPulls": 272,
+  "updatedAt": "2026-11-04T21:57:11.533Z",
   "lastPull": {
-    "id": 319,
-    "name": "sharpedo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+    "id": 542,
+    "name": "leavanny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
     "types": [
-      "water",
-      "dark"
+      "bug",
+      "grass"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-11-04T16:22:53.937Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-04T21:57:11.533Z"
   },
   "pulls": [
+    {
+      "id": 542,
+      "name": "leavanny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T21:57:11.533Z"
+    },
     {
       "id": 319,
       "name": "sharpedo",
@@ -121,17 +133,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-02T08:22:46.993Z"
-    },
-    {
-      "id": 606,
-      "name": "beheeyem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-02T01:43:12.589Z"
     }
   ],
   "pokemon": {
@@ -2163,6 +2164,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T19:54:46.679Z",
       "lastPulledAt": "2026-10-01T19:54:46.679Z"
+    },
+    "542": {
+      "id": 542,
+      "name": "leavanny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T21:57:11.533Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T21:57:11.533Z",
+      "lastPulledAt": "2026-11-04T21:57:11.533Z"
     },
     "544": {
       "id": 544,
