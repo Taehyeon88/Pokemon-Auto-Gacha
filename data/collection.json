@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 274,
-  "updatedAt": "2026-11-05T09:23:44.704Z",
+  "totalPulls": 275,
+  "updatedAt": "2026-11-05T17:32:20.489Z",
   "lastPull": {
-    "id": 690,
-    "name": "skrelp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+    "id": 861,
+    "name": "grimmsnarl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
     "types": [
-      "poison",
-      "water"
+      "dark",
+      "fairy"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-11-05T09:23:44.704Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-11-05T17:32:20.489Z"
   },
   "pulls": [
+    {
+      "id": 861,
+      "name": "grimmsnarl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
+      "types": [
+        "dark",
+        "fairy"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T17:32:20.489Z"
+    },
     {
       "id": 690,
       "name": "skrelp",
@@ -121,18 +133,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-11-03T07:59:50.144Z"
-    },
-    {
-      "id": 747,
-      "name": "mareanie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-03T01:18:10.862Z"
     }
   ],
   "pokemon": {
@@ -3361,6 +3361,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T15:37:30.012Z",
       "lastPulledAt": "2026-10-29T15:37:30.012Z"
+    },
+    "861": {
+      "id": 861,
+      "name": "grimmsnarl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
+      "types": [
+        "dark",
+        "fairy"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T17:32:20.489Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T17:32:20.489Z",
+      "lastPulledAt": "2026-11-05T17:32:20.489Z"
     },
     "876": {
       "id": 876,
