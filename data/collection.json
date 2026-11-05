@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 273,
-  "updatedAt": "2026-11-05T02:04:23.548Z",
+  "totalPulls": 274,
+  "updatedAt": "2026-11-05T09:23:44.704Z",
   "lastPull": {
-    "id": 453,
-    "name": "croagunk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+    "id": 690,
+    "name": "skrelp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
     "types": [
       "poison",
-      "fighting"
+      "water"
     ],
-    "totalStats": 300,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-11-05T02:04:23.548Z"
+    "pulledAt": "2026-11-05T09:23:44.704Z"
   },
   "pulls": [
+    {
+      "id": 690,
+      "name": "skrelp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-05T09:23:44.704Z"
+    },
     {
       "id": 453,
       "name": "croagunk",
@@ -121,18 +133,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-03T01:18:10.862Z"
-    },
-    {
-      "id": 979,
-      "name": "annihilape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
-      "types": [
-        "fighting",
-        "ghost"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-11-02T18:40:35.738Z"
     }
   ],
   "pokemon": {
@@ -2707,6 +2707,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T20:03:43.248Z",
       "lastPulledAt": "2026-09-23T20:03:43.248Z"
+    },
+    "690": {
+      "id": 690,
+      "name": "skrelp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-05T09:23:44.704Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T09:23:44.704Z",
+      "lastPulledAt": "2026-11-05T09:23:44.704Z"
     },
     "695": {
       "id": 695,
