@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 278,
-  "updatedAt": "2026-11-06T10:25:58.595Z",
+  "totalPulls": 279,
+  "updatedAt": "2026-11-06T17:38:15.623Z",
   "lastPull": {
-    "id": 92,
-    "name": "gastly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "id": 115,
+    "name": "kangaskhan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
     "types": [
-      "ghost",
-      "poison"
+      "normal"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-11-06T10:25:58.595Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-06T17:38:15.623Z"
   },
   "pulls": [
+    {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-06T17:38:15.623Z"
+    },
     {
       "id": 92,
       "name": "gastly",
@@ -120,18 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-04T08:06:52.421Z"
-    },
-    {
-      "id": 468,
-      "name": "togekiss",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
-      "types": [
-        "fairy",
-        "flying"
-      ],
-      "totalStats": 545,
-      "grade": "SR",
-      "pulledAt": "2026-11-04T01:42:31.203Z"
     }
   ],
   "pokemon": {
@@ -599,6 +597,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T17:34:49.061Z",
       "lastPulledAt": "2026-10-20T17:34:49.061Z"
+    },
+    "115": {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-06T17:38:15.623Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T17:38:15.623Z",
+      "lastPulledAt": "2026-11-06T17:38:15.623Z"
     },
     "118": {
       "id": 118,
