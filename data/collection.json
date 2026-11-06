@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 276,
-  "updatedAt": "2026-11-05T22:49:19.793Z",
+  "totalPulls": 277,
+  "updatedAt": "2026-11-06T02:54:07.000Z",
   "lastPull": {
-    "id": 554,
-    "name": "darumaka",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+    "id": 245,
+    "name": "suicune",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 315,
-    "grade": "N",
-    "pulledAt": "2026-11-05T22:49:19.793Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-11-06T02:54:07.000Z"
   },
   "pulls": [
+    {
+      "id": 245,
+      "name": "suicune",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T02:54:07.000Z"
+    },
     {
       "id": 554,
       "name": "darumaka",
@@ -120,18 +131,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-11-03T21:42:54.197Z"
-    },
-    {
-      "id": 149,
-      "name": "dragonite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
-      "types": [
-        "dragon",
-        "flying"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-03T16:04:52.003Z"
     }
   ],
   "pokemon": {
@@ -1096,6 +1095,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T03:30:34.782Z",
       "lastPulledAt": "2026-09-27T05:42:11.013Z"
+    },
+    "245": {
+      "id": 245,
+      "name": "suicune",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T02:54:07.000Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T02:54:07.000Z",
+      "lastPulledAt": "2026-11-06T02:54:07.000Z"
     },
     "251": {
       "id": 251,
