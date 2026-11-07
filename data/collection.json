@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 283,
-  "updatedAt": "2026-11-07T15:26:18.802Z",
+  "totalPulls": 284,
+  "updatedAt": "2026-11-07T19:32:47.088Z",
   "lastPull": {
-    "id": 548,
-    "name": "petilil",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+    "id": 611,
+    "name": "fraxure",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
     "types": [
-      "grass"
+      "dragon"
     ],
-    "totalStats": 280,
-    "grade": "N",
-    "pulledAt": "2026-11-07T15:26:18.802Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-11-07T19:32:47.088Z"
   },
   "pulls": [
+    {
+      "id": 611,
+      "name": "fraxure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-07T19:32:47.088Z"
+    },
     {
       "id": 548,
       "name": "petilil",
@@ -116,18 +127,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-05T17:32:20.489Z"
-    },
-    {
-      "id": 690,
-      "name": "skrelp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-11-05T09:23:44.704Z"
     }
   ],
   "pokemon": {
@@ -2483,6 +2482,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T09:50:27.033Z",
       "lastPulledAt": "2026-11-02T01:43:12.589Z"
+    },
+    "611": {
+      "id": 611,
+      "name": "fraxure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-07T19:32:47.088Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T19:32:47.088Z",
+      "lastPulledAt": "2026-11-07T19:32:47.088Z"
     },
     "615": {
       "id": 615,
