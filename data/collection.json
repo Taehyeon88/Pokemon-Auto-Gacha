@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 284,
-  "updatedAt": "2026-11-07T19:32:47.088Z",
+  "totalPulls": 285,
+  "updatedAt": "2026-11-07T22:57:57.601Z",
   "lastPull": {
-    "id": 611,
-    "name": "fraxure",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+    "id": 643,
+    "name": "reshiram",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
     "types": [
-      "dragon"
+      "dragon",
+      "fire"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-11-07T19:32:47.088Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-07T22:57:57.601Z"
   },
   "pulls": [
+    {
+      "id": 643,
+      "name": "reshiram",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+      "types": [
+        "dragon",
+        "fire"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-07T22:57:57.601Z"
+    },
     {
       "id": 611,
       "name": "fraxure",
@@ -115,18 +128,6 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-11-05T22:49:19.793Z"
-    },
-    {
-      "id": 861,
-      "name": "grimmsnarl",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
-      "types": [
-        "dark",
-        "fairy"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-05T17:32:20.489Z"
     }
   ],
   "pokemon": {
@@ -2591,6 +2592,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T23:33:29.394Z",
       "lastPulledAt": "2026-10-07T23:33:29.394Z"
+    },
+    "643": {
+      "id": 643,
+      "name": "reshiram",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+      "types": [
+        "dragon",
+        "fire"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-07T22:57:57.601Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T22:57:57.601Z",
+      "lastPulledAt": "2026-11-07T22:57:57.601Z"
     },
     "650": {
       "id": 650,
