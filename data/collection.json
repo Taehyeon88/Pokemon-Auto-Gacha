@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 286,
-  "updatedAt": "2026-11-08T02:14:25.197Z",
+  "totalPulls": 287,
+  "updatedAt": "2026-11-08T09:08:07.767Z",
   "lastPull": {
-    "id": 131,
-    "name": "lapras",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "id": 176,
+    "name": "togetic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png",
     "types": [
-      "water",
-      "ice"
+      "fairy",
+      "flying"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T02:14:25.197Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-08T09:08:07.767Z"
   },
   "pulls": [
+    {
+      "id": 176,
+      "name": "togetic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-08T09:08:07.767Z"
+    },
     {
       "id": 131,
       "name": "lapras",
@@ -118,17 +130,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-11-06T10:25:58.595Z"
-    },
-    {
-      "id": 245,
-      "name": "suicune",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-06T02:54:07.000Z"
     }
   ],
   "pokemon": {
@@ -888,6 +889,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T05:25:57.329Z",
       "lastPulledAt": "2026-09-21T05:25:57.329Z"
+    },
+    "176": {
+      "id": 176,
+      "name": "togetic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-08T09:08:07.767Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T09:08:07.767Z",
+      "lastPulledAt": "2026-11-08T09:08:07.767Z"
     },
     "181": {
       "id": 181,
