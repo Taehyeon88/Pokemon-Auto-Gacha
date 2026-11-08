@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 285,
-  "updatedAt": "2026-11-07T22:57:57.601Z",
+  "totalPulls": 286,
+  "updatedAt": "2026-11-08T02:14:25.197Z",
   "lastPull": {
-    "id": 643,
-    "name": "reshiram",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+    "id": 131,
+    "name": "lapras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
     "types": [
-      "dragon",
-      "fire"
+      "water",
+      "ice"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-11-07T22:57:57.601Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-11-08T02:14:25.197Z"
   },
   "pulls": [
+    {
+      "id": 131,
+      "name": "lapras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T02:14:25.197Z"
+    },
     {
       "id": 643,
       "name": "reshiram",
@@ -117,17 +129,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-06T02:54:07.000Z"
-    },
-    {
-      "id": 554,
-      "name": "darumaka",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-11-05T22:49:19.793Z"
     }
   ],
   "pokemon": {
@@ -699,10 +700,10 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-28T23:09:08.916Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T23:09:08.916Z",
-      "lastPulledAt": "2026-10-28T23:09:08.916Z"
+      "lastPulledAt": "2026-11-08T02:14:25.197Z"
     },
     "132": {
       "id": 132,
