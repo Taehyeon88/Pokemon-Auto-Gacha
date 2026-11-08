@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 288,
-  "updatedAt": "2026-11-08T15:56:50.582Z",
+  "totalPulls": 289,
+  "updatedAt": "2026-11-08T20:17:15.338Z",
   "lastPull": {
-    "id": 144,
-    "name": "articuno",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "id": 64,
+    "name": "kadabra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
     "types": [
-      "ice",
-      "flying"
+      "psychic"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T15:56:50.582Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-11-08T20:17:15.338Z"
   },
   "pulls": [
+    {
+      "id": 64,
+      "name": "kadabra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-08T20:17:15.338Z"
+    },
     {
       "id": 144,
       "name": "articuno",
@@ -119,17 +129,6 @@
       "totalStats": 309,
       "grade": "N",
       "pulledAt": "2026-11-06T22:23:11.666Z"
-    },
-    {
-      "id": 115,
-      "name": "kangaskhan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-06T17:38:15.623Z"
     }
   ],
   "pokemon": {
@@ -429,6 +428,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T05:59:28.253Z",
       "lastPulledAt": "2026-10-21T02:01:36.717Z"
+    },
+    "64": {
+      "id": 64,
+      "name": "kadabra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-08T20:17:15.338Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T20:17:15.338Z",
+      "lastPulledAt": "2026-11-08T20:17:15.338Z"
     },
     "66": {
       "id": 66,
