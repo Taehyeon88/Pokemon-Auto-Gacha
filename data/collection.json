@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 292,
-  "updatedAt": "2026-11-09T11:22:39.535Z",
+  "totalPulls": 293,
+  "updatedAt": "2026-11-09T21:33:20.189Z",
   "lastPull": {
-    "id": 148,
-    "name": "dragonair",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "id": 514,
+    "name": "simisear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
     "types": [
-      "dragon"
+      "fire"
     ],
-    "totalStats": 420,
+    "totalStats": 498,
     "grade": "R",
-    "pulledAt": "2026-11-09T11:22:39.535Z"
+    "pulledAt": "2026-11-09T21:33:20.189Z"
   },
   "pulls": [
+    {
+      "id": 514,
+      "name": "simisear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-11-09T21:33:20.189Z"
+    },
     {
       "id": 148,
       "name": "dragonair",
@@ -118,17 +129,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-11-07T19:32:47.088Z"
-    },
-    {
-      "id": 548,
-      "name": "petilil",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-11-07T15:26:18.802Z"
     }
   ],
   "pokemon": {
@@ -2224,6 +2224,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:00:58.576Z",
       "lastPulledAt": "2026-09-19T05:00:58.576Z"
+    },
+    "514": {
+      "id": 514,
+      "name": "simisear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-11-09T21:33:20.189Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T21:33:20.189Z",
+      "lastPulledAt": "2026-11-09T21:33:20.189Z"
     },
     "516": {
       "id": 516,
