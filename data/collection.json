@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 294,
-  "updatedAt": "2026-11-10T03:48:02.108Z",
+  "totalPulls": 295,
+  "updatedAt": "2026-11-10T11:52:10.225Z",
   "lastPull": {
-    "id": 573,
-    "name": "cinccino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "id": 987,
+    "name": "flutter-mane",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
     "types": [
-      "normal"
+      "ghost",
+      "fairy"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-11-10T03:48:02.108Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-10T11:52:10.225Z"
   },
   "pulls": [
+    {
+      "id": 987,
+      "name": "flutter-mane",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T11:52:10.225Z"
+    },
     {
       "id": 573,
       "name": "cinccino",
@@ -117,18 +130,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-11-08T02:14:25.197Z"
-    },
-    {
-      "id": 643,
-      "name": "reshiram",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
-      "types": [
-        "dragon",
-        "fire"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-07T22:57:57.601Z"
     }
   ],
   "pokemon": {
@@ -3920,6 +3921,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T12:06:30.818Z",
       "lastPulledAt": "2026-11-02T18:40:35.738Z"
+    },
+    "987": {
+      "id": 987,
+      "name": "flutter-mane",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T11:52:10.225Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T11:52:10.225Z",
+      "lastPulledAt": "2026-11-10T11:52:10.225Z"
     },
     "996": {
       "id": 996,
