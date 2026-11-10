@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 293,
-  "updatedAt": "2026-11-09T21:33:20.189Z",
+  "totalPulls": 294,
+  "updatedAt": "2026-11-10T03:48:02.108Z",
   "lastPull": {
-    "id": 514,
-    "name": "simisear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+    "id": 573,
+    "name": "cinccino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
     "types": [
-      "fire"
+      "normal"
     ],
-    "totalStats": 498,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-11-09T21:33:20.189Z"
+    "pulledAt": "2026-11-10T03:48:02.108Z"
   },
   "pulls": [
+    {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-10T03:48:02.108Z"
+    },
     {
       "id": 514,
       "name": "simisear",
@@ -118,17 +129,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-07T22:57:57.601Z"
-    },
-    {
-      "id": 611,
-      "name": "fraxure",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-07T19:32:47.088Z"
     }
   ],
   "pokemon": {
@@ -2471,6 +2471,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T10:05:34.882Z",
       "lastPulledAt": "2026-10-22T10:05:34.882Z"
+    },
+    "573": {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-10T03:48:02.108Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T03:48:02.108Z",
+      "lastPulledAt": "2026-11-10T03:48:02.108Z"
     },
     "577": {
       "id": 577,
