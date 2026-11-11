@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 299,
-  "updatedAt": "2026-11-11T14:44:22.892Z",
+  "totalPulls": 300,
+  "updatedAt": "2026-11-11T21:35:45.872Z",
   "lastPull": {
-    "id": 304,
-    "name": "aron",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+    "id": 129,
+    "name": "magikarp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
     "types": [
-      "steel",
-      "rock"
+      "water"
     ],
-    "totalStats": 330,
+    "totalStats": 200,
     "grade": "N",
-    "pulledAt": "2026-11-11T14:44:22.892Z"
+    "pulledAt": "2026-11-11T21:35:45.872Z"
   },
   "pulls": [
+    {
+      "id": 129,
+      "name": "magikarp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-11-11T21:35:45.872Z"
+    },
     {
       "id": 304,
       "name": "aron",
@@ -118,18 +128,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-11-09T03:03:28.468Z"
-    },
-    {
-      "id": 760,
-      "name": "bewear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
-      "types": [
-        "normal",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T23:48:50.924Z"
     }
   ],
   "pokemon": {
@@ -716,10 +714,10 @@
       "totalStats": 200,
       "grade": "N",
       "pulledAt": "2026-10-04T18:46:44.842Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T18:46:44.842Z",
-      "lastPulledAt": "2026-10-04T18:46:44.842Z"
+      "lastPulledAt": "2026-11-11T21:35:45.872Z"
     },
     "131": {
       "id": 131,
