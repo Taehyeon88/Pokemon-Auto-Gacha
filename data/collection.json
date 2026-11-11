@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 297,
-  "updatedAt": "2026-11-11T00:10:42.971Z",
+  "totalPulls": 298,
+  "updatedAt": "2026-11-11T06:41:57.193Z",
   "lastPull": {
-    "id": 176,
-    "name": "togetic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png",
+    "id": 39,
+    "name": "jigglypuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
     "types": [
-      "fairy",
-      "flying"
+      "normal",
+      "fairy"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-11T00:10:42.971Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-11-11T06:41:57.193Z"
   },
   "pulls": [
+    {
+      "id": 39,
+      "name": "jigglypuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-11-11T06:41:57.193Z"
+    },
     {
       "id": 176,
       "name": "togetic",
@@ -117,18 +129,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-11-08T20:17:15.338Z"
-    },
-    {
-      "id": 144,
-      "name": "articuno",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
-      "types": [
-        "ice",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T15:56:50.582Z"
     }
   ],
   "pokemon": {
@@ -335,6 +335,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T00:33:47.266Z",
       "lastPulledAt": "2026-09-21T00:33:47.266Z"
+    },
+    "39": {
+      "id": 39,
+      "name": "jigglypuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-11-11T06:41:57.193Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T06:41:57.193Z",
+      "lastPulledAt": "2026-11-11T06:41:57.193Z"
     },
     "40": {
       "id": 40,
