@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 298,
-  "updatedAt": "2026-11-11T06:41:57.193Z",
+  "totalPulls": 299,
+  "updatedAt": "2026-11-11T14:44:22.892Z",
   "lastPull": {
-    "id": 39,
-    "name": "jigglypuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "id": 304,
+    "name": "aron",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
     "types": [
-      "normal",
-      "fairy"
+      "steel",
+      "rock"
     ],
-    "totalStats": 270,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-11-11T06:41:57.193Z"
+    "pulledAt": "2026-11-11T14:44:22.892Z"
   },
   "pulls": [
+    {
+      "id": 304,
+      "name": "aron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-11T14:44:22.892Z"
+    },
     {
       "id": 39,
       "name": "jigglypuff",
@@ -118,17 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-08T23:48:50.924Z"
-    },
-    {
-      "id": 64,
-      "name": "kadabra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-11-08T20:17:15.338Z"
     }
   ],
   "pokemon": {
@@ -1482,6 +1483,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T18:16:20.556Z",
       "lastPulledAt": "2026-10-30T18:16:20.556Z"
+    },
+    "304": {
+      "id": 304,
+      "name": "aron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-11T14:44:22.892Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T14:44:22.892Z",
+      "lastPulledAt": "2026-11-11T14:44:22.892Z"
     },
     "313": {
       "id": 313,
