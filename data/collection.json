@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 301,
-  "updatedAt": "2026-11-12T02:30:09.602Z",
+  "totalPulls": 302,
+  "updatedAt": "2026-11-12T10:15:35.845Z",
   "lastPull": {
-    "id": 393,
-    "name": "piplup",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
+    "id": 682,
+    "name": "spritzee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
     "types": [
-      "water"
+      "fairy"
     ],
-    "totalStats": 314,
+    "totalStats": 341,
     "grade": "N",
-    "pulledAt": "2026-11-12T02:30:09.602Z"
+    "pulledAt": "2026-11-12T10:15:35.845Z"
   },
   "pulls": [
+    {
+      "id": 682,
+      "name": "spritzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-11-12T10:15:35.845Z"
+    },
     {
       "id": 393,
       "name": "piplup",
@@ -116,17 +127,6 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-11-09T21:33:20.189Z"
-    },
-    {
-      "id": 148,
-      "name": "dragonair",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-11-09T11:22:39.535Z"
     }
   ],
   "pokemon": {
@@ -2963,6 +2963,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:26:16.523Z",
       "lastPulledAt": "2026-09-16T12:26:16.523Z"
+    },
+    "682": {
+      "id": 682,
+      "name": "spritzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-11-12T10:15:35.845Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T10:15:35.845Z",
+      "lastPulledAt": "2026-11-12T10:15:35.845Z"
     },
     "688": {
       "id": 688,
