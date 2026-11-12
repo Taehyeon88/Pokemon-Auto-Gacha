@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 300,
-  "updatedAt": "2026-11-11T21:35:45.872Z",
+  "totalPulls": 301,
+  "updatedAt": "2026-11-12T02:30:09.602Z",
   "lastPull": {
-    "id": 129,
-    "name": "magikarp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "id": 393,
+    "name": "piplup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
     "types": [
       "water"
     ],
-    "totalStats": 200,
+    "totalStats": 314,
     "grade": "N",
-    "pulledAt": "2026-11-11T21:35:45.872Z"
+    "pulledAt": "2026-11-12T02:30:09.602Z"
   },
   "pulls": [
+    {
+      "id": 393,
+      "name": "piplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-11-12T02:30:09.602Z"
+    },
     {
       "id": 129,
       "name": "magikarp",
@@ -116,18 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-09T11:22:39.535Z"
-    },
-    {
-      "id": 230,
-      "name": "kingdra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
-      "types": [
-        "water",
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-11-09T03:03:28.468Z"
     }
   ],
   "pokemon": {
@@ -1806,6 +1805,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:09:30.453Z",
       "lastPulledAt": "2026-10-28T00:59:21.239Z"
+    },
+    "393": {
+      "id": 393,
+      "name": "piplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-11-12T02:30:09.602Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T02:30:09.602Z",
+      "lastPulledAt": "2026-11-12T02:30:09.602Z"
     },
     "404": {
       "id": 404,
