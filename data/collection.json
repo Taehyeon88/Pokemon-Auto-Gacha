@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 307,
-  "updatedAt": "2026-11-13T18:44:14.640Z",
+  "totalPulls": 308,
+  "updatedAt": "2026-11-13T23:56:24.764Z",
   "lastPull": {
-    "id": 662,
-    "name": "fletchinder",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+    "id": 296,
+    "name": "makuhita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
     "types": [
-      "fire",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 382,
+    "totalStats": 237,
     "grade": "N",
-    "pulledAt": "2026-11-13T18:44:14.640Z"
+    "pulledAt": "2026-11-13T23:56:24.764Z"
   },
   "pulls": [
+    {
+      "id": 296,
+      "name": "makuhita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 237,
+      "grade": "N",
+      "pulledAt": "2026-11-13T23:56:24.764Z"
+    },
     {
       "id": 662,
       "name": "fletchinder",
@@ -119,18 +129,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-11T14:44:22.892Z"
-    },
-    {
-      "id": 39,
-      "name": "jigglypuff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
-      "types": [
-        "normal",
-        "fairy"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-11-11T06:41:57.193Z"
     }
   ],
   "pokemon": {
@@ -1435,10 +1433,10 @@
       "totalStats": 237,
       "grade": "N",
       "pulledAt": "2026-10-30T12:45:26.105Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T12:45:26.105Z",
-      "lastPulledAt": "2026-10-30T12:45:26.105Z"
+      "lastPulledAt": "2026-11-13T23:56:24.764Z"
     },
     "298": {
       "id": 298,
