@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 310,
-  "updatedAt": "2026-11-14T12:28:51.487Z",
+  "totalPulls": 311,
+  "updatedAt": "2026-11-14T18:26:31.247Z",
   "lastPull": {
-    "id": 67,
-    "name": "machoke",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "id": 676,
+    "name": "furfrou",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png",
     "types": [
-      "fighting"
+      "normal"
     ],
-    "totalStats": 405,
+    "totalStats": 472,
     "grade": "R",
-    "pulledAt": "2026-11-14T12:28:51.487Z"
+    "pulledAt": "2026-11-14T18:26:31.247Z"
   },
   "pulls": [
+    {
+      "id": 676,
+      "name": "furfrou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 472,
+      "grade": "R",
+      "pulledAt": "2026-11-14T18:26:31.247Z"
+    },
     {
       "id": 67,
       "name": "machoke",
@@ -117,17 +128,6 @@
       "totalStats": 341,
       "grade": "N",
       "pulledAt": "2026-11-12T10:15:35.845Z"
-    },
-    {
-      "id": 393,
-      "name": "piplup",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 314,
-      "grade": "N",
-      "pulledAt": "2026-11-12T02:30:09.602Z"
     }
   ],
   "pokemon": {
@@ -2979,6 +2979,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T19:54:41.590Z",
       "lastPulledAt": "2026-09-17T19:54:41.590Z"
+    },
+    "676": {
+      "id": 676,
+      "name": "furfrou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 472,
+      "grade": "R",
+      "pulledAt": "2026-11-14T18:26:31.247Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T18:26:31.247Z",
+      "lastPulledAt": "2026-11-14T18:26:31.247Z"
     },
     "678": {
       "id": 678,
