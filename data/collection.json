@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 311,
-  "updatedAt": "2026-11-14T18:26:31.247Z",
+  "totalPulls": 312,
+  "updatedAt": "2026-11-14T22:40:24.400Z",
   "lastPull": {
-    "id": 676,
-    "name": "furfrou",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png",
+    "id": 614,
+    "name": "beartic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
     "types": [
-      "normal"
+      "ice"
     ],
-    "totalStats": 472,
-    "grade": "R",
-    "pulledAt": "2026-11-14T18:26:31.247Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-11-14T22:40:24.400Z"
   },
   "pulls": [
+    {
+      "id": 614,
+      "name": "beartic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T22:40:24.400Z"
+    },
     {
       "id": 676,
       "name": "furfrou",
@@ -117,17 +128,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-12T18:24:21.443Z"
-    },
-    {
-      "id": 682,
-      "name": "spritzee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 341,
-      "grade": "N",
-      "pulledAt": "2026-11-12T10:15:35.845Z"
     }
   ],
   "pokemon": {
@@ -2699,6 +2699,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-07T19:32:47.088Z",
       "lastPulledAt": "2026-11-07T19:32:47.088Z"
+    },
+    "614": {
+      "id": 614,
+      "name": "beartic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T22:40:24.400Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T22:40:24.400Z",
+      "lastPulledAt": "2026-11-14T22:40:24.400Z"
     },
     "615": {
       "id": 615,
