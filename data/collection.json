@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 315,
-  "updatedAt": "2026-11-15T16:33:54.559Z",
+  "totalPulls": 316,
+  "updatedAt": "2026-11-15T21:14:53.895Z",
   "lastPull": {
-    "id": 363,
-    "name": "spheal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+    "id": 841,
+    "name": "flapple",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
     "types": [
-      "ice",
-      "water"
+      "grass",
+      "dragon"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-11-15T16:33:54.559Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-15T21:14:53.895Z"
   },
   "pulls": [
+    {
+      "id": 841,
+      "name": "flapple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-15T21:14:53.895Z"
+    },
     {
       "id": 363,
       "name": "spheal",
@@ -116,18 +128,6 @@
       "totalStats": 382,
       "grade": "N",
       "pulledAt": "2026-11-13T18:44:14.640Z"
-    },
-    {
-      "id": 174,
-      "name": "igglybuff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
-      "types": [
-        "normal",
-        "fairy"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-11-13T11:34:55.420Z"
     }
   ],
   "pokemon": {
@@ -3755,10 +3755,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-02T23:50:48.178Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T23:50:48.178Z",
-      "lastPulledAt": "2026-10-02T23:50:48.178Z"
+      "lastPulledAt": "2026-11-15T21:14:53.895Z"
     },
     "844": {
       "id": 844,
