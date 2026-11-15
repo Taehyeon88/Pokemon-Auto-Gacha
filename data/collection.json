@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 314,
-  "updatedAt": "2026-11-15T09:35:19.328Z",
+  "totalPulls": 315,
+  "updatedAt": "2026-11-15T16:33:54.559Z",
   "lastPull": {
-    "id": 392,
-    "name": "infernape",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "id": 363,
+    "name": "spheal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
     "types": [
-      "fire",
-      "fighting"
+      "ice",
+      "water"
     ],
-    "totalStats": 534,
-    "grade": "SR",
-    "pulledAt": "2026-11-15T09:35:19.328Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-11-15T16:33:54.559Z"
   },
   "pulls": [
+    {
+      "id": 363,
+      "name": "spheal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-15T16:33:54.559Z"
+    },
     {
       "id": 392,
       "name": "infernape",
@@ -116,18 +128,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-11-13T11:34:55.420Z"
-    },
-    {
-      "id": 680,
-      "name": "doublade",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
-      "types": [
-        "steel",
-        "ghost"
-      ],
-      "totalStats": 448,
-      "grade": "R",
-      "pulledAt": "2026-11-13T03:38:55.026Z"
     }
   ],
   "pokemon": {
@@ -1743,6 +1743,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T23:01:37.564Z",
       "lastPulledAt": "2026-09-24T23:01:37.564Z"
+    },
+    "363": {
+      "id": 363,
+      "name": "spheal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-15T16:33:54.559Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T16:33:54.559Z",
+      "lastPulledAt": "2026-11-15T16:33:54.559Z"
     },
     "370": {
       "id": 370,
