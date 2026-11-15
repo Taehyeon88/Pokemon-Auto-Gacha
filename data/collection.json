@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 313,
-  "updatedAt": "2026-11-15T02:10:44.038Z",
+  "totalPulls": 314,
+  "updatedAt": "2026-11-15T09:35:19.328Z",
   "lastPull": {
-    "id": 440,
-    "name": "happiny",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
+    "id": 392,
+    "name": "infernape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
     "types": [
-      "normal"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 220,
-    "grade": "N",
-    "pulledAt": "2026-11-15T02:10:44.038Z"
+    "totalStats": 534,
+    "grade": "SR",
+    "pulledAt": "2026-11-15T09:35:19.328Z"
   },
   "pulls": [
+    {
+      "id": 392,
+      "name": "infernape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-11-15T09:35:19.328Z"
+    },
     {
       "id": 440,
       "name": "happiny",
@@ -115,18 +128,6 @@
       "totalStats": 448,
       "grade": "R",
       "pulledAt": "2026-11-13T03:38:55.026Z"
-    },
-    {
-      "id": 714,
-      "name": "noibat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
-      "types": [
-        "flying",
-        "dragon"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-11-12T23:45:10.134Z"
     }
   ],
   "pokemon": {
@@ -1847,10 +1848,10 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-09-27T19:09:30.453Z",
-      "count": 3,
-      "fusionLevel": 0,
+      "count": 4,
+      "fusionLevel": 1,
       "firstPulledAt": "2026-09-27T19:09:30.453Z",
-      "lastPulledAt": "2026-10-28T00:59:21.239Z"
+      "lastPulledAt": "2026-11-15T09:35:19.328Z"
     },
     "393": {
       "id": 393,
