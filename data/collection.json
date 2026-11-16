@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 316,
-  "updatedAt": "2026-11-15T21:14:53.895Z",
+  "totalPulls": 317,
+  "updatedAt": "2026-11-16T01:06:50.484Z",
   "lastPull": {
-    "id": 841,
-    "name": "flapple",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+    "id": 751,
+    "name": "dewpider",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
     "types": [
-      "grass",
-      "dragon"
+      "water",
+      "bug"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-11-15T21:14:53.895Z"
+    "totalStats": 269,
+    "grade": "N",
+    "pulledAt": "2026-11-16T01:06:50.484Z"
   },
   "pulls": [
+    {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-11-16T01:06:50.484Z"
+    },
     {
       "id": 841,
       "name": "flapple",
@@ -116,18 +128,6 @@
       "totalStats": 237,
       "grade": "N",
       "pulledAt": "2026-11-13T23:56:24.764Z"
-    },
-    {
-      "id": 662,
-      "name": "fletchinder",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 382,
-      "grade": "N",
-      "pulledAt": "2026-11-13T18:44:14.640Z"
     }
   ],
   "pokemon": {
@@ -3399,6 +3399,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T16:19:54.596Z",
       "lastPulledAt": "2026-10-09T16:19:54.596Z"
+    },
+    "751": {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-11-16T01:06:50.484Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T01:06:50.484Z",
+      "lastPulledAt": "2026-11-16T01:06:50.484Z"
     },
     "755": {
       "id": 755,
