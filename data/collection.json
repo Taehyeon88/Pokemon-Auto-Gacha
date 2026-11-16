@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 317,
-  "updatedAt": "2026-11-16T01:06:50.484Z",
+  "totalPulls": 318,
+  "updatedAt": "2026-11-16T07:56:19.584Z",
   "lastPull": {
-    "id": 751,
-    "name": "dewpider",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+    "id": 250,
+    "name": "ho-oh",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
     "types": [
-      "water",
-      "bug"
+      "fire",
+      "flying"
     ],
-    "totalStats": 269,
-    "grade": "N",
-    "pulledAt": "2026-11-16T01:06:50.484Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-16T07:56:19.584Z"
   },
   "pulls": [
+    {
+      "id": 250,
+      "name": "ho-oh",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-16T07:56:19.584Z"
+    },
     {
       "id": 751,
       "name": "dewpider",
@@ -117,17 +129,6 @@
       "totalStats": 413,
       "grade": "R",
       "pulledAt": "2026-11-14T05:30:33.048Z"
-    },
-    {
-      "id": 296,
-      "name": "makuhita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 237,
-      "grade": "N",
-      "pulledAt": "2026-11-13T23:56:24.764Z"
     }
   ],
   "pokemon": {
@@ -1293,6 +1294,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-06T02:54:07.000Z",
       "lastPulledAt": "2026-11-06T02:54:07.000Z"
+    },
+    "250": {
+      "id": 250,
+      "name": "ho-oh",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-16T07:56:19.584Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T07:56:19.584Z",
+      "lastPulledAt": "2026-11-16T07:56:19.584Z"
     },
     "251": {
       "id": 251,
