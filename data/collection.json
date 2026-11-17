@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 320,
-  "updatedAt": "2026-11-17T01:50:09.733Z",
+  "totalPulls": 321,
+  "updatedAt": "2026-11-17T09:45:47.192Z",
   "lastPull": {
-    "id": 366,
-    "name": "clamperl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
+    "id": 735,
+    "name": "gumshoos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 345,
-    "grade": "N",
-    "pulledAt": "2026-11-17T01:50:09.733Z"
+    "totalStats": 418,
+    "grade": "R",
+    "pulledAt": "2026-11-17T09:45:47.192Z"
   },
   "pulls": [
+    {
+      "id": 735,
+      "name": "gumshoos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-11-17T09:45:47.192Z"
+    },
     {
       "id": 366,
       "name": "clamperl",
@@ -118,17 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-14T22:40:24.400Z"
-    },
-    {
-      "id": 676,
-      "name": "furfrou",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 472,
-      "grade": "R",
-      "pulledAt": "2026-11-14T18:26:31.247Z"
     }
   ],
   "pokemon": {
@@ -3366,10 +3366,10 @@
       "totalStats": 418,
       "grade": "R",
       "pulledAt": "2026-09-19T13:18:18.332Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T13:18:18.332Z",
-      "lastPulledAt": "2026-09-19T13:18:18.332Z"
+      "lastPulledAt": "2026-11-17T09:45:47.192Z"
     },
     "736": {
       "id": 736,
