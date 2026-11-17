@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 321,
-  "updatedAt": "2026-11-17T09:45:47.192Z",
+  "totalPulls": 322,
+  "updatedAt": "2026-11-17T18:46:24.740Z",
   "lastPull": {
-    "id": 735,
-    "name": "gumshoos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
+    "id": 500,
+    "name": "emboar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
     "types": [
-      "normal"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 418,
-    "grade": "R",
-    "pulledAt": "2026-11-17T09:45:47.192Z"
+    "totalStats": 528,
+    "grade": "SR",
+    "pulledAt": "2026-11-17T18:46:24.740Z"
   },
   "pulls": [
+    {
+      "id": 500,
+      "name": "emboar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T18:46:24.740Z"
+    },
     {
       "id": 735,
       "name": "gumshoos",
@@ -118,17 +131,6 @@
       "totalStats": 220,
       "grade": "N",
       "pulledAt": "2026-11-15T02:10:44.038Z"
-    },
-    {
-      "id": 614,
-      "name": "beartic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T22:40:24.400Z"
     }
   ],
   "pokemon": {
@@ -2319,6 +2321,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T16:23:01.035Z",
       "lastPulledAt": "2026-10-15T16:23:01.035Z"
+    },
+    "500": {
+      "id": 500,
+      "name": "emboar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T18:46:24.740Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T18:46:24.740Z",
+      "lastPulledAt": "2026-11-17T18:46:24.740Z"
     },
     "503": {
       "id": 503,
