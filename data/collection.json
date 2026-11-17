@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 319,
-  "updatedAt": "2026-11-16T18:04:53.447Z",
+  "totalPulls": 320,
+  "updatedAt": "2026-11-17T01:50:09.733Z",
   "lastPull": {
-    "id": 1018,
-    "name": "archaludon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
+    "id": 366,
+    "name": "clamperl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
     "types": [
-      "steel",
-      "dragon"
+      "water"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-16T18:04:53.447Z"
+    "totalStats": 345,
+    "grade": "N",
+    "pulledAt": "2026-11-17T01:50:09.733Z"
   },
   "pulls": [
+    {
+      "id": 366,
+      "name": "clamperl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-11-17T01:50:09.733Z"
+    },
     {
       "id": 1018,
       "name": "archaludon",
@@ -119,17 +129,6 @@
       "totalStats": 472,
       "grade": "R",
       "pulledAt": "2026-11-14T18:26:31.247Z"
-    },
-    {
-      "id": 67,
-      "name": "machoke",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-14T12:28:51.487Z"
     }
   ],
   "pokemon": {
@@ -1777,6 +1776,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-15T16:33:54.559Z",
       "lastPulledAt": "2026-11-15T16:33:54.559Z"
+    },
+    "366": {
+      "id": 366,
+      "name": "clamperl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-11-17T01:50:09.733Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T01:50:09.733Z",
+      "lastPulledAt": "2026-11-17T01:50:09.733Z"
     },
     "370": {
       "id": 370,
