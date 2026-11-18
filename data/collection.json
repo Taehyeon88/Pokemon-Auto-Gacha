@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 325,
-  "updatedAt": "2026-11-18T17:48:03.126Z",
+  "totalPulls": 326,
+  "updatedAt": "2026-11-18T23:37:06.516Z",
   "lastPull": {
-    "id": 104,
-    "name": "cubone",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+    "id": 459,
+    "name": "snover",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
     "types": [
-      "ground"
+      "grass",
+      "ice"
     ],
-    "totalStats": 320,
+    "totalStats": 334,
     "grade": "N",
-    "pulledAt": "2026-11-18T17:48:03.126Z"
+    "pulledAt": "2026-11-18T23:37:06.516Z"
   },
   "pulls": [
+    {
+      "id": 459,
+      "name": "snover",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-11-18T23:37:06.516Z"
+    },
     {
       "id": 104,
       "name": "cubone",
@@ -116,18 +129,6 @@
       "totalStats": 269,
       "grade": "N",
       "pulledAt": "2026-11-16T01:06:50.484Z"
-    },
-    {
-      "id": 841,
-      "name": "flapple",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-15T21:14:53.895Z"
     }
   ],
   "pokemon": {
@@ -2141,10 +2142,10 @@
       "totalStats": 334,
       "grade": "N",
       "pulledAt": "2026-10-10T12:54:18.800Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T12:54:18.800Z",
-      "lastPulledAt": "2026-10-10T12:54:18.800Z"
+      "lastPulledAt": "2026-11-18T23:37:06.516Z"
     },
     "463": {
       "id": 463,
