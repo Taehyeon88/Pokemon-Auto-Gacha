@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 324,
-  "updatedAt": "2026-11-18T08:53:25.985Z",
+  "totalPulls": 325,
+  "updatedAt": "2026-11-18T17:48:03.126Z",
   "lastPull": {
-    "id": 926,
-    "name": "fidough",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+    "id": 104,
+    "name": "cubone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
     "types": [
-      "fairy"
+      "ground"
     ],
-    "totalStats": 312,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-11-18T08:53:25.985Z"
+    "pulledAt": "2026-11-18T17:48:03.126Z"
   },
   "pulls": [
+    {
+      "id": 104,
+      "name": "cubone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-18T17:48:03.126Z"
+    },
     {
       "id": 926,
       "name": "fidough",
@@ -117,18 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-15T21:14:53.895Z"
-    },
-    {
-      "id": 363,
-      "name": "spheal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
-      "types": [
-        "ice",
-        "water"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-11-15T16:33:54.559Z"
     }
   ],
   "pokemon": {
@@ -627,6 +626,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T15:12:27.160Z",
       "lastPulledAt": "2026-10-22T15:12:27.160Z"
+    },
+    "104": {
+      "id": 104,
+      "name": "cubone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-18T17:48:03.126Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T17:48:03.126Z",
+      "lastPulledAt": "2026-11-18T17:48:03.126Z"
     },
     "107": {
       "id": 107,
