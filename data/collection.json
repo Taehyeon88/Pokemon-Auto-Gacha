@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 323,
-  "updatedAt": "2026-11-18T01:21:30.968Z",
+  "totalPulls": 324,
+  "updatedAt": "2026-11-18T08:53:25.985Z",
   "lastPull": {
-    "id": 158,
-    "name": "totodile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
+    "id": 926,
+    "name": "fidough",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
     "types": [
-      "water"
+      "fairy"
     ],
-    "totalStats": 314,
+    "totalStats": 312,
     "grade": "N",
-    "pulledAt": "2026-11-18T01:21:30.968Z"
+    "pulledAt": "2026-11-18T08:53:25.985Z"
   },
   "pulls": [
+    {
+      "id": 926,
+      "name": "fidough",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 312,
+      "grade": "N",
+      "pulledAt": "2026-11-18T08:53:25.985Z"
+    },
     {
       "id": 158,
       "name": "totodile",
@@ -118,18 +129,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-11-15T16:33:54.559Z"
-    },
-    {
-      "id": 392,
-      "name": "infernape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-11-15T09:35:19.328Z"
     }
   ],
   "pokemon": {
@@ -4089,6 +4088,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T23:57:40.506Z",
       "lastPulledAt": "2026-10-16T23:57:40.506Z"
+    },
+    "926": {
+      "id": 926,
+      "name": "fidough",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 312,
+      "grade": "N",
+      "pulledAt": "2026-11-18T08:53:25.985Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T08:53:25.985Z",
+      "lastPulledAt": "2026-11-18T08:53:25.985Z"
     },
     "931": {
       "id": 931,
