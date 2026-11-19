@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 326,
-  "updatedAt": "2026-11-18T23:37:06.516Z",
+  "totalPulls": 327,
+  "updatedAt": "2026-11-19T04:30:10.993Z",
   "lastPull": {
-    "id": 459,
-    "name": "snover",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+    "id": 728,
+    "name": "popplio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
     "types": [
-      "grass",
-      "ice"
+      "water"
     ],
-    "totalStats": 334,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-11-18T23:37:06.516Z"
+    "pulledAt": "2026-11-19T04:30:10.993Z"
   },
   "pulls": [
+    {
+      "id": 728,
+      "name": "popplio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-19T04:30:10.993Z"
+    },
     {
       "id": 459,
       "name": "snover",
@@ -117,18 +127,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-16T07:56:19.584Z"
-    },
-    {
-      "id": 751,
-      "name": "dewpider",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
-      "types": [
-        "water",
-        "bug"
-      ],
-      "totalStats": 269,
-      "grade": "N",
-      "pulledAt": "2026-11-16T01:06:50.484Z"
     }
   ],
   "pokemon": {
@@ -3385,6 +3383,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T19:52:35.167Z",
       "lastPulledAt": "2026-10-22T05:00:17.599Z"
+    },
+    "728": {
+      "id": 728,
+      "name": "popplio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-19T04:30:10.993Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T04:30:10.993Z",
+      "lastPulledAt": "2026-11-19T04:30:10.993Z"
     },
     "730": {
       "id": 730,
