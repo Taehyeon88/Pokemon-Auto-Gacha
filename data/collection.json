@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 327,
-  "updatedAt": "2026-11-19T04:30:10.993Z",
+  "totalPulls": 328,
+  "updatedAt": "2026-11-19T13:48:02.272Z",
   "lastPull": {
-    "id": 728,
-    "name": "popplio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+    "id": 992,
+    "name": "iron-hands",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
     "types": [
-      "water"
+      "fighting",
+      "electric"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-11-19T04:30:10.993Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-19T13:48:02.272Z"
   },
   "pulls": [
+    {
+      "id": 992,
+      "name": "iron-hands",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+      "types": [
+        "fighting",
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-19T13:48:02.272Z"
+    },
     {
       "id": 728,
       "name": "popplio",
@@ -115,18 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-16T18:04:53.447Z"
-    },
-    {
-      "id": 250,
-      "name": "ho-oh",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-16T07:56:19.584Z"
     }
   ],
   "pokemon": {
@@ -4290,6 +4291,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-10T11:52:10.225Z",
       "lastPulledAt": "2026-11-10T11:52:10.225Z"
+    },
+    "992": {
+      "id": 992,
+      "name": "iron-hands",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+      "types": [
+        "fighting",
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-19T13:48:02.272Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T13:48:02.272Z",
+      "lastPulledAt": "2026-11-19T13:48:02.272Z"
     },
     "996": {
       "id": 996,
