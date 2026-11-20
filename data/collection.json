@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 331,
-  "updatedAt": "2026-11-20T10:56:43.956Z",
+  "totalPulls": 332,
+  "updatedAt": "2026-11-20T19:00:03.999Z",
   "lastPull": {
-    "id": 777,
-    "name": "togedemaru",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+    "id": 502,
+    "name": "dewott",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
     "types": [
-      "electric",
-      "steel"
+      "water"
     ],
-    "totalStats": 435,
+    "totalStats": 413,
     "grade": "R",
-    "pulledAt": "2026-11-20T10:56:43.956Z"
+    "pulledAt": "2026-11-20T19:00:03.999Z"
   },
   "pulls": [
+    {
+      "id": 502,
+      "name": "dewott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-11-20T19:00:03.999Z"
+    },
     {
       "id": 777,
       "name": "togedemaru",
@@ -117,18 +127,6 @@
       "totalStats": 314,
       "grade": "N",
       "pulledAt": "2026-11-18T01:21:30.968Z"
-    },
-    {
-      "id": 500,
-      "name": "emboar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 528,
-      "grade": "SR",
-      "pulledAt": "2026-11-17T18:46:24.740Z"
     }
   ],
   "pokemon": {
@@ -2381,6 +2379,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-17T18:46:24.740Z",
       "lastPulledAt": "2026-11-17T18:46:24.740Z"
+    },
+    "502": {
+      "id": 502,
+      "name": "dewott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-11-20T19:00:03.999Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T19:00:03.999Z",
+      "lastPulledAt": "2026-11-20T19:00:03.999Z"
     },
     "503": {
       "id": 503,
