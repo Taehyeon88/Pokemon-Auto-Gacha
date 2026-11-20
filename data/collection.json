@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 330,
-  "updatedAt": "2026-11-20T02:51:09.560Z",
+  "totalPulls": 331,
+  "updatedAt": "2026-11-20T10:56:43.956Z",
   "lastPull": {
-    "id": 123,
-    "name": "scyther",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "id": 777,
+    "name": "togedemaru",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
     "types": [
-      "bug",
-      "flying"
+      "electric",
+      "steel"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-20T02:51:09.560Z"
+    "totalStats": 435,
+    "grade": "R",
+    "pulledAt": "2026-11-20T10:56:43.956Z"
   },
   "pulls": [
+    {
+      "id": 777,
+      "name": "togedemaru",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-11-20T10:56:43.956Z"
+    },
     {
       "id": 123,
       "name": "scyther",
@@ -117,17 +129,6 @@
       "totalStats": 528,
       "grade": "SR",
       "pulledAt": "2026-11-17T18:46:24.740Z"
-    },
-    {
-      "id": 735,
-      "name": "gumshoos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 418,
-      "grade": "R",
-      "pulledAt": "2026-11-17T09:45:47.192Z"
     }
   ],
   "pokemon": {
@@ -3617,6 +3618,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T17:22:34.309Z",
       "lastPulledAt": "2026-10-25T09:22:51.973Z"
+    },
+    "777": {
+      "id": 777,
+      "name": "togedemaru",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-11-20T10:56:43.956Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T10:56:43.956Z",
+      "lastPulledAt": "2026-11-20T10:56:43.956Z"
     },
     "778": {
       "id": 778,
