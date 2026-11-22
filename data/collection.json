@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 338,
-  "updatedAt": "2026-11-22T08:31:18.221Z",
+  "totalPulls": 339,
+  "updatedAt": "2026-11-22T16:36:58.870Z",
   "lastPull": {
-    "id": 289,
-    "name": "slaking",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png",
+    "id": 841,
+    "name": "flapple",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
     "types": [
-      "normal"
+      "grass",
+      "dragon"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-11-22T08:31:18.221Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-22T16:36:58.870Z"
   },
   "pulls": [
+    {
+      "id": 841,
+      "name": "flapple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-22T16:36:58.870Z"
+    },
     {
       "id": 289,
       "name": "slaking",
@@ -118,17 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-20T02:51:09.560Z"
-    },
-    {
-      "id": 977,
-      "name": "dondozo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-19T21:52:32.156Z"
     }
   ],
   "pokemon": {
@@ -3958,10 +3960,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-02T23:50:48.178Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T23:50:48.178Z",
-      "lastPulledAt": "2026-11-15T21:14:53.895Z"
+      "lastPulledAt": "2026-11-22T16:36:58.870Z"
     },
     "844": {
       "id": 844,
