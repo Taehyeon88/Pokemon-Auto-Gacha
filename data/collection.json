@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 340,
-  "updatedAt": "2026-11-22T22:01:17.615Z",
+  "totalPulls": 341,
+  "updatedAt": "2026-11-23T02:40:10.246Z",
   "lastPull": {
-    "id": 253,
-    "name": "grovyle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png",
+    "id": 943,
+    "name": "mabosstiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
     "types": [
-      "grass"
+      "dark"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-22T22:01:17.615Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-11-23T02:40:10.246Z"
   },
   "pulls": [
+    {
+      "id": 943,
+      "name": "mabosstiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T02:40:10.246Z"
+    },
     {
       "id": 253,
       "name": "grovyle",
@@ -117,18 +128,6 @@
       "totalStats": 413,
       "grade": "R",
       "pulledAt": "2026-11-20T19:00:03.999Z"
-    },
-    {
-      "id": 777,
-      "name": "togedemaru",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
-      "types": [
-        "electric",
-        "steel"
-      ],
-      "totalStats": 435,
-      "grade": "R",
-      "pulledAt": "2026-11-20T10:56:43.956Z"
     }
   ],
   "pokemon": {
@@ -4274,6 +4273,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-22T01:24:30.820Z",
       "lastPulledAt": "2026-11-22T01:24:30.820Z"
+    },
+    "943": {
+      "id": 943,
+      "name": "mabosstiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T02:40:10.246Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T02:40:10.246Z",
+      "lastPulledAt": "2026-11-23T02:40:10.246Z"
     },
     "954": {
       "id": 954,
