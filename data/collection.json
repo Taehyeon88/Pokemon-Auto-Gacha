@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 341,
-  "updatedAt": "2026-11-23T02:40:10.246Z",
+  "totalPulls": 342,
+  "updatedAt": "2026-11-23T11:17:05.901Z",
   "lastPull": {
-    "id": 943,
-    "name": "mabosstiff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+    "id": 786,
+    "name": "tapu-lele",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
     "types": [
-      "dark"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 505,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-11-23T02:40:10.246Z"
+    "pulledAt": "2026-11-23T11:17:05.901Z"
   },
   "pulls": [
+    {
+      "id": 786,
+      "name": "tapu-lele",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T11:17:05.901Z"
+    },
     {
       "id": 943,
       "name": "mabosstiff",
@@ -117,17 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-21T00:45:10.594Z"
-    },
-    {
-      "id": 502,
-      "name": "dewott",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 413,
-      "grade": "R",
-      "pulledAt": "2026-11-20T19:00:03.999Z"
     }
   ],
   "pokemon": {
@@ -3774,6 +3776,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T00:24:18.459Z",
       "lastPulledAt": "2026-09-29T00:24:18.459Z"
+    },
+    "786": {
+      "id": 786,
+      "name": "tapu-lele",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T11:17:05.901Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T11:17:05.901Z",
+      "lastPulledAt": "2026-11-23T11:17:05.901Z"
     },
     "793": {
       "id": 793,
