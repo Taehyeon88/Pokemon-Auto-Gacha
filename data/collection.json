@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 344,
-  "updatedAt": "2026-11-24T06:28:51.777Z",
+  "totalPulls": 345,
+  "updatedAt": "2026-11-24T18:10:29.346Z",
   "lastPull": {
-    "id": 21,
-    "name": "spearow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+    "id": 594,
+    "name": "alomomola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
     "types": [
-      "normal",
-      "flying"
+      "water"
     ],
-    "totalStats": 262,
-    "grade": "N",
-    "pulledAt": "2026-11-24T06:28:51.777Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-11-24T18:10:29.346Z"
   },
   "pulls": [
+    {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-24T18:10:29.346Z"
+    },
     {
       "id": 21,
       "name": "spearow",
@@ -118,18 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-21T21:10:52.377Z"
-    },
-    {
-      "id": 845,
-      "name": "cramorant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
-      "types": [
-        "flying",
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-11-21T15:39:37.954Z"
     }
   ],
   "pokemon": {
@@ -2841,6 +2839,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T10:53:03.656Z",
       "lastPulledAt": "2026-10-23T15:26:40.172Z"
+    },
+    "594": {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-24T18:10:29.346Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T18:10:29.346Z",
+      "lastPulledAt": "2026-11-24T18:10:29.346Z"
     },
     "597": {
       "id": 597,
