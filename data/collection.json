@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 348,
-  "updatedAt": "2026-11-25T20:41:28.850Z",
+  "totalPulls": 349,
+  "updatedAt": "2026-11-26T03:12:31.890Z",
   "lastPull": {
-    "id": 100,
-    "name": "voltorb",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "id": 24,
+    "name": "arbok",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
     "types": [
-      "electric"
+      "poison"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-11-25T20:41:28.850Z"
+    "totalStats": 448,
+    "grade": "R",
+    "pulledAt": "2026-11-26T03:12:31.890Z"
   },
   "pulls": [
+    {
+      "id": 24,
+      "name": "arbok",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-11-26T03:12:31.890Z"
+    },
     {
       "id": 100,
       "name": "voltorb",
@@ -116,18 +127,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-22T22:01:17.615Z"
-    },
-    {
-      "id": 841,
-      "name": "flapple",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-22T16:36:58.870Z"
     }
   ],
   "pokemon": {
@@ -303,6 +302,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T16:57:15.425Z",
       "lastPulledAt": "2026-09-23T16:57:15.425Z"
+    },
+    "24": {
+      "id": 24,
+      "name": "arbok",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-11-26T03:12:31.890Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T03:12:31.890Z",
+      "lastPulledAt": "2026-11-26T03:12:31.890Z"
     },
     "29": {
       "id": 29,
