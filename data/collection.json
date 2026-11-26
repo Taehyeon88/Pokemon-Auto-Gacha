@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 349,
-  "updatedAt": "2026-11-26T03:12:31.890Z",
+  "totalPulls": 350,
+  "updatedAt": "2026-11-26T12:50:08.856Z",
   "lastPull": {
-    "id": 24,
-    "name": "arbok",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "id": 739,
+    "name": "crabrawler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
     "types": [
-      "poison"
+      "fighting"
     ],
-    "totalStats": 448,
-    "grade": "R",
-    "pulledAt": "2026-11-26T03:12:31.890Z"
+    "totalStats": 338,
+    "grade": "N",
+    "pulledAt": "2026-11-26T12:50:08.856Z"
   },
   "pulls": [
+    {
+      "id": 739,
+      "name": "crabrawler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 338,
+      "grade": "N",
+      "pulledAt": "2026-11-26T12:50:08.856Z"
+    },
     {
       "id": 24,
       "name": "arbok",
@@ -116,17 +127,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-23T02:40:10.246Z"
-    },
-    {
-      "id": 253,
-      "name": "grovyle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-22T22:01:17.615Z"
     }
   ],
   "pokemon": {
@@ -3594,10 +3594,10 @@
       "totalStats": 338,
       "grade": "N",
       "pulledAt": "2026-10-08T22:17:49.771Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T22:17:49.771Z",
-      "lastPulledAt": "2026-10-08T22:17:49.771Z"
+      "lastPulledAt": "2026-11-26T12:50:08.856Z"
     },
     "747": {
       "id": 747,
