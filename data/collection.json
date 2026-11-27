@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 353,
-  "updatedAt": "2026-11-27T13:46:28.061Z",
+  "totalPulls": 354,
+  "updatedAt": "2026-11-27T22:22:47.497Z",
   "lastPull": {
-    "id": 955,
-    "name": "flittle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
+    "id": 24,
+    "name": "arbok",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
     "types": [
-      "psychic"
+      "poison"
     ],
-    "totalStats": 255,
-    "grade": "N",
-    "pulledAt": "2026-11-27T13:46:28.061Z"
+    "totalStats": 448,
+    "grade": "R",
+    "pulledAt": "2026-11-27T22:22:47.497Z"
   },
   "pulls": [
+    {
+      "id": 24,
+      "name": "arbok",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-11-27T22:22:47.497Z"
+    },
     {
       "id": 955,
       "name": "flittle",
@@ -113,18 +124,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-24T18:10:29.346Z"
-    },
-    {
-      "id": 21,
-      "name": "spearow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 262,
-      "grade": "N",
-      "pulledAt": "2026-11-24T06:28:51.777Z"
     }
   ],
   "pokemon": {
@@ -311,10 +310,10 @@
       "totalStats": 448,
       "grade": "R",
       "pulledAt": "2026-11-26T03:12:31.890Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-26T03:12:31.890Z",
-      "lastPulledAt": "2026-11-26T03:12:31.890Z"
+      "lastPulledAt": "2026-11-27T22:22:47.497Z"
     },
     "29": {
       "id": 29,
